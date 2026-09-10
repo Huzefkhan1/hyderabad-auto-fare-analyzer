@@ -1,0 +1,2001 @@
+pickup,drop,distance_km,hour,is_peak,is_night,base_fare,surge_multiplier,final_fare,traffic_delay_min
+Dilsukhnagar,Ameerpet,17.19,10,0,0,240.3625,1.0,240.36,7.8
+Kondapur,Banjara Hills,8.86,22,0,0,125.825,1.0,125.83,0.6
+Banjara Hills,Kondapur,11.42,23,0,1,161.025,1.0,241.54,6.5
+Kondapur,Kukatpally,13.41,5,0,0,188.38750000000002,1.0,188.39,0.0
+Ameerpet,Secunderabad,11.69,21,0,0,164.7375,1.0,164.74,0.1
+Gachibowli,Kukatpally,10.16,9,1,0,143.7,1.2279993979281691,176.46,24.3
+Dilsukhnagar,Secunderabad,3.0,18,1,0,45.25,1.4294771947602976,64.68,24.6
+Gachibowli,Ameerpet,15.69,6,0,0,219.7375,1.0,219.74,1.7
+Dilsukhnagar,Kukatpally,17.16,13,0,0,239.95000000000002,1.0,239.95,8.1
+Gachibowli,Mehdipatnam,3.11,19,1,0,46.762499999999996,1.344615279615607,62.88,17.1
+Ameerpet,Secunderabad,15.25,2,0,1,213.6875,1.0,320.53,9.1
+Ameerpet,Kukatpally,12.43,1,0,1,174.9125,1.0,262.37,4.3
+Secunderabad,Kukatpally,10.87,17,0,0,153.46249999999998,1.0,153.46,7.8
+Kukatpally,Mehdipatnam,16.26,13,0,0,227.57500000000002,1.0,227.58,7.3
+Dilsukhnagar,Secunderabad,4.73,7,0,0,69.0375,1.0,69.04,8.4
+Kondapur,Kukatpally,10.4,23,0,1,147.0,1.0,220.5,3.6
+Ameerpet,Kondapur,10.45,8,1,0,147.6875,1.3777641034224495,203.48,4.1
+Gachibowli,Banjara Hills,8.49,0,0,1,120.73750000000001,1.0,181.11,2.0
+Banjara Hills,Dilsukhnagar,14.96,16,0,0,209.70000000000002,1.0,209.7,7.1
+Mehdipatnam,Gachibowli,11.5,9,1,0,162.125,1.4150794371265636,229.42,2.9
+Dilsukhnagar,Gachibowli,11.78,1,0,1,165.975,1.0,248.96,1.0
+Dilsukhnagar,Banjara Hills,12.54,4,0,1,176.42499999999998,1.0,264.64,7.3
+Banjara Hills,Secunderabad,16.14,0,0,1,225.925,1.0,338.89,3.8
+Dilsukhnagar,Secunderabad,15.51,4,0,1,217.2625,1.0,325.89,5.6
+Dilsukhnagar,Secunderabad,9.65,8,1,0,136.6875,1.6263977338114723,222.31,2.8
+Ameerpet,Secunderabad,4.83,6,0,0,70.4125,1.0,70.41,4.8
+Kondapur,Ameerpet,16.47,22,0,0,230.46249999999998,1.0,230.46,6.0
+Dilsukhnagar,Mehdipatnam,4.85,12,0,0,70.6875,1.0,70.69,0.8
+Mehdipatnam,Ameerpet,4.16,1,0,1,61.2,1.0,91.8,6.2
+Secunderabad,Gachibowli,3.24,11,0,0,48.55,1.0,48.55,1.9
+Secunderabad,Dilsukhnagar,10.4,22,0,0,147.0,1.0,147.0,9.0
+Dilsukhnagar,Secunderabad,3.32,19,1,0,49.64999999999999,1.4115413138005013,70.08,7.6
+Secunderabad,Mehdipatnam,8.39,4,0,1,119.36250000000001,1.0,179.04,6.9
+Kukatpally,Kondapur,5.53,21,0,0,80.0375,1.0,80.04,2.2
+Banjara Hills,Gachibowli,8.16,16,0,0,116.2,1.0,116.2,2.5
+Ameerpet,Dilsukhnagar,12.99,2,0,1,182.6125,1.0,273.92,3.0
+Gachibowli,Kukatpally,5.9,1,0,1,85.125,1.0,127.69,5.0
+Secunderabad,Banjara Hills,6.1,0,0,1,87.875,1.0,131.81,6.3
+Secunderabad,Kukatpally,10.26,5,0,0,145.075,1.0,145.07,2.4
+Ameerpet,Banjara Hills,14.07,16,0,0,197.4625,1.0,197.46,7.3
+Banjara Hills,Kondapur,11.93,5,0,0,168.0375,1.0,168.04,4.0
+Dilsukhnagar,Gachibowli,3.99,5,0,0,58.862500000000004,1.0,58.86,7.0
+Mehdipatnam,Kondapur,6.88,3,0,1,98.6,1.0,147.9,0.2
+Mehdipatnam,Banjara Hills,5.24,6,0,0,76.05000000000001,1.0,76.05,1.7
+Gachibowli,Banjara Hills,16.96,0,0,1,237.20000000000002,1.0,355.8,6.8
+Gachibowli,Kukatpally,4.95,9,1,0,72.0625,1.3547649766290935,97.63,16.5
+Kukatpally,Gachibowli,10.02,16,0,0,141.775,1.0,141.78,2.4
+Banjara Hills,Secunderabad,16.3,4,0,1,228.12500000000003,1.0,342.19,8.8
+Dilsukhnagar,Gachibowli,6.1,18,1,0,87.875,1.6355734073221435,143.73,22.4
+Banjara Hills,Secunderabad,14.37,23,0,1,201.5875,1.0,302.38,8.5
+Gachibowli,Kondapur,16.33,19,1,0,228.5375,1.5484119728618728,353.87,9.3
+Gachibowli,Ameerpet,17.57,17,0,0,245.5875,1.0,245.59,1.6
+Kukatpally,Mehdipatnam,12.92,15,0,0,181.65,1.0,181.65,9.9
+Ameerpet,Gachibowli,1.8,13,0,0,28.75,1.0,28.75,3.3
+Ameerpet,Banjara Hills,13.4,0,0,1,188.25,1.0,282.38,5.4
+Mehdipatnam,Ameerpet,12.0,21,0,0,169.0,1.0,169.0,2.4
+Secunderabad,Dilsukhnagar,7.99,21,0,0,113.86250000000001,1.0,113.86,9.1
+Mehdipatnam,Kukatpally,7.28,0,0,1,104.1,1.0,156.15,5.8
+Banjara Hills,Gachibowli,4.72,15,0,0,68.9,1.0,68.9,2.8
+Mehdipatnam,Gachibowli,2.22,11,0,0,34.525000000000006,1.0,34.53,9.4
+Kondapur,Dilsukhnagar,16.6,2,0,1,232.25000000000003,1.0,348.38,7.5
+Kondapur,Secunderabad,8.57,20,1,0,121.8375,1.543375481502503,188.04,24.5
+Ameerpet,Banjara Hills,6.54,22,0,0,93.925,1.0,93.92,2.7
+Mehdipatnam,Kukatpally,10.69,21,0,0,150.9875,1.0,150.99,7.0
+Banjara Hills,Secunderabad,3.1,14,0,0,46.625,1.0,46.62,9.9
+Kukatpally,Banjara Hills,10.05,1,0,1,142.1875,1.0,213.28,3.2
+Banjara Hills,Gachibowli,3.75,21,0,0,55.5625,1.0,55.56,3.6
+Kondapur,Kukatpally,14.85,2,0,1,208.1875,1.0,312.28,2.6
+Banjara Hills,Kondapur,2.85,6,0,0,43.1875,1.0,43.19,5.0
+Kondapur,Ameerpet,12.22,13,0,0,172.025,1.0,172.03,8.0
+Ameerpet,Mehdipatnam,7.08,1,0,1,101.35000000000001,1.0,152.03,0.9
+Dilsukhnagar,Banjara Hills,2.09,21,0,0,32.7375,1.0,32.74,5.9
+Secunderabad,Gachibowli,2.12,5,0,0,33.15,1.0,33.15,3.0
+Mehdipatnam,Kondapur,6.89,7,0,0,98.73749999999998,1.0,98.74,7.7
+Ameerpet,Kondapur,11.78,3,0,1,165.975,1.0,248.96,8.4
+Banjara Hills,Ameerpet,8.29,2,0,1,117.9875,1.0,176.98,6.4
+Ameerpet,Secunderabad,17.5,9,1,0,244.625,1.3937738837647475,340.95,19.9
+Dilsukhnagar,Mehdipatnam,8.74,22,0,0,124.17500000000001,1.0,124.18,2.5
+Kukatpally,Secunderabad,2.83,8,1,0,42.9125,1.61309994045922,69.22,1.5
+Kukatpally,Gachibowli,8.8,21,0,0,125.00000000000001,1.0,125.0,7.1
+Banjara Hills,Kondapur,6.12,15,0,0,88.14999999999999,1.0,88.15,5.2
+Banjara Hills,Dilsukhnagar,8.69,22,0,0,123.4875,1.0,123.49,0.5
+Kukatpally,Ameerpet,14.0,13,0,0,196.5,1.0,196.5,0.9
+Dilsukhnagar,Gachibowli,6.64,19,1,0,95.29999999999998,1.305198161933603,124.39,0.4
+Kukatpally,Secunderabad,9.31,0,0,1,132.01250000000002,1.0,198.02,4.6
+Kondapur,Banjara Hills,2.29,21,0,0,35.4875,1.0,35.49,6.4
+Kukatpally,Kondapur,7.68,18,1,0,109.6,1.5018817551480526,164.61,21.4
+Kondapur,Secunderabad,4.19,23,0,1,61.612500000000004,1.0,92.42,9.4
+Kukatpally,Gachibowli,15.81,19,1,0,221.38750000000002,1.5452845067255274,342.11,9.7
+Ameerpet,Gachibowli,9.06,18,1,0,128.57500000000002,1.6923836854463732,217.6,15.6
+Gachibowli,Kukatpally,12.25,10,0,0,172.4375,1.0,172.44,2.0
+Kondapur,Ameerpet,3.16,1,0,1,47.45,1.0,71.18,0.4
+Kukatpally,Ameerpet,7.05,7,0,0,100.93749999999999,1.0,100.94,3.9
+Kukatpally,Mehdipatnam,7.12,18,1,0,101.89999999999999,1.3691128648640398,139.51,3.0
+Kondapur,Kukatpally,11.88,23,0,1,167.35000000000002,1.0,251.03,7.4
+Kondapur,Secunderabad,6.15,9,1,0,88.5625,1.454082565384871,128.78,14.2
+Mehdipatnam,Gachibowli,13.57,3,0,1,190.5875,1.0,285.88,3.7
+Dilsukhnagar,Banjara Hills,16.86,4,0,1,235.825,1.0,353.74,2.4
+Dilsukhnagar,Kondapur,13.71,2,0,1,192.51250000000002,1.0,288.77,1.0
+Gachibowli,Kukatpally,9.84,15,0,0,139.3,1.0,139.3,3.9
+Kondapur,Mehdipatnam,3.15,3,0,1,47.3125,1.0,70.97,0.1
+Gachibowli,Ameerpet,3.01,6,0,0,45.387499999999996,1.0,45.39,9.6
+Dilsukhnagar,Ameerpet,10.96,14,0,0,154.70000000000002,1.0,154.7,0.8
+Kondapur,Mehdipatnam,11.44,19,1,0,161.3,1.603511073646223,258.65,18.8
+Dilsukhnagar,Gachibowli,3.37,20,1,0,50.3375,1.4966521828215489,75.34,1.4
+Dilsukhnagar,Kukatpally,8.79,22,0,0,124.8625,1.0,124.86,5.5
+Mehdipatnam,Kukatpally,17.48,8,1,0,244.35000000000002,1.6569063790304834,404.87,15.5
+Kondapur,Dilsukhnagar,2.89,12,0,0,43.7375,1.0,43.74,2.2
+Gachibowli,Mehdipatnam,16.22,1,0,1,227.02499999999998,1.0,340.54,0.8
+Kondapur,Dilsukhnagar,17.78,15,0,0,248.475,1.0,248.47,8.6
+Secunderabad,Ameerpet,5.41,6,0,0,78.3875,1.0,78.39,9.9
+Ameerpet,Kondapur,7.71,18,1,0,110.01249999999999,1.666288149556462,183.31,14.0
+Mehdipatnam,Kukatpally,16.45,6,0,0,230.1875,1.0,230.19,4.3
+Kondapur,Secunderabad,8.19,19,1,0,116.6125,1.2712907497608432,148.25,2.9
+Gachibowli,Banjara Hills,13.81,12,0,0,193.88750000000002,1.0,193.89,2.4
+Gachibowli,Banjara Hills,9.38,23,0,1,132.97500000000002,1.0,199.46,5.3
+Kondapur,Dilsukhnagar,14.73,12,0,0,206.53750000000002,1.0,206.54,9.7
+Kondapur,Banjara Hills,16.2,21,0,0,226.75,1.0,226.75,9.2
+Ameerpet,Secunderabad,5.67,18,1,0,81.9625,1.7815815213714594,146.02,13.1
+Gachibowli,Kukatpally,12.98,0,0,1,182.47500000000002,1.0,273.71,6.3
+Secunderabad,Mehdipatnam,16.37,10,0,0,229.0875,1.0,229.09,2.8
+Banjara Hills,Secunderabad,9.02,20,1,0,128.025,1.3664287097886796,174.94,4.7
+Kukatpally,Mehdipatnam,5.29,4,0,1,76.7375,1.0,115.11,9.7
+Banjara Hills,Mehdipatnam,13.02,16,0,0,183.025,1.0,183.03,2.8
+Kondapur,Ameerpet,11.45,15,0,0,161.4375,1.0,161.44,1.6
+Secunderabad,Mehdipatnam,15.07,17,0,0,211.2125,1.0,211.21,4.2
+Kondapur,Banjara Hills,16.67,9,1,0,233.21250000000003,1.7596370900124079,410.37,21.7
+Kondapur,Secunderabad,1.94,0,0,1,30.674999999999997,1.0,46.01,7.8
+Kukatpally,Banjara Hills,3.98,20,1,0,58.725,1.6497469799856432,96.88,9.8
+Mehdipatnam,Ameerpet,10.89,0,0,1,153.7375,1.0,230.61,4.7
+Mehdipatnam,Banjara Hills,6.01,15,0,0,86.6375,1.0,86.64,0.8
+Ameerpet,Gachibowli,10.32,4,0,1,145.9,1.0,218.85,10.0
+Kondapur,Banjara Hills,14.19,4,0,1,199.1125,1.0,298.67,7.6
+Mehdipatnam,Gachibowli,5.48,8,1,0,79.35,1.2774956490908969,101.37,23.9
+Kondapur,Ameerpet,5.27,16,0,0,76.46249999999999,1.0,76.46,7.6
+Kukatpally,Kondapur,5.93,6,0,0,85.5375,1.0,85.54,6.7
+Kukatpally,Dilsukhnagar,14.24,17,0,0,199.8,1.0,199.8,8.5
+Secunderabad,Ameerpet,10.76,16,0,0,151.95,1.0,151.95,1.3
+Dilsukhnagar,Banjara Hills,13.96,20,1,0,195.95000000000002,1.5836168141845455,310.31,20.1
+Dilsukhnagar,Secunderabad,11.68,1,0,1,164.6,1.0,246.9,3.5
+Kukatpally,Mehdipatnam,7.97,18,1,0,113.58749999999999,1.742495216696249,197.93,8.7
+Secunderabad,Gachibowli,14.43,22,0,0,202.4125,1.0,202.41,5.2
+Gachibowli,Secunderabad,14.64,9,1,0,205.3,1.7559525750968967,360.5,12.3
+Ameerpet,Kondapur,9.08,1,0,1,128.85000000000002,1.0,193.28,6.2
+Kukatpally,Secunderabad,4.95,10,0,0,72.0625,1.0,72.06,2.4
+Mehdipatnam,Banjara Hills,3.63,22,0,0,53.912499999999994,1.0,53.91,5.8
+Mehdipatnam,Dilsukhnagar,13.01,3,0,1,182.8875,1.0,274.33,1.8
+Banjara Hills,Gachibowli,16.3,2,0,1,228.12500000000003,1.0,342.19,5.2
+Banjara Hills,Kukatpally,11.43,18,1,0,161.1625,1.2245211697598872,197.35,4.2
+Ameerpet,Kukatpally,4.42,20,1,0,64.775,1.529229185524445,99.06,13.4
+Ameerpet,Kukatpally,16.25,16,0,0,227.4375,1.0,227.44,5.0
+Kondapur,Mehdipatnam,2.15,14,0,0,33.5625,1.0,33.56,6.3
+Dilsukhnagar,Secunderabad,4.09,15,0,0,60.2375,1.0,60.24,0.6
+Kukatpally,Kondapur,14.8,16,0,0,207.50000000000003,1.0,207.5,6.0
+Ameerpet,Banjara Hills,10.35,23,0,1,146.3125,1.0,219.47,4.8
+Kukatpally,Kondapur,7.59,23,0,1,108.3625,1.0,162.54,7.2
+Kukatpally,Dilsukhnagar,3.94,18,1,0,58.175,1.6280097515307315,94.71,22.4
+Secunderabad,Mehdipatnam,10.28,12,0,0,145.35,1.0,145.35,8.7
+Secunderabad,Mehdipatnam,8.05,22,0,0,114.68750000000001,1.0,114.69,3.8
+Kukatpally,Banjara Hills,6.81,6,0,0,97.63749999999999,1.0,97.64,0.9
+Secunderabad,Ameerpet,5.35,12,0,0,77.5625,1.0,77.56,5.9
+Ameerpet,Kukatpally,14.52,12,0,0,203.65,1.0,203.65,4.8
+Ameerpet,Banjara Hills,13.66,14,0,0,191.82500000000002,1.0,191.83,7.5
+Gachibowli,Kondapur,3.61,8,1,0,53.637499999999996,1.402468100323151,75.22,22.5
+Banjara Hills,Kukatpally,5.53,12,0,0,80.0375,1.0,80.04,3.3
+Gachibowli,Kukatpally,1.62,20,1,0,26.275,1.2917154835105993,33.94,6.1
+Ameerpet,Dilsukhnagar,4.58,23,0,1,66.975,1.0,100.46,9.0
+Dilsukhnagar,Mehdipatnam,10.15,7,0,0,143.5625,1.0,143.56,7.0
+Banjara Hills,Dilsukhnagar,16.29,19,1,0,227.98749999999998,1.7816822599652213,406.2,21.6
+Secunderabad,Dilsukhnagar,5.76,23,0,1,83.2,1.0,124.8,7.2
+Secunderabad,Gachibowli,13.35,10,0,0,187.5625,1.0,187.56,5.7
+Mehdipatnam,Secunderabad,14.2,5,0,0,199.25,1.0,199.25,9.7
+Ameerpet,Mehdipatnam,4.79,19,1,0,69.8625,1.345445839449048,94.0,2.9
+Kukatpally,Dilsukhnagar,6.26,4,0,1,90.075,1.0,135.11,5.1
+Dilsukhnagar,Ameerpet,6.79,2,0,1,97.3625,1.0,146.04,0.5
+Kukatpally,Mehdipatnam,10.55,9,1,0,149.0625,1.7939761394339673,267.41,8.1
+Kukatpally,Kondapur,5.7,4,0,1,82.375,1.0,123.56,0.0
+Gachibowli,Ameerpet,9.31,5,0,0,132.01250000000002,1.0,132.01,4.1
+Secunderabad,Banjara Hills,16.84,11,0,0,235.55,1.0,235.55,4.1
+Kondapur,Mehdipatnam,16.98,11,0,0,237.47500000000002,1.0,237.48,3.8
+Gachibowli,Dilsukhnagar,2.29,7,0,0,35.4875,1.0,35.49,8.3
+Kondapur,Dilsukhnagar,14.69,2,0,1,205.9875,1.0,308.98,1.6
+Kondapur,Mehdipatnam,12.48,3,0,1,175.60000000000002,1.0,263.4,3.2
+Kukatpally,Gachibowli,12.77,7,0,0,179.5875,1.0,179.59,4.4
+Secunderabad,Mehdipatnam,11.8,0,0,1,166.25000000000003,1.0,249.38,7.5
+Dilsukhnagar,Gachibowli,5.33,0,0,1,77.2875,1.0,115.93,3.9
+Kukatpally,Dilsukhnagar,2.6,7,0,0,39.75,1.0,39.75,6.2
+Mehdipatnam,Dilsukhnagar,17.01,6,0,0,237.88750000000002,1.0,237.89,7.3
+Kukatpally,Kondapur,14.6,0,0,1,204.75,1.0,307.12,5.3
+Dilsukhnagar,Mehdipatnam,14.51,5,0,0,203.5125,1.0,203.51,7.5
+Kondapur,Secunderabad,14.35,0,0,1,201.3125,1.0,301.97,0.3
+Secunderabad,Kukatpally,14.08,9,1,0,197.6,1.4052490492295444,277.68,20.5
+Dilsukhnagar,Banjara Hills,15.47,23,0,1,216.7125,1.0,325.07,6.0
+Dilsukhnagar,Kondapur,10.41,14,0,0,147.1375,1.0,147.14,4.1
+Kondapur,Kukatpally,1.7,18,1,0,27.375,1.6163690666802601,44.25,13.6
+Mehdipatnam,Ameerpet,7.2,10,0,0,103.0,1.0,103.0,9.6
+Banjara Hills,Secunderabad,5.25,22,0,0,76.1875,1.0,76.19,4.6
+Secunderabad,Mehdipatnam,4.03,12,0,0,59.4125,1.0,59.41,1.4
+Kukatpally,Gachibowli,5.72,7,0,0,82.64999999999999,1.0,82.65,8.7
+Ameerpet,Kondapur,10.82,3,0,1,152.775,1.0,229.16,7.9
+Kondapur,Banjara Hills,4.02,8,1,0,59.27499999999999,1.4544784027814317,86.21,18.4
+Banjara Hills,Gachibowli,16.77,22,0,0,234.5875,1.0,234.59,1.2
+Kondapur,Secunderabad,4.23,3,0,1,62.1625,1.0,93.24,1.2
+Gachibowli,Kukatpally,15.85,22,0,0,221.9375,1.0,221.94,2.3
+Dilsukhnagar,Kondapur,7.76,20,1,0,110.7,1.4011183449875406,155.1,20.1
+Kondapur,Kukatpally,7.0,19,1,0,100.25,1.5224373617627538,152.62,23.0
+Kukatpally,Banjara Hills,7.22,1,0,1,103.27499999999999,1.0,154.91,9.2
+Banjara Hills,Mehdipatnam,2.04,18,1,0,32.05,1.3489358656542911,43.23,14.4
+Ameerpet,Dilsukhnagar,2.06,0,0,1,32.325,1.0,48.49,3.6
+Dilsukhnagar,Mehdipatnam,11.93,17,0,0,168.0375,1.0,168.04,6.6
+Dilsukhnagar,Gachibowli,17.36,16,0,0,242.7,1.0,242.7,5.6
+Secunderabad,Ameerpet,10.33,7,0,0,146.03750000000002,1.0,146.04,5.0
+Gachibowli,Secunderabad,8.06,18,1,0,114.82500000000002,1.3259433558573515,152.25,22.5
+Banjara Hills,Secunderabad,4.65,12,0,0,67.9375,1.0,67.94,3.8
+Banjara Hills,Mehdipatnam,2.58,13,0,0,39.475,1.0,39.48,7.1
+Kukatpally,Mehdipatnam,10.32,16,0,0,145.9,1.0,145.9,4.0
+Secunderabad,Mehdipatnam,4.06,0,0,1,59.824999999999996,1.0,89.74,3.3
+Dilsukhnagar,Banjara Hills,13.93,9,1,0,195.5375,1.3624468038861322,266.41,16.1
+Ameerpet,Gachibowli,1.92,17,0,0,30.4,1.0,30.4,8.7
+Banjara Hills,Gachibowli,10.6,2,0,1,149.75,1.0,224.62,2.3
+Mehdipatnam,Banjara Hills,1.83,21,0,0,29.1625,1.0,29.16,3.4
+Kondapur,Mehdipatnam,16.14,14,0,0,225.925,1.0,225.93,7.2
+Mehdipatnam,Dilsukhnagar,11.45,13,0,0,161.4375,1.0,161.44,8.3
+Ameerpet,Kondapur,12.52,20,1,0,176.15,1.4438353849641132,254.33,8.1
+Kukatpally,Banjara Hills,11.95,0,0,1,168.3125,1.0,252.47,2.1
+Mehdipatnam,Secunderabad,15.96,17,0,0,223.45000000000002,1.0,223.45,8.9
+Dilsukhnagar,Kondapur,7.14,9,1,0,102.17499999999998,1.6950643988535958,173.19,9.1
+Dilsukhnagar,Ameerpet,15.21,4,0,1,213.13750000000002,1.0,319.71,4.1
+Secunderabad,Gachibowli,8.7,11,0,0,123.625,1.0,123.62,2.2
+Kukatpally,Dilsukhnagar,14.37,16,0,0,201.5875,1.0,201.59,8.7
+Banjara Hills,Mehdipatnam,16.26,16,0,0,227.57500000000002,1.0,227.58,4.8
+Gachibowli,Dilsukhnagar,13.74,1,0,1,192.925,1.0,289.39,6.3
+Dilsukhnagar,Gachibowli,3.8,10,0,0,56.25,1.0,56.25,4.2
+Kukatpally,Mehdipatnam,16.36,1,0,1,228.95,1.0,343.42,2.7
+Mehdipatnam,Dilsukhnagar,16.59,20,1,0,232.1125,1.6890326570414742,392.05,12.5
+Kukatpally,Gachibowli,8.19,5,0,0,116.6125,1.0,116.61,8.3
+Dilsukhnagar,Kondapur,1.68,20,1,0,27.099999999999998,1.35821028158077,36.81,6.7
+Mehdipatnam,Kukatpally,11.41,20,1,0,160.88750000000002,1.3052227671740697,209.99,22.9
+Kukatpally,Secunderabad,7.82,13,0,0,111.525,1.0,111.53,0.5
+Ameerpet,Dilsukhnagar,13.68,18,1,0,192.1,1.2542021763465647,240.93,19.3
+Kondapur,Secunderabad,15.31,10,0,0,214.51250000000002,1.0,214.51,3.6
+Gachibowli,Ameerpet,6.4,2,0,1,92.00000000000001,1.0,138.0,9.5
+Dilsukhnagar,Banjara Hills,17.24,21,0,0,241.04999999999998,1.0,241.05,7.3
+Gachibowli,Mehdipatnam,2.01,19,1,0,31.637499999999996,1.2972083267349508,41.04,21.0
+Gachibowli,Dilsukhnagar,17.26,10,0,0,241.32500000000002,1.0,241.33,3.3
+Kukatpally,Mehdipatnam,3.26,8,1,0,48.824999999999996,1.4109240966805312,68.89,10.3
+Kondapur,Mehdipatnam,11.37,6,0,0,160.3375,1.0,160.34,0.8
+Kukatpally,Secunderabad,1.54,18,1,0,26.0,1.3632870823379777,35.45,14.8
+Mehdipatnam,Secunderabad,3.01,16,0,0,45.387499999999996,1.0,45.39,1.4
+Kukatpally,Gachibowli,8.86,14,0,0,125.825,1.0,125.83,0.9
+Banjara Hills,Mehdipatnam,13.58,20,1,0,190.725,1.65542150732331,315.73,18.1
+Banjara Hills,Secunderabad,17.68,17,0,0,247.09999999999997,1.0,247.1,4.9
+Dilsukhnagar,Mehdipatnam,17.8,12,0,0,248.75,1.0,248.75,6.7
+Banjara Hills,Kukatpally,11.21,16,0,0,158.13750000000002,1.0,158.14,1.8
+Kondapur,Dilsukhnagar,16.61,13,0,0,232.3875,1.0,232.39,1.2
+Dilsukhnagar,Gachibowli,4.68,7,0,0,68.35,1.0,68.35,9.7
+Dilsukhnagar,Kondapur,9.32,19,1,0,132.15,1.7067296391210423,225.54,8.0
+Kukatpally,Banjara Hills,2.11,23,0,1,33.012499999999996,1.0,49.52,2.3
+Ameerpet,Secunderabad,2.77,4,0,1,42.0875,1.0,63.13,5.3
+Kukatpally,Banjara Hills,8.17,6,0,0,116.3375,1.0,116.34,3.2
+Gachibowli,Kondapur,14.55,12,0,0,204.06250000000003,1.0,204.06,6.3
+Banjara Hills,Kondapur,11.66,1,0,1,164.32500000000002,1.0,246.49,0.2
+Kukatpally,Mehdipatnam,1.85,22,0,0,29.4375,1.0,29.44,1.9
+Kukatpally,Ameerpet,2.66,13,0,0,40.575,1.0,40.58,3.5
+Secunderabad,Gachibowli,8.13,20,1,0,115.78750000000002,1.487868796113903,172.28,14.5
+Ameerpet,Banjara Hills,8.07,6,0,0,114.9625,1.0,114.96,5.2
+Gachibowli,Dilsukhnagar,1.56,12,0,0,26.0,1.0,26.0,3.5
+Secunderabad,Kukatpally,6.39,4,0,1,91.86249999999998,1.0,137.79,0.4
+Gachibowli,Secunderabad,17.8,8,1,0,248.75,1.2656805592074691,314.84,9.8
+Ameerpet,Kondapur,17.28,4,0,1,241.60000000000002,1.0,362.4,7.9
+Mehdipatnam,Kondapur,8.39,23,0,1,119.36250000000001,1.0,179.04,8.8
+Banjara Hills,Mehdipatnam,16.41,1,0,1,229.63750000000002,1.0,344.46,1.7
+Ameerpet,Kondapur,5.32,19,1,0,77.15,1.7026954411699473,131.36,5.8
+Mehdipatnam,Secunderabad,3.49,10,0,0,51.9875,1.0,51.99,1.8
+Kukatpally,Gachibowli,4.58,2,0,1,66.975,1.0,100.46,8.3
+Kondapur,Secunderabad,11.89,22,0,0,167.4875,1.0,167.49,8.8
+Mehdipatnam,Kondapur,17.92,9,1,0,250.4,1.5091487545888356,377.89,12.3
+Gachibowli,Ameerpet,14.96,5,0,0,209.70000000000002,1.0,209.7,6.2
+Kondapur,Banjara Hills,2.08,3,0,1,32.6,1.0,48.9,5.8
+Kukatpally,Ameerpet,15.98,2,0,1,223.72500000000002,1.0,335.59,2.7
+Kondapur,Gachibowli,2.23,1,0,1,34.662499999999994,1.0,51.99,8.6
+Gachibowli,Banjara Hills,12.31,4,0,1,173.26250000000002,1.0,259.89,7.4
+Kukatpally,Kondapur,7.65,7,0,0,109.18750000000001,1.0,109.19,7.0
+Banjara Hills,Kukatpally,10.29,4,0,1,145.4875,1.0,218.23,2.2
+Kondapur,Ameerpet,2.76,16,0,0,41.949999999999996,1.0,41.95,0.6
+Kondapur,Dilsukhnagar,11.27,2,0,1,158.9625,1.0,238.44,3.5
+Kukatpally,Ameerpet,15.76,0,0,1,220.7,1.0,331.05,8.8
+Mehdipatnam,Kondapur,15.53,15,0,0,217.5375,1.0,217.54,7.1
+Mehdipatnam,Secunderabad,13.01,9,1,0,182.8875,1.2635004562971504,231.08,17.5
+Ameerpet,Banjara Hills,16.05,12,0,0,224.68750000000003,1.0,224.69,8.7
+Mehdipatnam,Banjara Hills,15.13,9,1,0,212.03750000000002,1.69196815044486,358.76,5.7
+Dilsukhnagar,Banjara Hills,1.52,1,0,1,26.0,1.0,39.0,8.3
+Kondapur,Ameerpet,1.61,12,0,0,26.1375,1.0,26.14,6.2
+Gachibowli,Kukatpally,11.92,1,0,1,167.9,1.0,251.85,6.3
+Banjara Hills,Kondapur,14.37,5,0,0,201.5875,1.0,201.59,2.8
+Dilsukhnagar,Kukatpally,8.63,1,0,1,122.66250000000002,1.0,183.99,3.4
+Ameerpet,Banjara Hills,16.88,21,0,0,236.1,1.0,236.1,9.4
+Banjara Hills,Ameerpet,2.62,16,0,0,40.025,1.0,40.02,7.7
+Gachibowli,Mehdipatnam,9.31,21,0,0,132.01250000000002,1.0,132.01,6.2
+Mehdipatnam,Kukatpally,15.88,14,0,0,222.35000000000002,1.0,222.35,9.7
+Ameerpet,Mehdipatnam,3.65,11,0,0,54.1875,1.0,54.19,0.2
+Mehdipatnam,Gachibowli,6.84,14,0,0,98.05,1.0,98.05,8.2
+Mehdipatnam,Kukatpally,1.52,1,0,1,26.0,1.0,39.0,2.7
+Kondapur,Ameerpet,8.53,12,0,0,121.2875,1.0,121.29,8.5
+Dilsukhnagar,Banjara Hills,15.13,10,0,0,212.03750000000002,1.0,212.04,2.2
+Kukatpally,Banjara Hills,12.73,21,0,0,179.03750000000002,1.0,179.04,1.3
+Mehdipatnam,Gachibowli,17.39,23,0,1,243.1125,1.0,364.67,4.3
+Kondapur,Banjara Hills,8.43,19,1,0,119.9125,1.4385566387776765,172.5,6.9
+Mehdipatnam,Ameerpet,8.25,5,0,0,117.4375,1.0,117.44,2.3
+Kondapur,Mehdipatnam,2.01,23,0,1,31.637499999999996,1.0,47.46,3.7
+Dilsukhnagar,Ameerpet,9.31,7,0,0,132.01250000000002,1.0,132.01,1.6
+Gachibowli,Kukatpally,3.0,7,0,0,45.25,1.0,45.25,7.7
+Secunderabad,Kukatpally,14.06,2,0,1,197.32500000000002,1.0,295.99,8.0
+Ameerpet,Secunderabad,16.55,2,0,1,231.56250000000003,1.0,347.34,1.9
+Dilsukhnagar,Gachibowli,1.52,6,0,0,26.0,1.0,26.0,1.3
+Ameerpet,Kondapur,8.6,5,0,0,122.25,1.0,122.25,2.3
+Ameerpet,Banjara Hills,12.25,20,1,0,172.4375,1.3613960426610585,234.76,19.9
+Mehdipatnam,Secunderabad,3.97,20,1,0,58.5875,1.2434681326767354,72.85,9.8
+Secunderabad,Banjara Hills,11.4,10,0,0,160.75,1.0,160.75,6.9
+Gachibowli,Kondapur,14.37,7,0,0,201.5875,1.0,201.59,7.2
+Mehdipatnam,Gachibowli,5.49,13,0,0,79.48750000000001,1.0,79.49,1.4
+Banjara Hills,Secunderabad,11.7,19,1,0,164.875,1.4076099405869038,232.08,19.4
+Kukatpally,Kondapur,2.69,0,0,1,40.9875,1.0,61.48,0.9
+Kondapur,Dilsukhnagar,2.05,19,1,0,32.1875,1.4146808105569628,45.54,8.1
+Secunderabad,Banjara Hills,4.81,17,0,0,70.13749999999999,1.0,70.14,8.2
+Kukatpally,Banjara Hills,12.56,7,0,0,176.70000000000002,1.0,176.7,6.4
+Mehdipatnam,Ameerpet,2.02,5,0,0,31.775,1.0,31.77,6.2
+Dilsukhnagar,Gachibowli,13.2,7,0,0,185.5,1.0,185.5,9.5
+Ameerpet,Dilsukhnagar,14.43,14,0,0,202.4125,1.0,202.41,8.1
+Dilsukhnagar,Mehdipatnam,16.26,3,0,1,227.57500000000002,1.0,341.36,6.0
+Secunderabad,Kukatpally,9.43,8,1,0,133.6625,1.2983996885936984,173.55,11.0
+Kukatpally,Dilsukhnagar,11.29,11,0,0,159.23749999999998,1.0,159.24,1.6
+Kondapur,Mehdipatnam,5.12,22,0,0,74.4,1.0,74.4,4.7
+Kondapur,Secunderabad,14.53,22,0,0,203.7875,1.0,203.79,0.4
+Ameerpet,Kukatpally,1.84,18,1,0,29.3,1.3370728447987792,39.18,24.9
+Gachibowli,Ameerpet,12.23,9,1,0,172.16250000000002,1.441956816674299,248.25,5.5
+Secunderabad,Banjara Hills,4.86,6,0,0,70.825,1.0,70.83,4.6
+Secunderabad,Kondapur,13.5,23,0,1,189.625,1.0,284.44,4.3
+Ameerpet,Kondapur,7.62,19,1,0,108.77499999999999,1.5029069291358108,163.48,13.6
+Mehdipatnam,Gachibowli,8.74,20,1,0,124.17500000000001,1.437309101909409,178.48,15.2
+Dilsukhnagar,Kukatpally,14.58,6,0,0,204.475,1.0,204.47,2.8
+Mehdipatnam,Kukatpally,16.55,11,0,0,231.56250000000003,1.0,231.56,3.8
+Kukatpally,Secunderabad,13.6,2,0,1,191.0,1.0,286.5,7.8
+Ameerpet,Dilsukhnagar,4.46,11,0,0,65.32499999999999,1.0,65.32,3.7
+Kukatpally,Banjara Hills,8.32,5,0,0,118.4,1.0,118.4,4.9
+Secunderabad,Dilsukhnagar,15.87,14,0,0,222.2125,1.0,222.21,5.9
+Dilsukhnagar,Gachibowli,12.43,6,0,0,174.9125,1.0,174.91,1.6
+Mehdipatnam,Gachibowli,17.5,1,0,1,244.625,1.0,366.94,8.6
+Kondapur,Banjara Hills,11.21,11,0,0,158.13750000000002,1.0,158.14,1.3
+Kondapur,Banjara Hills,8.99,10,0,0,127.61250000000001,1.0,127.61,8.8
+Secunderabad,Dilsukhnagar,6.96,9,1,0,99.69999999999999,1.6016342408756168,159.68,3.6
+Kondapur,Ameerpet,11.2,11,0,0,158.0,1.0,158.0,7.1
+Banjara Hills,Secunderabad,4.27,10,0,0,62.71249999999999,1.0,62.71,7.4
+Kondapur,Ameerpet,9.33,16,0,0,132.28750000000002,1.0,132.29,7.1
+Banjara Hills,Ameerpet,15.76,5,0,0,220.7,1.0,220.7,2.1
+Kondapur,Ameerpet,5.95,1,0,1,85.8125,1.0,128.72,1.2
+Kondapur,Ameerpet,2.35,0,0,1,36.3125,1.0,54.47,1.2
+Secunderabad,Kondapur,16.91,4,0,1,236.51250000000002,1.0,354.77,1.0
+Mehdipatnam,Dilsukhnagar,12.86,19,1,0,180.825,1.7919780737753082,324.03,24.1
+Mehdipatnam,Dilsukhnagar,17.2,17,0,0,240.5,1.0,240.5,9.7
+Dilsukhnagar,Banjara Hills,5.69,10,0,0,82.2375,1.0,82.24,4.9
+Ameerpet,Dilsukhnagar,3.8,12,0,0,56.25,1.0,56.25,1.4
+Kukatpally,Mehdipatnam,13.59,7,0,0,190.8625,1.0,190.86,9.7
+Gachibowli,Banjara Hills,12.6,5,0,0,177.25,1.0,177.25,8.7
+Secunderabad,Banjara Hills,12.93,22,0,0,181.7875,1.0,181.79,9.8
+Mehdipatnam,Kukatpally,1.79,17,0,0,28.6125,1.0,28.61,6.2
+Banjara Hills,Dilsukhnagar,10.92,11,0,0,154.15,1.0,154.15,1.1
+Gachibowli,Dilsukhnagar,16.66,0,0,1,233.07500000000002,1.0,349.61,2.2
+Banjara Hills,Secunderabad,8.0,4,0,1,114.0,1.0,171.0,5.8
+Secunderabad,Ameerpet,4.13,5,0,0,60.787499999999994,1.0,60.79,3.2
+Gachibowli,Kukatpally,17.89,12,0,0,249.98749999999998,1.0,249.99,7.8
+Kondapur,Banjara Hills,13.68,3,0,1,192.1,1.0,288.15,6.5
+Secunderabad,Dilsukhnagar,16.77,18,1,0,234.5875,1.6847075651647552,395.21,19.1
+Gachibowli,Banjara Hills,8.69,10,0,0,123.4875,1.0,123.49,3.8
+Secunderabad,Dilsukhnagar,12.21,20,1,0,171.88750000000002,1.394751497940162,239.74,9.2
+Dilsukhnagar,Banjara Hills,12.98,0,0,1,182.47500000000002,1.0,273.71,2.4
+Gachibowli,Ameerpet,5.25,10,0,0,76.1875,1.0,76.19,6.0
+Secunderabad,Dilsukhnagar,11.72,13,0,0,165.15,1.0,165.15,5.0
+Kondapur,Kukatpally,17.2,1,0,1,240.5,1.0,360.75,4.8
+Kondapur,Secunderabad,7.13,11,0,0,102.0375,1.0,102.04,1.5
+Banjara Hills,Kondapur,5.56,3,0,1,80.44999999999999,1.0,120.67,6.1
+Banjara Hills,Dilsukhnagar,14.91,17,0,0,209.01250000000002,1.0,209.01,7.2
+Mehdipatnam,Secunderabad,15.07,10,0,0,211.2125,1.0,211.21,0.1
+Dilsukhnagar,Kondapur,16.32,3,0,1,228.4,1.0,342.6,9.3
+Dilsukhnagar,Ameerpet,16.92,21,0,0,236.65000000000003,1.0,236.65,1.9
+Secunderabad,Kondapur,11.69,20,1,0,164.7375,1.3709237411771538,225.84,7.7
+Dilsukhnagar,Ameerpet,10.4,15,0,0,147.0,1.0,147.0,0.9
+Secunderabad,Kukatpally,8.1,12,0,0,115.375,1.0,115.38,4.1
+Gachibowli,Dilsukhnagar,4.49,11,0,0,65.73750000000001,1.0,65.74,1.8
+Kondapur,Banjara Hills,13.2,23,0,1,185.5,1.0,278.25,7.9
+Kondapur,Kukatpally,16.64,19,1,0,232.8,1.4901273880319548,346.9,20.1
+Gachibowli,Kondapur,2.22,9,1,0,34.525000000000006,1.2673826066467315,43.76,0.1
+Secunderabad,Dilsukhnagar,10.0,8,1,0,141.5,1.6762463102283098,237.19,16.2
+Banjara Hills,Kukatpally,7.45,9,1,0,106.4375,1.7400138740388067,185.2,8.8
+Kukatpally,Ameerpet,14.38,17,0,0,201.72500000000002,1.0,201.73,7.3
+Ameerpet,Kondapur,12.58,17,0,0,176.975,1.0,176.97,7.7
+Kukatpally,Gachibowli,8.5,4,0,1,120.875,1.0,181.31,1.7
+Mehdipatnam,Kondapur,15.74,22,0,0,220.425,1.0,220.43,5.4
+Secunderabad,Kondapur,12.09,6,0,0,170.2375,1.0,170.24,5.5
+Kukatpally,Gachibowli,7.95,1,0,1,113.3125,1.0,169.97,2.7
+Dilsukhnagar,Kondapur,12.65,9,1,0,177.9375,1.4569197689553688,259.24,17.9
+Gachibowli,Ameerpet,17.86,13,0,0,249.57499999999996,1.0,249.57,1.0
+Kukatpally,Dilsukhnagar,11.04,6,0,0,155.79999999999998,1.0,155.8,7.7
+Ameerpet,Secunderabad,16.25,2,0,1,227.4375,1.0,341.16,4.0
+Gachibowli,Ameerpet,7.17,6,0,0,102.5875,1.0,102.59,0.7
+Gachibowli,Kondapur,2.62,4,0,1,40.025,1.0,60.04,0.7
+Banjara Hills,Kondapur,5.97,7,0,0,86.08749999999999,1.0,86.09,6.5
+Secunderabad,Ameerpet,6.85,2,0,1,98.1875,1.0,147.28,1.9
+Kukatpally,Banjara Hills,7.74,5,0,0,110.42500000000001,1.0,110.43,5.6
+Kukatpally,Banjara Hills,9.18,7,0,0,130.225,1.0,130.22,5.8
+Kukatpally,Kondapur,17.37,14,0,0,242.8375,1.0,242.84,2.0
+Banjara Hills,Kukatpally,3.1,22,0,0,46.625,1.0,46.62,7.6
+Gachibowli,Kondapur,17.69,2,0,1,247.2375,1.0,370.86,9.3
+Kondapur,Banjara Hills,8.09,7,0,0,115.2375,1.0,115.24,0.2
+Ameerpet,Kondapur,5.52,20,1,0,79.89999999999999,1.255757486627634,100.34,6.4
+Banjara Hills,Dilsukhnagar,15.77,20,1,0,220.8375,1.6956405781515171,374.46,19.6
+Kukatpally,Secunderabad,2.1,0,0,1,32.875,1.0,49.31,2.3
+Kondapur,Kukatpally,7.79,1,0,1,111.1125,1.0,166.67,9.4
+Gachibowli,Kukatpally,6.54,19,1,0,93.925,1.3678221230828875,128.47,23.6
+Kukatpally,Banjara Hills,4.17,21,0,0,61.3375,1.0,61.34,5.0
+Secunderabad,Ameerpet,15.55,9,1,0,217.81250000000003,1.5006917995092057,326.87,9.9
+Secunderabad,Kukatpally,11.86,23,0,1,167.075,1.0,250.61,5.3
+Secunderabad,Dilsukhnagar,3.83,6,0,0,56.6625,1.0,56.66,3.0
+Gachibowli,Banjara Hills,8.15,1,0,1,116.06250000000001,1.0,174.09,1.5
+Mehdipatnam,Kukatpally,17.3,17,0,0,241.87500000000003,1.0,241.88,6.4
+Gachibowli,Mehdipatnam,3.69,21,0,0,54.7375,1.0,54.74,3.1
+Dilsukhnagar,Secunderabad,3.8,15,0,0,56.25,1.0,56.25,7.6
+Kondapur,Ameerpet,9.79,8,1,0,138.6125,1.6951204604493408,234.96,16.7
+Kukatpally,Secunderabad,1.93,14,0,0,30.537499999999998,1.0,30.54,9.6
+Ameerpet,Kondapur,17.44,12,0,0,243.8,1.0,243.8,9.4
+Ameerpet,Kukatpally,6.08,5,0,0,87.60000000000001,1.0,87.6,0.0
+Mehdipatnam,Dilsukhnagar,11.44,22,0,0,161.3,1.0,161.3,1.5
+Mehdipatnam,Secunderabad,14.38,9,1,0,201.72500000000002,1.327053210399287,267.7,12.1
+Kukatpally,Secunderabad,11.72,14,0,0,165.15,1.0,165.15,9.8
+Mehdipatnam,Gachibowli,3.85,8,1,0,56.9375,1.6696176244464895,95.06,6.6
+Dilsukhnagar,Ameerpet,11.7,3,0,1,164.875,1.0,247.31,10.0
+Gachibowli,Secunderabad,11.65,19,1,0,164.1875,1.3042515573973767,214.14,16.4
+Secunderabad,Banjara Hills,13.45,4,0,1,188.9375,1.0,283.41,8.9
+Secunderabad,Kondapur,7.34,21,0,0,104.925,1.0,104.92,8.3
+Kondapur,Secunderabad,14.19,22,0,0,199.1125,1.0,199.11,4.2
+Mehdipatnam,Secunderabad,1.82,14,0,0,29.025,1.0,29.02,5.8
+Dilsukhnagar,Kukatpally,4.63,4,0,1,67.6625,1.0,101.49,2.2
+Kondapur,Kukatpally,5.48,20,1,0,79.35,1.3193137666651775,104.69,1.6
+Banjara Hills,Ameerpet,7.63,16,0,0,108.9125,1.0,108.91,5.5
+Dilsukhnagar,Kondapur,15.43,22,0,0,216.1625,1.0,216.16,1.5
+Secunderabad,Ameerpet,15.77,15,0,0,220.8375,1.0,220.84,7.4
+Banjara Hills,Mehdipatnam,7.7,19,1,0,109.875,1.7157391389881673,188.52,9.8
+Kukatpally,Secunderabad,3.7,16,0,0,54.875,1.0,54.88,6.6
+Gachibowli,Kukatpally,14.85,15,0,0,208.1875,1.0,208.19,2.5
+Kukatpally,Mehdipatnam,2.13,7,0,0,33.287499999999994,1.0,33.29,4.6
+Mehdipatnam,Banjara Hills,12.38,21,0,0,174.22500000000002,1.0,174.23,6.4
+Dilsukhnagar,Gachibowli,2.6,23,0,1,39.75,1.0,59.62,8.8
+Kondapur,Ameerpet,9.95,4,0,1,140.8125,1.0,211.22,0.5
+Banjara Hills,Gachibowli,13.81,0,0,1,193.88750000000002,1.0,290.83,0.7
+Banjara Hills,Mehdipatnam,1.7,4,0,1,27.375,1.0,41.06,5.1
+Banjara Hills,Kukatpally,9.12,3,0,1,129.39999999999998,1.0,194.1,3.5
+Dilsukhnagar,Mehdipatnam,12.41,18,1,0,174.63750000000002,1.3044656012004505,227.81,2.5
+Secunderabad,Dilsukhnagar,14.11,9,1,0,198.0125,1.2125669766185476,240.1,2.1
+Ameerpet,Gachibowli,6.37,7,0,0,91.58749999999999,1.0,91.59,6.2
+Kukatpally,Banjara Hills,4.89,16,0,0,71.2375,1.0,71.24,2.6
+Ameerpet,Dilsukhnagar,2.64,22,0,0,40.3,1.0,40.3,0.4
+Kukatpally,Mehdipatnam,14.68,11,0,0,205.85,1.0,205.85,4.7
+Kukatpally,Dilsukhnagar,9.52,15,0,0,134.9,1.0,134.9,8.1
+Ameerpet,Kukatpally,3.61,14,0,0,53.637499999999996,1.0,53.64,1.1
+Kukatpally,Banjara Hills,3.07,7,0,0,46.21249999999999,1.0,46.21,4.3
+Ameerpet,Kukatpally,11.61,21,0,0,163.6375,1.0,163.64,2.7
+Ameerpet,Secunderabad,12.65,18,1,0,177.9375,1.7321549401255618,308.22,16.1
+Mehdipatnam,Kukatpally,14.96,22,0,0,209.70000000000002,1.0,209.7,8.8
+Ameerpet,Gachibowli,10.48,20,1,0,148.10000000000002,1.653025157247767,244.81,11.5
+Banjara Hills,Secunderabad,13.52,6,0,0,189.9,1.0,189.9,1.8
+Banjara Hills,Mehdipatnam,6.78,21,0,0,97.225,1.0,97.22,9.8
+Secunderabad,Ameerpet,2.21,17,0,0,34.387499999999996,1.0,34.39,1.1
+Kondapur,Banjara Hills,3.02,17,0,0,45.525,1.0,45.52,2.1
+Mehdipatnam,Banjara Hills,15.37,12,0,0,215.3375,1.0,215.34,4.1
+Kondapur,Secunderabad,13.77,2,0,1,193.3375,1.0,290.01,3.0
+Mehdipatnam,Banjara Hills,12.87,6,0,0,180.9625,1.0,180.96,5.8
+Gachibowli,Secunderabad,4.14,9,1,0,60.925,1.5348253950893802,93.51,20.3
+Ameerpet,Secunderabad,16.04,3,0,1,224.54999999999998,1.0,336.82,1.0
+Banjara Hills,Kukatpally,12.35,9,1,0,173.8125,1.6454088303435055,285.99,20.4
+Mehdipatnam,Ameerpet,12.85,15,0,0,180.6875,1.0,180.69,7.8
+Ameerpet,Kondapur,1.59,21,0,0,26.0,1.0,26.0,8.3
+Secunderabad,Dilsukhnagar,13.87,20,1,0,194.7125,1.4207644507812507,276.64,8.2
+Mehdipatnam,Banjara Hills,6.54,23,0,1,93.925,1.0,140.89,5.0
+Kukatpally,Kondapur,7.86,3,0,1,112.075,1.0,168.11,7.2
+Banjara Hills,Secunderabad,11.29,4,0,1,159.23749999999998,1.0,238.86,6.6
+Secunderabad,Banjara Hills,1.55,5,0,0,26.0,1.0,26.0,1.7
+Ameerpet,Gachibowli,7.9,16,0,0,112.62500000000001,1.0,112.63,5.9
+Ameerpet,Secunderabad,12.1,23,0,1,170.375,1.0,255.56,1.0
+Kukatpally,Banjara Hills,13.1,23,0,1,184.125,1.0,276.19,6.0
+Kukatpally,Dilsukhnagar,14.78,18,1,0,207.225,1.498953409358072,310.62,1.9
+Secunderabad,Kondapur,13.81,5,0,0,193.88750000000002,1.0,193.89,2.1
+Ameerpet,Mehdipatnam,8.76,3,0,1,124.45,1.0,186.68,1.2
+Gachibowli,Banjara Hills,5.39,19,1,0,78.1125,1.237525336138421,96.67,20.0
+Dilsukhnagar,Mehdipatnam,13.6,21,0,0,191.0,1.0,191.0,6.4
+Gachibowli,Dilsukhnagar,12.0,15,0,0,169.0,1.0,169.0,1.8
+Dilsukhnagar,Secunderabad,17.85,10,0,0,249.4375,1.0,249.44,7.4
+Kukatpally,Secunderabad,4.54,9,1,0,66.425,1.4007067732451592,93.04,0.7
+Gachibowli,Dilsukhnagar,15.22,12,0,0,213.275,1.0,213.28,7.0
+Mehdipatnam,Secunderabad,14.41,18,1,0,202.13750000000002,1.3555780553194643,274.01,10.7
+Mehdipatnam,Secunderabad,15.39,4,0,1,215.6125,1.0,323.42,4.8
+Kondapur,Kukatpally,16.97,3,0,1,237.33749999999998,1.0,356.01,1.3
+Ameerpet,Dilsukhnagar,13.51,17,0,0,189.7625,1.0,189.76,9.1
+Banjara Hills,Gachibowli,1.62,8,1,0,26.275,1.295344900601612,34.04,15.3
+Ameerpet,Gachibowli,13.9,23,0,1,195.125,1.0,292.69,4.7
+Kondapur,Dilsukhnagar,6.17,9,1,0,88.8375,1.36931224481592,121.65,6.5
+Mehdipatnam,Banjara Hills,16.45,23,0,1,230.1875,1.0,345.28,9.7
+Banjara Hills,Secunderabad,8.58,12,0,0,121.97500000000001,1.0,121.98,2.7
+Gachibowli,Secunderabad,15.58,10,0,0,218.225,1.0,218.22,0.6
+Kukatpally,Ameerpet,3.8,3,0,1,56.25,1.0,84.38,3.2
+Mehdipatnam,Banjara Hills,2.93,14,0,0,44.2875,1.0,44.29,0.2
+Banjara Hills,Mehdipatnam,17.4,14,0,0,243.24999999999997,1.0,243.25,8.8
+Kondapur,Kukatpally,15.16,23,0,1,212.45000000000002,1.0,318.68,2.6
+Gachibowli,Secunderabad,17.69,17,0,0,247.2375,1.0,247.24,1.4
+Dilsukhnagar,Kukatpally,4.65,16,0,0,67.9375,1.0,67.94,4.6
+Gachibowli,Secunderabad,11.54,8,1,0,162.67499999999998,1.2132210961785024,197.36,18.0
+Dilsukhnagar,Kukatpally,2.97,21,0,0,44.837500000000006,1.0,44.84,5.6
+Gachibowli,Secunderabad,5.25,10,0,0,76.1875,1.0,76.19,0.7
+Secunderabad,Gachibowli,10.47,5,0,0,147.96250000000003,1.0,147.96,2.3
+Kukatpally,Gachibowli,8.57,4,0,1,121.8375,1.0,182.76,9.5
+Banjara Hills,Gachibowli,12.54,1,0,1,176.42499999999998,1.0,264.64,8.6
+Mehdipatnam,Secunderabad,13.86,11,0,0,194.575,1.0,194.57,0.6
+Banjara Hills,Secunderabad,14.81,9,1,0,207.63750000000002,1.7868370907841171,371.01,19.8
+Gachibowli,Banjara Hills,15.89,3,0,1,222.4875,1.0,333.73,7.6
+Secunderabad,Banjara Hills,4.88,20,1,0,71.1,1.5957776198368454,113.46,4.0
+Secunderabad,Mehdipatnam,17.12,7,0,0,239.4,1.0,239.4,9.8
+Kukatpally,Gachibowli,1.95,23,0,1,30.8125,1.0,46.22,4.6
+Banjara Hills,Ameerpet,10.39,19,1,0,146.8625,1.679006512934597,246.58,9.3
+Dilsukhnagar,Gachibowli,8.06,10,0,0,114.82500000000002,1.0,114.83,7.8
+Mehdipatnam,Ameerpet,4.86,9,1,0,70.825,1.2564216626605598,88.99,8.9
+Gachibowli,Kondapur,6.06,7,0,0,87.32499999999999,1.0,87.32,8.0
+Dilsukhnagar,Banjara Hills,16.6,7,0,0,232.25000000000003,1.0,232.25,5.2
+Ameerpet,Kondapur,10.7,1,0,1,151.125,1.0,226.69,3.2
+Mehdipatnam,Secunderabad,16.45,17,0,0,230.1875,1.0,230.19,1.7
+Secunderabad,Gachibowli,11.37,22,0,0,160.3375,1.0,160.34,1.8
+Kondapur,Ameerpet,15.04,4,0,1,210.79999999999998,1.0,316.2,4.4
+Secunderabad,Dilsukhnagar,2.88,8,1,0,43.599999999999994,1.6821621212649212,73.34,12.6
+Banjara Hills,Gachibowli,8.39,22,0,0,119.36250000000001,1.0,119.36,1.2
+Secunderabad,Kondapur,6.83,5,0,0,97.91250000000001,1.0,97.91,9.8
+Mehdipatnam,Banjara Hills,3.64,4,0,1,54.05,1.0,81.07,5.6
+Gachibowli,Kondapur,13.37,1,0,1,187.8375,1.0,281.76,2.1
+Secunderabad,Kondapur,17.56,8,1,0,245.45,1.6914381083169938,415.16,13.5
+Mehdipatnam,Kondapur,6.69,10,0,0,95.9875,1.0,95.99,9.0
+Ameerpet,Kondapur,6.68,23,0,1,95.85,1.0,143.77,4.9
+Mehdipatnam,Kondapur,7.03,15,0,0,100.6625,1.0,100.66,7.1
+Banjara Hills,Kukatpally,3.16,20,1,0,47.45,1.452071236708635,68.9,22.6
+Mehdipatnam,Banjara Hills,4.66,10,0,0,68.075,1.0,68.08,6.5
+Banjara Hills,Secunderabad,13.68,11,0,0,192.1,1.0,192.1,4.7
+Dilsukhnagar,Mehdipatnam,11.96,19,1,0,168.45000000000002,1.6435768410988638,276.86,2.7
+Mehdipatnam,Kondapur,12.75,5,0,0,179.3125,1.0,179.31,8.6
+Ameerpet,Gachibowli,15.31,22,0,0,214.51250000000002,1.0,214.51,0.8
+Mehdipatnam,Kondapur,15.8,14,0,0,221.25000000000003,1.0,221.25,3.1
+Dilsukhnagar,Kondapur,2.05,20,1,0,32.1875,1.4449838056556707,46.51,19.0
+Ameerpet,Kondapur,5.34,8,1,0,77.425,1.6730684059519794,129.54,16.6
+Kukatpally,Ameerpet,16.47,22,0,0,230.46249999999998,1.0,230.46,1.7
+Kukatpally,Dilsukhnagar,9.1,3,0,1,129.125,1.0,193.69,3.8
+Secunderabad,Mehdipatnam,8.31,13,0,0,118.26250000000002,1.0,118.26,4.8
+Gachibowli,Kukatpally,8.45,13,0,0,120.1875,1.0,120.19,9.2
+Dilsukhnagar,Secunderabad,15.66,18,1,0,219.32500000000002,1.7836657937352516,391.2,20.7
+Mehdipatnam,Gachibowli,15.35,12,0,0,215.0625,1.0,215.06,9.6
+Dilsukhnagar,Gachibowli,6.53,22,0,0,93.7875,1.0,93.79,5.3
+Mehdipatnam,Banjara Hills,8.92,23,0,1,126.65,1.0,189.98,7.0
+Kondapur,Ameerpet,3.09,8,1,0,46.4875,1.2074424217663888,56.13,11.7
+Gachibowli,Dilsukhnagar,11.37,2,0,1,160.3375,1.0,240.51,2.3
+Secunderabad,Dilsukhnagar,11.38,3,0,1,160.47500000000002,1.0,240.71,8.8
+Kukatpally,Gachibowli,6.95,21,0,0,99.5625,1.0,99.56,8.9
+Dilsukhnagar,Banjara Hills,2.8,16,0,0,42.5,1.0,42.5,2.9
+Ameerpet,Mehdipatnam,5.92,13,0,0,85.4,1.0,85.4,8.6
+Dilsukhnagar,Kondapur,2.55,19,1,0,39.0625,1.332135180826389,52.04,12.2
+Kondapur,Secunderabad,10.17,8,1,0,143.8375,1.601520157762847,230.36,20.7
+Banjara Hills,Gachibowli,1.91,22,0,0,30.262499999999996,1.0,30.26,4.3
+Ameerpet,Dilsukhnagar,8.67,14,0,0,123.2125,1.0,123.21,1.4
+Mehdipatnam,Kukatpally,4.22,21,0,0,62.025,1.0,62.02,6.1
+Mehdipatnam,Dilsukhnagar,11.26,18,1,0,158.825,1.3424600810248837,213.22,12.8
+Ameerpet,Kondapur,7.84,12,0,0,111.8,1.0,111.8,9.7
+Ameerpet,Kukatpally,5.98,22,0,0,86.22500000000001,1.0,86.23,9.8
+Banjara Hills,Dilsukhnagar,8.22,21,0,0,117.02500000000002,1.0,117.03,2.5
+Gachibowli,Secunderabad,9.3,7,0,0,131.875,1.0,131.88,2.4
+Kukatpally,Gachibowli,8.93,12,0,0,126.7875,1.0,126.79,4.8
+Banjara Hills,Secunderabad,11.58,12,0,0,163.225,1.0,163.22,4.7
+Gachibowli,Secunderabad,10.36,16,0,0,146.45,1.0,146.45,0.1
+Secunderabad,Mehdipatnam,15.42,0,0,1,216.025,1.0,324.04,3.4
+Kondapur,Secunderabad,10.94,9,1,0,154.425,1.376093293924873,212.5,23.3
+Gachibowli,Secunderabad,6.2,16,0,0,89.25,1.0,89.25,1.1
+Mehdipatnam,Ameerpet,9.87,8,1,0,139.71249999999998,1.2178009338388438,170.14,16.9
+Secunderabad,Mehdipatnam,8.93,13,0,0,126.7875,1.0,126.79,1.7
+Banjara Hills,Ameerpet,13.54,7,0,0,190.17499999999998,1.0,190.17,9.1
+Kondapur,Secunderabad,11.53,15,0,0,162.5375,1.0,162.54,3.0
+Kukatpally,Banjara Hills,17.24,4,0,1,241.04999999999998,1.0,361.57,0.0
+Mehdipatnam,Dilsukhnagar,2.34,12,0,0,36.175,1.0,36.17,8.3
+Gachibowli,Banjara Hills,15.88,17,0,0,222.35000000000002,1.0,222.35,1.1
+Secunderabad,Gachibowli,9.03,17,0,0,128.1625,1.0,128.16,0.9
+Dilsukhnagar,Ameerpet,10.57,16,0,0,149.3375,1.0,149.34,0.7
+Kukatpally,Ameerpet,7.35,6,0,0,105.0625,1.0,105.06,4.1
+Kondapur,Gachibowli,12.17,18,1,0,171.3375,1.5561964747251231,266.63,0.3
+Kukatpally,Ameerpet,16.57,6,0,0,231.8375,1.0,231.84,8.7
+Ameerpet,Dilsukhnagar,3.49,1,0,1,51.9875,1.0,77.98,5.3
+Mehdipatnam,Dilsukhnagar,3.85,16,0,0,56.9375,1.0,56.94,6.9
+Ameerpet,Mehdipatnam,8.91,22,0,0,126.5125,1.0,126.51,5.8
+Kukatpally,Secunderabad,3.53,16,0,0,52.537499999999994,1.0,52.54,2.2
+Gachibowli,Banjara Hills,14.98,5,0,0,209.97500000000002,1.0,209.98,8.5
+Secunderabad,Mehdipatnam,8.59,2,0,1,122.1125,1.0,183.17,0.8
+Gachibowli,Secunderabad,15.72,11,0,0,220.15,1.0,220.15,8.0
+Mehdipatnam,Ameerpet,15.65,14,0,0,219.1875,1.0,219.19,7.6
+Dilsukhnagar,Mehdipatnam,11.11,21,0,0,156.7625,1.0,156.76,7.1
+Gachibowli,Banjara Hills,9.94,4,0,1,140.675,1.0,211.01,6.5
+Kondapur,Gachibowli,7.21,19,1,0,103.13749999999999,1.4038612962906707,144.79,12.9
+Kukatpally,Kondapur,1.61,14,0,0,26.1375,1.0,26.14,0.7
+Secunderabad,Mehdipatnam,6.64,5,0,0,95.29999999999998,1.0,95.3,8.5
+Banjara Hills,Kukatpally,15.39,23,0,1,215.6125,1.0,323.42,9.9
+Gachibowli,Banjara Hills,12.86,12,0,0,180.825,1.0,180.82,9.7
+Secunderabad,Mehdipatnam,10.28,12,0,0,145.35,1.0,145.35,3.8
+Mehdipatnam,Dilsukhnagar,2.01,9,1,0,31.637499999999996,1.4372605607957487,45.47,7.8
+Kondapur,Banjara Hills,9.55,9,1,0,135.3125,1.7400499098098885,235.45,2.9
+Kukatpally,Kondapur,6.68,22,0,0,95.85,1.0,95.85,4.4
+Kukatpally,Kondapur,10.5,12,0,0,148.375,1.0,148.38,6.1
+Secunderabad,Ameerpet,2.01,15,0,0,31.637499999999996,1.0,31.64,7.7
+Kondapur,Secunderabad,9.38,12,0,0,132.97500000000002,1.0,132.98,5.4
+Secunderabad,Kondapur,15.26,18,1,0,213.825,1.4137113882705565,302.29,20.7
+Kondapur,Mehdipatnam,4.42,20,1,0,64.775,1.405468787300828,91.04,6.8
+Ameerpet,Mehdipatnam,10.7,18,1,0,151.125,1.299145230265562,196.33,14.6
+Kondapur,Mehdipatnam,3.98,1,0,1,58.725,1.0,88.09,4.9
+Mehdipatnam,Secunderabad,17.9,17,0,0,250.12499999999997,1.0,250.12,6.2
+Gachibowli,Mehdipatnam,9.11,6,0,0,129.2625,1.0,129.26,4.0
+Ameerpet,Secunderabad,9.35,3,0,1,132.5625,1.0,198.84,9.1
+Dilsukhnagar,Mehdipatnam,16.51,10,0,0,231.01250000000002,1.0,231.01,3.5
+Dilsukhnagar,Ameerpet,2.13,21,0,0,33.287499999999994,1.0,33.29,7.9
+Ameerpet,Secunderabad,14.6,19,1,0,204.75,1.4800692463387128,303.04,0.9
+Secunderabad,Gachibowli,17.16,15,0,0,239.95000000000002,1.0,239.95,0.9
+Ameerpet,Dilsukhnagar,11.21,3,0,1,158.13750000000002,1.0,237.21,2.9
+Gachibowli,Dilsukhnagar,14.07,14,0,0,197.4625,1.0,197.46,6.1
+Banjara Hills,Gachibowli,7.48,16,0,0,106.85000000000001,1.0,106.85,8.7
+Secunderabad,Mehdipatnam,8.23,18,1,0,117.16250000000001,1.5612701912128677,182.92,14.8
+Dilsukhnagar,Kondapur,9.36,8,1,0,132.7,1.2356829413203685,163.98,0.1
+Gachibowli,Kukatpally,6.42,7,0,0,92.275,1.0,92.28,0.6
+Secunderabad,Mehdipatnam,8.9,12,0,0,126.37500000000001,1.0,126.38,9.7
+Kondapur,Banjara Hills,13.61,17,0,0,191.1375,1.0,191.14,4.8
+Kondapur,Dilsukhnagar,13.42,21,0,0,188.525,1.0,188.53,5.3
+Banjara Hills,Secunderabad,12.13,11,0,0,170.78750000000002,1.0,170.79,8.0
+Banjara Hills,Mehdipatnam,4.98,14,0,0,72.475,1.0,72.47,9.9
+Kukatpally,Mehdipatnam,15.17,6,0,0,212.5875,1.0,212.59,0.0
+Mehdipatnam,Gachibowli,7.14,4,0,1,102.17499999999998,1.0,153.26,7.4
+Kondapur,Secunderabad,13.93,4,0,1,195.5375,1.0,293.31,8.2
+Gachibowli,Banjara Hills,16.09,2,0,1,225.2375,1.0,337.86,6.1
+Banjara Hills,Dilsukhnagar,9.55,13,0,0,135.3125,1.0,135.31,2.8
+Ameerpet,Dilsukhnagar,1.9,10,0,0,30.124999999999996,1.0,30.12,3.5
+Mehdipatnam,Dilsukhnagar,14.84,12,0,0,208.05,1.0,208.05,7.0
+Kondapur,Secunderabad,3.17,5,0,0,47.5875,1.0,47.59,3.0
+Banjara Hills,Gachibowli,9.76,9,1,0,138.2,1.3453387306947402,185.93,12.0
+Kukatpally,Mehdipatnam,13.22,23,0,1,185.775,1.0,278.66,3.0
+Ameerpet,Kukatpally,6.14,7,0,0,88.42499999999998,1.0,88.42,2.9
+Banjara Hills,Secunderabad,5.89,21,0,0,84.98749999999998,1.0,84.99,3.2
+Kondapur,Banjara Hills,5.23,8,1,0,75.9125,1.3315643771543253,101.08,0.8
+Mehdipatnam,Secunderabad,8.37,21,0,0,119.08749999999999,1.0,119.09,1.9
+Dilsukhnagar,Banjara Hills,15.8,9,1,0,221.25000000000003,1.5515188730721114,343.27,15.6
+Ameerpet,Kondapur,12.76,13,0,0,179.45,1.0,179.45,4.6
+Secunderabad,Ameerpet,6.5,14,0,0,93.375,1.0,93.38,5.5
+Dilsukhnagar,Ameerpet,3.86,22,0,0,57.074999999999996,1.0,57.07,7.2
+Ameerpet,Banjara Hills,4.12,1,0,1,60.65,1.0,90.97,1.3
+Kukatpally,Banjara Hills,2.4,11,0,0,37.0,1.0,37.0,4.0
+Gachibowli,Banjara Hills,4.62,17,0,0,67.525,1.0,67.53,2.8
+Secunderabad,Gachibowli,2.53,17,0,0,38.787499999999994,1.0,38.79,4.7
+Secunderabad,Kondapur,17.02,10,0,0,238.025,1.0,238.03,8.3
+Mehdipatnam,Ameerpet,10.82,1,0,1,152.775,1.0,229.16,3.1
+Ameerpet,Kukatpally,16.22,12,0,0,227.02499999999998,1.0,227.02,4.2
+Secunderabad,Ameerpet,12.64,16,0,0,177.8,1.0,177.8,6.9
+Kukatpally,Secunderabad,7.9,23,0,1,112.62500000000001,1.0,168.94,6.8
+Dilsukhnagar,Banjara Hills,5.69,10,0,0,82.2375,1.0,82.24,6.7
+Gachibowli,Kondapur,3.64,3,0,1,54.05,1.0,81.07,7.0
+Secunderabad,Gachibowli,3.24,18,1,0,48.55,1.5806038438267227,76.74,25.0
+Gachibowli,Secunderabad,9.73,6,0,0,137.78750000000002,1.0,137.79,5.0
+Gachibowli,Ameerpet,9.05,17,0,0,128.4375,1.0,128.44,6.3
+Mehdipatnam,Kondapur,1.55,6,0,0,26.0,1.0,26.0,7.7
+Kukatpally,Secunderabad,15.07,1,0,1,211.2125,1.0,316.82,2.1
+Gachibowli,Dilsukhnagar,9.29,23,0,1,131.7375,1.0,197.61,6.5
+Ameerpet,Secunderabad,13.94,12,0,0,195.675,1.0,195.68,3.0
+Banjara Hills,Dilsukhnagar,3.57,2,0,1,53.08749999999999,1.0,79.63,3.2
+Ameerpet,Kondapur,8.02,7,0,0,114.275,1.0,114.28,4.7
+Gachibowli,Kondapur,2.91,10,0,0,44.0125,1.0,44.01,3.7
+Gachibowli,Kukatpally,3.34,9,1,0,49.925,1.5262834367197424,76.2,2.5
+Kukatpally,Dilsukhnagar,5.49,5,0,0,79.48750000000001,1.0,79.49,3.4
+Secunderabad,Gachibowli,3.55,9,1,0,52.8125,1.2188530929067638,64.37,18.4
+Secunderabad,Gachibowli,16.45,19,1,0,230.1875,1.2059542926767013,277.6,11.6
+Ameerpet,Kukatpally,10.06,5,0,0,142.32500000000002,1.0,142.33,7.6
+Dilsukhnagar,Ameerpet,5.91,16,0,0,85.26250000000002,1.0,85.26,5.2
+Kukatpally,Kondapur,3.57,20,1,0,53.08749999999999,1.2458309669948735,66.14,9.6
+Gachibowli,Mehdipatnam,4.5,6,0,0,65.875,1.0,65.88,0.2
+Kondapur,Gachibowli,14.26,6,0,0,200.075,1.0,200.07,3.5
+Secunderabad,Ameerpet,1.52,10,0,0,26.0,1.0,26.0,6.6
+Kondapur,Banjara Hills,16.01,18,1,0,224.13750000000002,1.2141569787873174,272.14,22.5
+Gachibowli,Banjara Hills,14.38,7,0,0,201.72500000000002,1.0,201.73,2.1
+Mehdipatnam,Kondapur,16.34,8,1,0,228.675,1.7624270628985925,403.02,15.1
+Kondapur,Banjara Hills,2.49,11,0,0,38.237500000000004,1.0,38.24,0.6
+Kukatpally,Gachibowli,5.45,23,0,1,78.9375,1.0,118.41,9.9
+Kukatpally,Ameerpet,17.39,21,0,0,243.1125,1.0,243.11,3.7
+Mehdipatnam,Kukatpally,4.73,9,1,0,69.0375,1.737645067076744,119.96,21.2
+Mehdipatnam,Secunderabad,6.06,12,0,0,87.32499999999999,1.0,87.32,8.1
+Banjara Hills,Ameerpet,7.9,10,0,0,112.62500000000001,1.0,112.63,2.6
+Gachibowli,Banjara Hills,16.64,23,0,1,232.8,1.0,349.2,7.2
+Gachibowli,Banjara Hills,2.5,13,0,0,38.375,1.0,38.38,0.6
+Gachibowli,Mehdipatnam,1.63,19,1,0,26.412499999999998,1.3381505524263089,35.34,1.1
+Gachibowli,Mehdipatnam,6.48,1,0,1,93.10000000000001,1.0,139.65,2.4
+Kondapur,Kukatpally,12.71,4,0,1,178.76250000000002,1.0,268.14,6.2
+Secunderabad,Dilsukhnagar,14.05,13,0,0,197.18750000000003,1.0,197.19,5.5
+Kondapur,Banjara Hills,2.22,5,0,0,34.525000000000006,1.0,34.53,4.5
+Ameerpet,Secunderabad,2.32,0,0,1,35.9,1.0,53.85,1.4
+Mehdipatnam,Secunderabad,10.2,11,0,0,144.25,1.0,144.25,9.6
+Banjara Hills,Ameerpet,17.2,15,0,0,240.5,1.0,240.5,4.1
+Mehdipatnam,Kukatpally,10.12,11,0,0,143.14999999999998,1.0,143.15,2.6
+Gachibowli,Mehdipatnam,11.29,22,0,0,159.23749999999998,1.0,159.24,2.1
+Kukatpally,Mehdipatnam,1.73,11,0,0,27.787499999999998,1.0,27.79,7.9
+Mehdipatnam,Secunderabad,17.07,10,0,0,238.7125,1.0,238.71,4.0
+Banjara Hills,Kukatpally,17.46,7,0,0,244.07500000000002,1.0,244.08,1.6
+Banjara Hills,Secunderabad,13.35,14,0,0,187.5625,1.0,187.56,2.3
+Mehdipatnam,Banjara Hills,14.39,19,1,0,201.8625,1.5390511874716537,310.68,19.3
+Secunderabad,Ameerpet,1.7,9,1,0,27.375,1.6706525148020506,45.73,9.4
+Ameerpet,Kukatpally,14.78,20,1,0,207.225,1.3332455224159923,276.28,8.0
+Kukatpally,Banjara Hills,13.53,21,0,0,190.0375,1.0,190.04,4.3
+Gachibowli,Secunderabad,9.43,12,0,0,133.6625,1.0,133.66,0.0
+Ameerpet,Gachibowli,4.04,22,0,0,59.55,1.0,59.55,9.2
+Mehdipatnam,Gachibowli,2.24,6,0,0,34.800000000000004,1.0,34.8,3.7
+Ameerpet,Kondapur,13.95,2,0,1,195.8125,1.0,293.72,0.6
+Dilsukhnagar,Mehdipatnam,6.05,16,0,0,87.1875,1.0,87.19,7.9
+Ameerpet,Secunderabad,10.81,17,0,0,152.63750000000002,1.0,152.64,6.6
+Kukatpally,Gachibowli,4.66,12,0,0,68.075,1.0,68.08,9.7
+Dilsukhnagar,Kukatpally,15.36,8,1,0,215.2,1.2233579779954005,263.27,0.9
+Gachibowli,Dilsukhnagar,15.8,12,0,0,221.25000000000003,1.0,221.25,2.2
+Ameerpet,Secunderabad,13.37,23,0,1,187.8375,1.0,281.76,5.8
+Mehdipatnam,Kondapur,14.02,18,1,0,196.775,1.2862886101888882,253.11,10.8
+Dilsukhnagar,Banjara Hills,15.46,4,0,1,216.57500000000002,1.0,324.86,4.2
+Ameerpet,Banjara Hills,9.36,14,0,0,132.7,1.0,132.7,5.4
+Kondapur,Secunderabad,5.71,15,0,0,82.51249999999999,1.0,82.51,3.3
+Dilsukhnagar,Secunderabad,4.92,3,0,1,71.65,1.0,107.48,3.0
+Mehdipatnam,Secunderabad,9.09,14,0,0,128.9875,1.0,128.99,8.1
+Banjara Hills,Dilsukhnagar,6.98,1,0,1,99.97500000000001,1.0,149.96,7.7
+Banjara Hills,Kukatpally,15.11,1,0,1,211.7625,1.0,317.64,8.8
+Dilsukhnagar,Kondapur,6.16,22,0,0,88.70000000000002,1.0,88.7,9.3
+Dilsukhnagar,Secunderabad,10.52,8,1,0,148.65,1.2000069808532197,178.38,10.4
+Secunderabad,Dilsukhnagar,2.4,9,1,0,37.0,1.3203361506437896,48.85,5.1
+Kondapur,Secunderabad,8.72,18,1,0,123.90000000000002,1.2311405661523853,152.54,4.8
+Ameerpet,Dilsukhnagar,13.57,3,0,1,190.5875,1.0,285.88,7.4
+Kondapur,Secunderabad,8.47,17,0,0,120.46250000000002,1.0,120.46,9.0
+Kondapur,Gachibowli,5.67,18,1,0,81.9625,1.3089683806539616,107.29,9.3
+Mehdipatnam,Banjara Hills,14.81,6,0,0,207.63750000000002,1.0,207.64,2.2
+Secunderabad,Kondapur,10.45,7,0,0,147.6875,1.0,147.69,6.6
+Mehdipatnam,Banjara Hills,10.48,9,1,0,148.10000000000002,1.2124028213351425,179.56,6.7
+Secunderabad,Gachibowli,5.94,9,1,0,85.675,1.48912048756477,127.58,9.0
+Banjara Hills,Ameerpet,11.93,20,1,0,168.0375,1.5360550184660373,258.11,19.5
+Dilsukhnagar,Gachibowli,4.34,16,0,0,63.675,1.0,63.67,9.3
+Banjara Hills,Kukatpally,13.0,6,0,0,182.75,1.0,182.75,4.6
+Gachibowli,Banjara Hills,12.96,6,0,0,182.20000000000002,1.0,182.2,8.5
+Gachibowli,Kukatpally,2.01,8,1,0,31.637499999999996,1.3171443617738952,41.67,8.6
+Secunderabad,Ameerpet,17.65,2,0,1,246.68749999999997,1.0,370.03,1.2
+Gachibowli,Kondapur,12.57,12,0,0,176.8375,1.0,176.84,9.5
+Gachibowli,Kukatpally,7.78,14,0,0,110.975,1.0,110.97,5.1
+Banjara Hills,Ameerpet,7.84,18,1,0,111.8,1.6693027578547477,186.63,3.1
+Secunderabad,Kukatpally,11.66,1,0,1,164.32500000000002,1.0,246.49,4.4
+Ameerpet,Mehdipatnam,9.77,5,0,0,138.3375,1.0,138.34,5.5
+Gachibowli,Ameerpet,8.59,4,0,1,122.1125,1.0,183.17,7.2
+Secunderabad,Kondapur,17.36,2,0,1,242.7,1.0,364.05,9.5
+Banjara Hills,Mehdipatnam,16.01,19,1,0,224.13750000000002,1.6062914474746042,360.03,15.6
+Kukatpally,Dilsukhnagar,12.6,4,0,1,177.25,1.0,265.88,0.7
+Secunderabad,Banjara Hills,10.93,15,0,0,154.2875,1.0,154.29,9.8
+Mehdipatnam,Kukatpally,5.58,7,0,0,80.725,1.0,80.72,0.5
+Gachibowli,Kondapur,6.25,10,0,0,89.9375,1.0,89.94,1.9
+Ameerpet,Gachibowli,16.93,4,0,1,236.7875,1.0,355.18,7.3
+Secunderabad,Kondapur,2.63,0,0,1,40.162499999999994,1.0,60.24,2.9
+Banjara Hills,Gachibowli,12.81,4,0,1,180.13750000000002,1.0,270.21,0.7
+Secunderabad,Banjara Hills,7.79,0,0,1,111.1125,1.0,166.67,6.4
+Secunderabad,Banjara Hills,11.93,13,0,0,168.0375,1.0,168.04,7.8
+Banjara Hills,Secunderabad,11.42,19,1,0,161.025,1.3667116656538274,220.07,6.9
+Kukatpally,Gachibowli,17.68,9,1,0,247.09999999999997,1.3076188092073262,323.11,24.3
+Kondapur,Ameerpet,8.16,4,0,1,116.2,1.0,174.3,1.9
+Ameerpet,Gachibowli,4.87,16,0,0,70.9625,1.0,70.96,4.0
+Mehdipatnam,Ameerpet,4.89,2,0,1,71.2375,1.0,106.86,2.7
+Ameerpet,Kukatpally,12.88,10,0,0,181.10000000000002,1.0,181.1,6.0
+Mehdipatnam,Secunderabad,16.77,19,1,0,234.5875,1.3783744741844002,323.35,2.3
+Ameerpet,Mehdipatnam,11.79,14,0,0,166.11249999999998,1.0,166.11,5.5
+Kondapur,Kukatpally,13.11,5,0,0,184.2625,1.0,184.26,2.5
+Kukatpally,Gachibowli,13.16,15,0,0,184.95000000000002,1.0,184.95,5.8
+Mehdipatnam,Kondapur,5.62,1,0,1,81.27499999999999,1.0,121.91,8.7
+Gachibowli,Ameerpet,3.25,9,1,0,48.6875,1.5673548904571069,76.31,5.3
+Mehdipatnam,Secunderabad,4.84,21,0,0,70.55,1.0,70.55,6.3
+Secunderabad,Gachibowli,2.33,0,0,1,36.0375,1.0,54.06,0.2
+Ameerpet,Banjara Hills,5.68,3,0,1,82.1,1.0,123.15,9.4
+Kukatpally,Kondapur,13.47,13,0,0,189.2125,1.0,189.21,1.9
+Banjara Hills,Secunderabad,17.62,16,0,0,246.275,1.0,246.28,5.0
+Mehdipatnam,Dilsukhnagar,6.9,19,1,0,98.87500000000001,1.6490306098057388,163.05,22.9
+Ameerpet,Banjara Hills,5.77,8,1,0,83.3375,1.4630309880184567,121.93,24.9
+Ameerpet,Gachibowli,10.52,8,1,0,148.65,1.3452132479885264,199.97,17.9
+Banjara Hills,Dilsukhnagar,4.79,22,0,0,69.8625,1.0,69.86,0.5
+Ameerpet,Banjara Hills,1.99,0,0,1,31.362499999999997,1.0,47.04,2.1
+Kondapur,Mehdipatnam,5.58,7,0,0,80.725,1.0,80.72,3.5
+Kukatpally,Ameerpet,5.05,0,0,1,73.4375,1.0,110.16,6.7
+Kukatpally,Dilsukhnagar,17.2,9,1,0,240.5,1.7309785849083528,416.3,9.6
+Ameerpet,Mehdipatnam,6.17,23,0,1,88.8375,1.0,133.26,2.0
+Kukatpally,Dilsukhnagar,13.76,23,0,1,193.2,1.0,289.8,9.9
+Banjara Hills,Mehdipatnam,14.22,16,0,0,199.525,1.0,199.53,9.2
+Secunderabad,Mehdipatnam,10.38,16,0,0,146.72500000000002,1.0,146.73,8.7
+Gachibowli,Dilsukhnagar,15.69,17,0,0,219.7375,1.0,219.74,7.9
+Kondapur,Kukatpally,11.9,10,0,0,167.625,1.0,167.62,6.4
+Secunderabad,Kukatpally,9.74,17,0,0,137.925,1.0,137.93,6.5
+Kondapur,Banjara Hills,2.56,1,0,1,39.2,1.0,58.8,5.0
+Banjara Hills,Mehdipatnam,11.38,12,0,0,160.47500000000002,1.0,160.48,3.0
+Banjara Hills,Dilsukhnagar,2.43,21,0,0,37.4125,1.0,37.41,0.3
+Ameerpet,Banjara Hills,6.14,2,0,1,88.42499999999998,1.0,132.64,4.1
+Kukatpally,Gachibowli,5.79,5,0,0,83.61249999999998,1.0,83.61,1.1
+Kondapur,Secunderabad,14.48,20,1,0,203.10000000000002,1.648065983720231,334.72,18.0
+Dilsukhnagar,Ameerpet,8.86,3,0,1,125.825,1.0,188.74,2.9
+Ameerpet,Kondapur,5.62,23,0,1,81.27499999999999,1.0,121.91,5.5
+Gachibowli,Secunderabad,13.75,19,1,0,193.0625,1.7235814815281012,332.76,20.7
+Secunderabad,Banjara Hills,17.22,3,0,1,240.77499999999998,1.0,361.16,6.3
+Gachibowli,Mehdipatnam,5.98,15,0,0,86.22500000000001,1.0,86.23,8.8
+Kondapur,Secunderabad,7.98,18,1,0,113.72500000000001,1.697322765751775,193.03,8.7
+Gachibowli,Dilsukhnagar,14.61,22,0,0,204.8875,1.0,204.89,8.4
+Dilsukhnagar,Mehdipatnam,8.34,21,0,0,118.675,1.0,118.67,3.0
+Dilsukhnagar,Kondapur,8.28,13,0,0,117.85,1.0,117.85,3.8
+Banjara Hills,Dilsukhnagar,8.59,22,0,0,122.1125,1.0,122.11,0.0
+Kukatpally,Secunderabad,13.58,17,0,0,190.725,1.0,190.72,3.0
+Secunderabad,Gachibowli,7.2,10,0,0,103.0,1.0,103.0,7.3
+Mehdipatnam,Dilsukhnagar,3.5,14,0,0,52.125,1.0,52.12,1.1
+Ameerpet,Kukatpally,10.07,10,0,0,142.4625,1.0,142.46,2.5
+Dilsukhnagar,Banjara Hills,7.95,18,1,0,113.3125,1.4014042998234357,158.8,18.7
+Banjara Hills,Mehdipatnam,10.69,14,0,0,150.9875,1.0,150.99,7.5
+Gachibowli,Ameerpet,12.7,7,0,0,178.625,1.0,178.62,7.0
+Gachibowli,Secunderabad,9.75,18,1,0,138.0625,1.5280111530595732,210.96,14.4
+Kondapur,Banjara Hills,3.4,16,0,0,50.75,1.0,50.75,5.0
+Kondapur,Secunderabad,8.75,23,0,1,124.3125,1.0,186.47,6.9
+Dilsukhnagar,Kondapur,7.97,16,0,0,113.58749999999999,1.0,113.59,6.8
+Kukatpally,Gachibowli,17.2,0,0,1,240.5,1.0,360.75,0.2
+Gachibowli,Ameerpet,2.64,2,0,1,40.3,1.0,60.45,5.6
+Kondapur,Mehdipatnam,12.86,15,0,0,180.825,1.0,180.82,0.1
+Ameerpet,Gachibowli,10.34,0,0,1,146.175,1.0,219.26,4.7
+Secunderabad,Gachibowli,9.5,18,1,0,134.625,1.3713052680711069,184.61,13.3
+Kondapur,Mehdipatnam,15.04,8,1,0,210.79999999999998,1.7295359260634084,364.59,11.7
+Kondapur,Dilsukhnagar,7.9,7,0,0,112.62500000000001,1.0,112.63,0.2
+Banjara Hills,Kukatpally,2.61,21,0,0,39.887499999999996,1.0,39.89,4.8
+Dilsukhnagar,Gachibowli,13.76,14,0,0,193.2,1.0,193.2,0.7
+Gachibowli,Kukatpally,2.72,1,0,1,41.400000000000006,1.0,62.1,5.1
+Secunderabad,Banjara Hills,5.32,9,1,0,77.15,1.392697291581572,107.45,5.5
+Secunderabad,Dilsukhnagar,7.65,22,0,0,109.18750000000001,1.0,109.19,3.7
+Mehdipatnam,Kondapur,13.43,10,0,0,188.6625,1.0,188.66,9.3
+Secunderabad,Mehdipatnam,15.22,16,0,0,213.275,1.0,213.28,3.7
+Dilsukhnagar,Ameerpet,3.07,23,0,1,46.21249999999999,1.0,69.32,5.5
+Gachibowli,Kondapur,14.15,4,0,1,198.5625,1.0,297.84,5.2
+Secunderabad,Banjara Hills,12.68,19,1,0,178.35,1.284194710916109,229.04,16.8
+Banjara Hills,Ameerpet,13.75,6,0,0,193.0625,1.0,193.06,6.6
+Dilsukhnagar,Ameerpet,7.95,16,0,0,113.3125,1.0,113.31,2.6
+Dilsukhnagar,Mehdipatnam,8.65,3,0,1,122.93750000000001,1.0,184.41,8.5
+Kondapur,Dilsukhnagar,14.01,11,0,0,196.6375,1.0,196.64,4.7
+Kondapur,Mehdipatnam,5.97,7,0,0,86.08749999999999,1.0,86.09,5.9
+Gachibowli,Secunderabad,5.05,11,0,0,73.4375,1.0,73.44,7.2
+Mehdipatnam,Banjara Hills,10.71,1,0,1,151.26250000000002,1.0,226.89,1.3
+Mehdipatnam,Kukatpally,8.94,16,0,0,126.925,1.0,126.92,2.7
+Secunderabad,Gachibowli,5.86,5,0,0,84.57499999999999,1.0,84.57,7.5
+Kondapur,Gachibowli,10.22,20,1,0,144.52500000000003,1.6167845753362367,233.67,5.5
+Ameerpet,Banjara Hills,5.87,6,0,0,84.71249999999999,1.0,84.71,7.8
+Dilsukhnagar,Ameerpet,9.12,22,0,0,129.39999999999998,1.0,129.4,1.9
+Ameerpet,Kukatpally,13.03,11,0,0,183.1625,1.0,183.16,1.5
+Banjara Hills,Gachibowli,9.16,21,0,0,129.95,1.0,129.95,0.3
+Kondapur,Mehdipatnam,15.1,23,0,1,211.625,1.0,317.44,8.6
+Banjara Hills,Secunderabad,8.58,13,0,0,121.97500000000001,1.0,121.98,8.9
+Banjara Hills,Dilsukhnagar,16.37,7,0,0,229.0875,1.0,229.09,6.7
+Kukatpally,Mehdipatnam,13.84,0,0,1,194.3,1.0,291.45,5.8
+Banjara Hills,Secunderabad,3.07,19,1,0,46.21249999999999,1.7418562367259232,80.5,23.3
+Mehdipatnam,Secunderabad,15.66,12,0,0,219.32500000000002,1.0,219.33,4.7
+Dilsukhnagar,Banjara Hills,6.52,12,0,0,93.65,1.0,93.65,1.3
+Ameerpet,Mehdipatnam,7.45,18,1,0,106.4375,1.4436070810236663,153.65,0.3
+Ameerpet,Secunderabad,5.33,5,0,0,77.2875,1.0,77.29,0.2
+Banjara Hills,Kukatpally,13.15,3,0,1,184.8125,1.0,277.22,0.4
+Dilsukhnagar,Mehdipatnam,1.59,2,0,1,26.0,1.0,39.0,6.2
+Kondapur,Secunderabad,11.18,3,0,1,157.725,1.0,236.59,9.9
+Dilsukhnagar,Mehdipatnam,8.8,9,1,0,125.00000000000001,1.2830612959976366,160.38,14.5
+Banjara Hills,Mehdipatnam,15.83,10,0,0,221.6625,1.0,221.66,9.3
+Dilsukhnagar,Ameerpet,10.21,4,0,1,144.38750000000002,1.0,216.58,10.0
+Ameerpet,Kukatpally,12.22,16,0,0,172.025,1.0,172.03,4.6
+Secunderabad,Gachibowli,9.82,10,0,0,139.025,1.0,139.03,8.3
+Mehdipatnam,Banjara Hills,15.75,23,0,1,220.5625,1.0,330.84,9.4
+Kondapur,Ameerpet,9.76,8,1,0,138.2,1.586554034190487,219.26,24.4
+Secunderabad,Kukatpally,10.65,0,0,1,150.4375,1.0,225.66,6.4
+Ameerpet,Gachibowli,4.46,11,0,0,65.32499999999999,1.0,65.32,0.4
+Kukatpally,Banjara Hills,8.97,13,0,0,127.33750000000002,1.0,127.34,1.7
+Ameerpet,Kukatpally,14.36,22,0,0,201.45,1.0,201.45,1.7
+Dilsukhnagar,Ameerpet,9.01,19,1,0,127.8875,1.776552088157295,227.2,13.4
+Banjara Hills,Kukatpally,8.13,12,0,0,115.78750000000002,1.0,115.79,5.8
+Gachibowli,Dilsukhnagar,12.1,21,0,0,170.375,1.0,170.38,5.8
+Banjara Hills,Ameerpet,7.36,21,0,0,105.2,1.0,105.2,7.0
+Kondapur,Kukatpally,2.9,19,1,0,43.875,1.7285838033837946,75.84,22.1
+Secunderabad,Mehdipatnam,4.99,12,0,0,72.61250000000001,1.0,72.61,9.8
+Banjara Hills,Mehdipatnam,13.67,23,0,1,191.9625,1.0,287.94,8.8
+Gachibowli,Ameerpet,4.81,4,0,1,70.13749999999999,1.0,105.21,9.0
+Dilsukhnagar,Banjara Hills,17.56,7,0,0,245.45,1.0,245.45,9.4
+Kondapur,Dilsukhnagar,3.61,6,0,0,53.637499999999996,1.0,53.64,4.4
+Ameerpet,Gachibowli,12.54,9,1,0,176.42499999999998,1.7627791388603367,311.0,2.1
+Mehdipatnam,Kukatpally,2.67,11,0,0,40.7125,1.0,40.71,1.7
+Mehdipatnam,Kondapur,2.41,23,0,1,37.1375,1.0,55.71,1.0
+Ameerpet,Banjara Hills,3.93,2,0,1,58.0375,1.0,87.06,9.9
+Gachibowli,Kondapur,6.09,7,0,0,87.73750000000001,1.0,87.74,2.1
+Banjara Hills,Kondapur,5.34,9,1,0,77.425,1.3538778366100597,104.82,8.9
+Kondapur,Secunderabad,2.53,4,0,1,38.787499999999994,1.0,58.18,1.7
+Ameerpet,Banjara Hills,14.32,5,0,0,200.9,1.0,200.9,8.6
+Dilsukhnagar,Banjara Hills,3.13,22,0,0,47.037499999999994,1.0,47.04,7.1
+Secunderabad,Dilsukhnagar,3.76,5,0,0,55.699999999999996,1.0,55.7,7.8
+Banjara Hills,Secunderabad,6.64,11,0,0,95.29999999999998,1.0,95.3,2.7
+Secunderabad,Banjara Hills,2.86,22,0,0,43.324999999999996,1.0,43.32,9.8
+Kukatpally,Gachibowli,13.3,20,1,0,186.87500000000003,1.451164364950998,271.19,11.5
+Kondapur,Gachibowli,10.98,18,1,0,154.97500000000002,1.7950637285875497,278.19,16.6
+Kukatpally,Banjara Hills,2.24,22,0,0,34.800000000000004,1.0,34.8,8.4
+Gachibowli,Kukatpally,17.02,20,1,0,238.025,1.4936355224439533,355.52,18.5
+Dilsukhnagar,Ameerpet,9.47,18,1,0,134.21250000000003,1.5948495508495142,214.05,2.9
+Banjara Hills,Kukatpally,3.53,6,0,0,52.537499999999994,1.0,52.54,4.5
+Gachibowli,Dilsukhnagar,16.4,12,0,0,229.49999999999997,1.0,229.5,9.5
+Kondapur,Dilsukhnagar,10.87,13,0,0,153.46249999999998,1.0,153.46,6.4
+Ameerpet,Kondapur,10.62,12,0,0,150.02499999999998,1.0,150.02,6.6
+Secunderabad,Banjara Hills,10.92,20,1,0,154.15,1.3671858378690218,210.75,5.5
+Kondapur,Dilsukhnagar,15.12,21,0,0,211.9,1.0,211.9,6.0
+Secunderabad,Banjara Hills,10.93,5,0,0,154.2875,1.0,154.29,3.7
+Mehdipatnam,Kukatpally,7.56,11,0,0,107.94999999999999,1.0,107.95,5.6
+Dilsukhnagar,Kondapur,14.63,19,1,0,205.16250000000002,1.6036587686474801,329.01,5.5
+Secunderabad,Kondapur,15.92,6,0,0,222.9,1.0,222.9,5.9
+Ameerpet,Secunderabad,11.79,9,1,0,166.11249999999998,1.675556887925481,278.33,15.7
+Kondapur,Gachibowli,4.01,0,0,1,59.137499999999996,1.0,88.71,5.5
+Kondapur,Gachibowli,6.35,7,0,0,91.3125,1.0,91.31,9.2
+Kondapur,Banjara Hills,6.31,7,0,0,90.76249999999999,1.0,90.76,9.2
+Dilsukhnagar,Mehdipatnam,11.23,4,0,1,158.41250000000002,1.0,237.62,4.7
+Gachibowli,Secunderabad,4.05,1,0,1,59.68749999999999,1.0,89.53,7.6
+Dilsukhnagar,Gachibowli,13.12,12,0,0,184.4,1.0,184.4,7.7
+Kondapur,Dilsukhnagar,15.15,12,0,0,212.3125,1.0,212.31,6.7
+Secunderabad,Kondapur,2.25,16,0,0,34.9375,1.0,34.94,5.1
+Ameerpet,Banjara Hills,16.52,9,1,0,231.15,1.6641316451189323,384.66,3.1
+Banjara Hills,Ameerpet,6.09,19,1,0,87.73750000000001,1.7570301033817846,154.16,24.9
+Ameerpet,Mehdipatnam,13.94,15,0,0,195.675,1.0,195.68,2.4
+Dilsukhnagar,Ameerpet,13.46,13,0,0,189.07500000000002,1.0,189.08,9.1
+Banjara Hills,Mehdipatnam,4.36,0,0,1,63.95,1.0,95.93,6.1
+Kukatpally,Dilsukhnagar,2.42,6,0,0,37.275,1.0,37.27,1.3
+Gachibowli,Kukatpally,5.41,20,1,0,78.3875,1.5394689329045979,120.68,23.2
+Secunderabad,Dilsukhnagar,2.59,4,0,1,39.6125,1.0,59.42,7.5
+Mehdipatnam,Dilsukhnagar,2.94,16,0,0,44.425,1.0,44.42,2.3
+Mehdipatnam,Gachibowli,6.98,1,0,1,99.97500000000001,1.0,149.96,6.7
+Mehdipatnam,Banjara Hills,5.88,16,0,0,84.85,1.0,84.85,6.5
+Banjara Hills,Secunderabad,6.38,5,0,0,91.725,1.0,91.72,9.5
+Mehdipatnam,Kondapur,13.69,16,0,0,192.2375,1.0,192.24,2.8
+Kukatpally,Secunderabad,1.67,16,0,0,26.9625,1.0,26.96,7.1
+Dilsukhnagar,Ameerpet,17.84,2,0,1,249.29999999999998,1.0,373.95,1.4
+Banjara Hills,Mehdipatnam,15.52,9,1,0,217.4,1.4060320213065864,305.67,20.9
+Dilsukhnagar,Ameerpet,4.56,15,0,0,66.69999999999999,1.0,66.7,4.5
+Secunderabad,Ameerpet,4.22,14,0,0,62.025,1.0,62.02,1.6
+Ameerpet,Banjara Hills,3.98,13,0,0,58.725,1.0,58.73,4.5
+Dilsukhnagar,Kukatpally,4.62,23,0,1,67.525,1.0,101.29,4.7
+Kukatpally,Gachibowli,13.89,7,0,0,194.9875,1.0,194.99,5.8
+Mehdipatnam,Secunderabad,3.39,15,0,0,50.6125,1.0,50.61,7.8
+Mehdipatnam,Kondapur,15.77,11,0,0,220.8375,1.0,220.84,4.1
+Kukatpally,Banjara Hills,16.1,19,1,0,225.37500000000003,1.6544786672704306,372.88,7.4
+Banjara Hills,Dilsukhnagar,3.27,21,0,0,48.9625,1.0,48.96,1.9
+Secunderabad,Mehdipatnam,7.14,19,1,0,102.17499999999998,1.698569502633041,173.55,3.0
+Secunderabad,Kondapur,10.27,5,0,0,145.2125,1.0,145.21,6.8
+Kukatpally,Mehdipatnam,3.76,14,0,0,55.699999999999996,1.0,55.7,4.3
+Kondapur,Gachibowli,7.94,5,0,0,113.175,1.0,113.17,9.0
+Banjara Hills,Ameerpet,13.59,3,0,1,190.8625,1.0,286.29,5.8
+Kondapur,Ameerpet,15.9,7,0,0,222.625,1.0,222.62,6.6
+Mehdipatnam,Kukatpally,10.75,19,1,0,151.8125,1.2064866501811178,183.16,20.7
+Kondapur,Secunderabad,3.13,20,1,0,47.037499999999994,1.4783890189001325,69.54,3.0
+Kondapur,Dilsukhnagar,5.04,8,1,0,73.3,1.7374187779196233,127.35,19.6
+Banjara Hills,Ameerpet,11.68,10,0,0,164.6,1.0,164.6,5.3
+Ameerpet,Banjara Hills,4.35,7,0,0,63.81249999999999,1.0,63.81,3.0
+Kondapur,Secunderabad,15.01,8,1,0,210.3875,1.2190670906143946,256.48,19.6
+Banjara Hills,Dilsukhnagar,3.88,19,1,0,57.349999999999994,1.2163500071704891,69.76,13.1
+Secunderabad,Kondapur,11.63,0,0,1,163.91250000000002,1.0,245.87,1.4
+Kukatpally,Dilsukhnagar,16.31,14,0,0,228.2625,1.0,228.26,8.2
+Secunderabad,Mehdipatnam,7.29,7,0,0,104.2375,1.0,104.24,1.6
+Gachibowli,Kukatpally,10.7,12,0,0,151.125,1.0,151.12,0.8
+Gachibowli,Dilsukhnagar,16.56,2,0,1,231.7,1.0,347.55,2.2
+Dilsukhnagar,Kondapur,11.01,12,0,0,155.3875,1.0,155.39,4.6
+Kondapur,Mehdipatnam,1.78,4,0,1,28.474999999999998,1.0,42.71,9.3
+Gachibowli,Banjara Hills,10.27,14,0,0,145.2125,1.0,145.21,4.8
+Ameerpet,Dilsukhnagar,4.16,17,0,0,61.2,1.0,61.2,9.7
+Gachibowli,Kukatpally,13.29,12,0,0,186.73749999999998,1.0,186.74,2.2
+Ameerpet,Banjara Hills,9.95,10,0,0,140.8125,1.0,140.81,0.4
+Mehdipatnam,Gachibowli,12.2,19,1,0,171.75,1.530398027664511,262.85,10.1
+Banjara Hills,Ameerpet,14.94,16,0,0,209.425,1.0,209.43,9.0
+Kukatpally,Gachibowli,8.83,3,0,1,125.41250000000001,1.0,188.12,4.1
+Kukatpally,Dilsukhnagar,6.09,14,0,0,87.73750000000001,1.0,87.74,4.0
+Ameerpet,Mehdipatnam,1.98,15,0,0,31.224999999999998,1.0,31.22,0.4
+Kondapur,Kukatpally,4.28,12,0,0,62.85,1.0,62.85,7.1
+Mehdipatnam,Dilsukhnagar,6.74,14,0,0,96.67500000000001,1.0,96.68,7.3
+Gachibowli,Banjara Hills,5.14,7,0,0,74.675,1.0,74.67,0.5
+Ameerpet,Mehdipatnam,7.76,15,0,0,110.7,1.0,110.7,4.0
+Kukatpally,Dilsukhnagar,10.27,4,0,1,145.2125,1.0,217.82,7.8
+Dilsukhnagar,Ameerpet,8.82,12,0,0,125.275,1.0,125.28,6.6
+Secunderabad,Dilsukhnagar,17.06,13,0,0,238.575,1.0,238.57,1.1
+Kondapur,Banjara Hills,9.76,9,1,0,138.2,1.706527395171686,235.84,12.1
+Banjara Hills,Gachibowli,6.59,19,1,0,94.6125,1.3291226878399156,125.75,22.1
+Dilsukhnagar,Mehdipatnam,15.17,10,0,0,212.5875,1.0,212.59,9.8
+Ameerpet,Banjara Hills,8.02,8,1,0,114.275,1.3265317366084728,151.59,21.4
+Banjara Hills,Secunderabad,8.77,0,0,1,124.5875,1.0,186.88,4.0
+Banjara Hills,Dilsukhnagar,5.89,9,1,0,84.98749999999998,1.2154617592586106,103.3,15.1
+Dilsukhnagar,Secunderabad,12.85,16,0,0,180.6875,1.0,180.69,3.0
+Gachibowli,Banjara Hills,2.58,14,0,0,39.475,1.0,39.48,4.2
+Ameerpet,Banjara Hills,8.38,1,0,1,119.22500000000002,1.0,178.84,1.7
+Banjara Hills,Dilsukhnagar,14.0,13,0,0,196.5,1.0,196.5,7.2
+Secunderabad,Kukatpally,7.12,8,1,0,101.89999999999999,1.2314347773569168,125.48,4.0
+Banjara Hills,Kukatpally,2.77,10,0,0,42.0875,1.0,42.09,0.2
+Kondapur,Dilsukhnagar,17.58,22,0,0,245.725,1.0,245.72,2.6
+Secunderabad,Kukatpally,16.79,9,1,0,234.86249999999998,1.756149807798665,412.45,5.3
+Banjara Hills,Gachibowli,1.66,2,0,1,26.825,1.0,40.24,0.3
+Kukatpally,Dilsukhnagar,14.4,10,0,0,202.0,1.0,202.0,3.1
+Banjara Hills,Kukatpally,11.21,12,0,0,158.13750000000002,1.0,158.14,5.7
+Secunderabad,Kukatpally,2.52,14,0,0,38.65,1.0,38.65,2.7
+Dilsukhnagar,Banjara Hills,7.68,13,0,0,109.6,1.0,109.6,1.9
+Ameerpet,Kondapur,8.27,10,0,0,117.7125,1.0,117.71,8.1
+Kondapur,Gachibowli,5.23,20,1,0,75.9125,1.2525547784435678,95.08,2.2
+Ameerpet,Kondapur,2.33,14,0,0,36.0375,1.0,36.04,8.7
+Secunderabad,Banjara Hills,4.98,9,1,0,72.475,1.5976777645258329,115.79,21.8
+Kondapur,Secunderabad,13.5,14,0,0,189.625,1.0,189.62,3.9
+Secunderabad,Ameerpet,4.16,9,1,0,61.2,1.3251530206446305,81.1,7.4
+Dilsukhnagar,Ameerpet,10.53,5,0,0,148.7875,1.0,148.79,3.5
+Kukatpally,Dilsukhnagar,3.57,17,0,0,53.08749999999999,1.0,53.09,0.6
+Ameerpet,Dilsukhnagar,7.97,22,0,0,113.58749999999999,1.0,113.59,8.0
+Mehdipatnam,Dilsukhnagar,17.6,3,0,1,246.0,1.0,369.0,8.9
+Ameerpet,Banjara Hills,6.41,6,0,0,92.1375,1.0,92.14,1.1
+Secunderabad,Dilsukhnagar,15.94,14,0,0,223.175,1.0,223.18,8.3
+Gachibowli,Kondapur,3.24,4,0,1,48.55,1.0,72.82,1.6
+Secunderabad,Mehdipatnam,7.45,3,0,1,106.4375,1.0,159.66,2.7
+Kukatpally,Secunderabad,17.88,9,1,0,249.84999999999997,1.5027714147646174,375.47,2.9
+Kukatpally,Dilsukhnagar,7.3,2,0,1,104.37499999999999,1.0,156.56,5.8
+Kondapur,Banjara Hills,6.28,20,1,0,90.35,1.6608032611879258,150.05,10.9
+Kukatpally,Mehdipatnam,11.71,23,0,1,165.01250000000002,1.0,247.52,5.6
+Banjara Hills,Secunderabad,1.89,10,0,0,29.987499999999997,1.0,29.99,2.8
+Mehdipatnam,Banjara Hills,3.14,6,0,0,47.175,1.0,47.17,0.2
+Kukatpally,Kondapur,2.16,0,0,1,33.7,1.0,50.55,4.9
+Banjara Hills,Gachibowli,12.26,20,1,0,172.575,1.6592180183148244,286.34,6.3
+Banjara Hills,Ameerpet,3.2,10,0,0,48.0,1.0,48.0,9.8
+Mehdipatnam,Ameerpet,15.47,11,0,0,216.7125,1.0,216.71,1.5
+Mehdipatnam,Gachibowli,17.07,16,0,0,238.7125,1.0,238.71,6.8
+Ameerpet,Dilsukhnagar,8.58,5,0,0,121.97500000000001,1.0,121.98,1.4
+Banjara Hills,Kondapur,9.16,9,1,0,129.95,1.339999693589596,174.13,15.6
+Gachibowli,Dilsukhnagar,5.11,4,0,1,74.2625,1.0,111.39,6.5
+Kondapur,Dilsukhnagar,3.51,17,0,0,52.262499999999996,1.0,52.26,0.4
+Gachibowli,Mehdipatnam,4.53,1,0,1,66.2875,1.0,99.43,4.1
+Gachibowli,Kondapur,1.96,9,1,0,30.95,1.248959232002903,38.66,6.5
+Ameerpet,Banjara Hills,11.92,0,0,1,167.9,1.0,251.85,6.7
+Ameerpet,Dilsukhnagar,6.38,13,0,0,91.725,1.0,91.72,4.0
+Dilsukhnagar,Ameerpet,11.27,19,1,0,158.9625,1.5383517400533742,244.54,12.5
+Kukatpally,Dilsukhnagar,2.98,17,0,0,44.974999999999994,1.0,44.97,1.3
+Kukatpally,Mehdipatnam,8.21,23,0,1,116.88750000000002,1.0,175.33,8.5
+Kondapur,Ameerpet,13.49,15,0,0,189.4875,1.0,189.49,9.9
+Banjara Hills,Gachibowli,6.58,12,0,0,94.47500000000001,1.0,94.48,6.8
+Kukatpally,Dilsukhnagar,6.38,12,0,0,91.725,1.0,91.72,2.7
+Mehdipatnam,Secunderabad,12.42,7,0,0,174.775,1.0,174.78,1.3
+Dilsukhnagar,Banjara Hills,2.2,11,0,0,34.25,1.0,34.25,3.2
+Kondapur,Banjara Hills,10.68,6,0,0,150.85,1.0,150.85,1.3
+Dilsukhnagar,Ameerpet,16.75,21,0,0,234.3125,1.0,234.31,9.2
+Kukatpally,Secunderabad,3.21,19,1,0,48.1375,1.5869417431754136,76.39,7.2
+Secunderabad,Banjara Hills,16.2,20,1,0,226.75,1.627282227528363,368.99,8.9
+Mehdipatnam,Dilsukhnagar,1.71,22,0,0,27.5125,1.0,27.51,8.2
+Kondapur,Mehdipatnam,15.09,4,0,1,211.4875,1.0,317.23,5.1
+Secunderabad,Banjara Hills,10.56,21,0,0,149.20000000000002,1.0,149.2,6.7
+Kondapur,Ameerpet,5.22,7,0,0,75.775,1.0,75.78,0.9
+Ameerpet,Kondapur,3.09,10,0,0,46.4875,1.0,46.49,8.3
+Secunderabad,Mehdipatnam,10.28,15,0,0,145.35,1.0,145.35,10.0
+Secunderabad,Mehdipatnam,14.91,20,1,0,209.01250000000002,1.3834463744683747,289.16,10.1
+Kondapur,Ameerpet,12.76,15,0,0,179.45,1.0,179.45,1.3
+Mehdipatnam,Kondapur,3.62,11,0,0,53.775,1.0,53.77,6.9
+Kondapur,Ameerpet,13.93,3,0,1,195.5375,1.0,293.31,4.3
+Mehdipatnam,Dilsukhnagar,3.03,10,0,0,45.662499999999994,1.0,45.66,1.9
+Ameerpet,Gachibowli,6.19,19,1,0,89.1125,1.4952326936294402,133.24,19.9
+Mehdipatnam,Ameerpet,5.23,7,0,0,75.9125,1.0,75.91,9.6
+Banjara Hills,Mehdipatnam,9.4,10,0,0,133.25,1.0,133.25,2.8
+Gachibowli,Kondapur,12.26,15,0,0,172.575,1.0,172.57,1.1
+Ameerpet,Banjara Hills,10.48,13,0,0,148.10000000000002,1.0,148.1,0.5
+Kukatpally,Ameerpet,16.89,1,0,1,236.2375,1.0,354.36,5.0
+Banjara Hills,Secunderabad,5.66,5,0,0,81.82500000000002,1.0,81.83,6.5
+Ameerpet,Gachibowli,17.62,7,0,0,246.275,1.0,246.28,5.8
+Secunderabad,Banjara Hills,7.52,10,0,0,107.4,1.0,107.4,9.1
+Ameerpet,Gachibowli,13.06,5,0,0,183.57500000000002,1.0,183.58,5.6
+Mehdipatnam,Ameerpet,16.54,13,0,0,231.42499999999998,1.0,231.42,7.3
+Banjara Hills,Gachibowli,17.59,21,0,0,245.8625,1.0,245.86,3.0
+Ameerpet,Dilsukhnagar,11.86,16,0,0,167.075,1.0,167.07,6.8
+Kukatpally,Ameerpet,7.61,8,1,0,108.6375,1.3505274599344201,146.72,3.0
+Ameerpet,Mehdipatnam,17.49,21,0,0,244.48749999999998,1.0,244.49,4.7
+Gachibowli,Kondapur,4.24,2,0,1,62.300000000000004,1.0,93.45,6.6
+Gachibowli,Ameerpet,8.95,19,1,0,127.0625,1.4404225001006798,183.02,2.9
+Banjara Hills,Gachibowli,8.34,9,1,0,118.675,1.5683876737640363,186.13,15.4
+Secunderabad,Ameerpet,8.05,22,0,0,114.68750000000001,1.0,114.69,4.1
+Dilsukhnagar,Secunderabad,3.73,16,0,0,55.287499999999994,1.0,55.29,1.5
+Kukatpally,Gachibowli,11.43,17,0,0,161.1625,1.0,161.16,4.0
+Ameerpet,Gachibowli,3.59,20,1,0,53.3625,1.605372785758946,85.67,1.0
+Ameerpet,Mehdipatnam,13.02,3,0,1,183.025,1.0,274.54,5.5
+Secunderabad,Kukatpally,15.89,2,0,1,222.4875,1.0,333.73,1.2
+Banjara Hills,Mehdipatnam,6.38,19,1,0,91.725,1.247568170778715,114.43,14.1
+Secunderabad,Gachibowli,8.04,15,0,0,114.55,1.0,114.55,5.6
+Mehdipatnam,Ameerpet,7.63,4,0,1,108.9125,1.0,163.37,0.8
+Banjara Hills,Secunderabad,13.96,6,0,0,195.95000000000002,1.0,195.95,5.0
+Secunderabad,Dilsukhnagar,6.7,1,0,1,96.125,1.0,144.19,6.3
+Secunderabad,Ameerpet,14.43,20,1,0,202.4125,1.3171182987431296,266.6,17.0
+Dilsukhnagar,Kukatpally,17.8,12,0,0,248.75,1.0,248.75,3.9
+Ameerpet,Dilsukhnagar,9.25,17,0,0,131.1875,1.0,131.19,5.8
+Kondapur,Dilsukhnagar,12.59,0,0,1,177.1125,1.0,265.67,1.5
+Ameerpet,Dilsukhnagar,11.7,6,0,0,164.875,1.0,164.88,9.8
+Kondapur,Ameerpet,14.94,0,0,1,209.425,1.0,314.14,5.7
+Kondapur,Banjara Hills,11.57,6,0,0,163.0875,1.0,163.09,3.8
+Secunderabad,Kukatpally,11.39,10,0,0,160.6125,1.0,160.61,4.6
+Secunderabad,Kondapur,16.44,11,0,0,230.05,1.0,230.05,0.5
+Kukatpally,Ameerpet,15.13,17,0,0,212.03750000000002,1.0,212.04,2.6
+Kukatpally,Secunderabad,2.62,1,0,1,40.025,1.0,60.04,8.3
+Secunderabad,Kukatpally,14.44,20,1,0,202.55,1.4484846409293997,293.39,23.9
+Secunderabad,Banjara Hills,11.48,18,1,0,161.85000000000002,1.575390473656366,254.98,14.3
+Kondapur,Dilsukhnagar,2.48,22,0,0,38.099999999999994,1.0,38.1,7.9
+Kondapur,Mehdipatnam,5.24,6,0,0,76.05000000000001,1.0,76.05,3.7
+Dilsukhnagar,Kondapur,1.7,2,0,1,27.375,1.0,41.06,1.8
+Ameerpet,Secunderabad,7.88,5,0,0,112.35,1.0,112.35,3.9
+Secunderabad,Kondapur,17.21,2,0,1,240.63750000000002,1.0,360.96,3.8
+Dilsukhnagar,Kukatpally,3.9,3,0,1,57.625,1.0,86.44,0.1
+Mehdipatnam,Secunderabad,10.63,15,0,0,150.16250000000002,1.0,150.16,5.7
+Banjara Hills,Gachibowli,10.7,12,0,0,151.125,1.0,151.12,1.1
+Dilsukhnagar,Banjara Hills,14.33,1,0,1,201.0375,1.0,301.56,1.9
+Banjara Hills,Gachibowli,12.15,0,0,1,171.0625,1.0,256.59,3.3
+Banjara Hills,Secunderabad,9.0,16,0,0,127.75,1.0,127.75,0.8
+Ameerpet,Gachibowli,3.59,13,0,0,53.3625,1.0,53.36,5.2
+Gachibowli,Kondapur,7.41,10,0,0,105.8875,1.0,105.89,6.9
+Kondapur,Mehdipatnam,2.28,12,0,0,35.349999999999994,1.0,35.35,0.9
+Ameerpet,Kukatpally,12.59,18,1,0,177.1125,1.3986878934984899,247.73,19.1
+Gachibowli,Kondapur,11.06,3,0,1,156.07500000000002,1.0,234.11,1.8
+Kukatpally,Ameerpet,17.47,5,0,0,244.21249999999998,1.0,244.21,7.3
+Banjara Hills,Dilsukhnagar,7.99,12,0,0,113.86250000000001,1.0,113.86,1.7
+Ameerpet,Dilsukhnagar,11.69,17,0,0,164.7375,1.0,164.74,6.8
+Dilsukhnagar,Kondapur,9.34,11,0,0,132.425,1.0,132.43,0.7
+Kukatpally,Banjara Hills,7.27,10,0,0,103.9625,1.0,103.96,8.4
+Dilsukhnagar,Kondapur,12.84,13,0,0,180.55,1.0,180.55,8.3
+Ameerpet,Gachibowli,11.91,10,0,0,167.76250000000002,1.0,167.76,9.8
+Dilsukhnagar,Secunderabad,4.71,11,0,0,68.76249999999999,1.0,68.76,7.3
+Ameerpet,Kondapur,11.04,18,1,0,155.79999999999998,1.513130596894766,235.75,1.7
+Secunderabad,Gachibowli,17.29,2,0,1,241.73749999999998,1.0,362.61,1.4
+Mehdipatnam,Dilsukhnagar,8.15,22,0,0,116.06250000000001,1.0,116.06,5.7
+Secunderabad,Ameerpet,12.65,12,0,0,177.9375,1.0,177.94,1.3
+Ameerpet,Banjara Hills,17.16,20,1,0,239.95000000000002,1.460431305648574,350.43,3.2
+Gachibowli,Kukatpally,7.35,18,1,0,105.0625,1.60153141795492,168.26,12.1
+Dilsukhnagar,Secunderabad,16.99,17,0,0,237.61249999999998,1.0,237.61,5.8
+Gachibowli,Secunderabad,9.28,22,0,0,131.6,1.0,131.6,3.2
+Ameerpet,Kukatpally,2.64,14,0,0,40.3,1.0,40.3,0.3
+Kukatpally,Banjara Hills,14.37,19,1,0,201.5875,1.6196036797515858,326.49,8.3
+Kondapur,Secunderabad,8.3,20,1,0,118.12500000000001,1.641015111713894,193.84,15.3
+Kondapur,Gachibowli,3.7,4,0,1,54.875,1.0,82.31,9.1
+Ameerpet,Gachibowli,12.95,1,0,1,182.0625,1.0,273.09,2.9
+Kukatpally,Gachibowli,9.69,5,0,0,137.2375,1.0,137.24,0.9
+Mehdipatnam,Dilsukhnagar,3.23,2,0,1,48.412499999999994,1.0,72.62,1.7
+Mehdipatnam,Gachibowli,3.01,17,0,0,45.387499999999996,1.0,45.39,7.1
+Ameerpet,Secunderabad,3.57,2,0,1,53.08749999999999,1.0,79.63,9.0
+Ameerpet,Gachibowli,1.87,10,0,0,29.7125,1.0,29.71,5.9
+Banjara Hills,Kukatpally,11.84,22,0,0,166.8,1.0,166.8,4.3
+Banjara Hills,Secunderabad,16.57,0,0,1,231.8375,1.0,347.76,3.3
+Gachibowli,Mehdipatnam,4.49,7,0,0,65.73750000000001,1.0,65.74,2.5
+Kukatpally,Gachibowli,10.66,5,0,0,150.575,1.0,150.57,5.9
+Secunderabad,Gachibowli,2.85,6,0,0,43.1875,1.0,43.19,7.2
+Kukatpally,Dilsukhnagar,13.3,17,0,0,186.87500000000003,1.0,186.88,2.8
+Ameerpet,Secunderabad,14.9,14,0,0,208.875,1.0,208.88,3.9
+Banjara Hills,Gachibowli,6.6,3,0,1,94.75,1.0,142.12,2.7
+Dilsukhnagar,Mehdipatnam,10.7,4,0,1,151.125,1.0,226.69,4.6
+Ameerpet,Banjara Hills,12.44,1,0,1,175.05,1.0,262.58,8.2
+Ameerpet,Kukatpally,13.64,8,1,0,191.55,1.7278514413766062,330.97,1.2
+Secunderabad,Gachibowli,3.77,10,0,0,55.8375,1.0,55.84,2.2
+Kondapur,Kukatpally,15.68,23,0,1,219.6,1.0,329.4,4.2
+Kondapur,Kukatpally,16.54,8,1,0,231.42499999999998,1.6560033269772592,383.24,7.8
+Banjara Hills,Ameerpet,4.96,7,0,0,72.19999999999999,1.0,72.2,8.0
+Kondapur,Banjara Hills,7.87,18,1,0,112.21249999999999,1.7317729298734306,194.33,3.8
+Dilsukhnagar,Kukatpally,6.92,22,0,0,99.15,1.0,99.15,1.3
+Kukatpally,Gachibowli,13.53,6,0,0,190.0375,1.0,190.04,6.3
+Dilsukhnagar,Secunderabad,7.55,2,0,1,107.81249999999999,1.0,161.72,4.3
+Secunderabad,Ameerpet,13.8,18,1,0,193.75000000000003,1.4389683294534326,278.8,0.2
+Secunderabad,Banjara Hills,16.7,23,0,1,233.625,1.0,350.44,8.3
+Dilsukhnagar,Gachibowli,6.84,2,0,1,98.05,1.0,147.07,8.5
+Gachibowli,Ameerpet,17.28,6,0,0,241.60000000000002,1.0,241.6,0.3
+Gachibowli,Kukatpally,16.4,21,0,0,229.49999999999997,1.0,229.5,1.1
+Banjara Hills,Kukatpally,6.73,19,1,0,96.53750000000001,1.4913881192005662,143.97,13.6
+Kondapur,Secunderabad,15.88,9,1,0,222.35000000000002,1.658790570230924,368.83,3.7
+Banjara Hills,Kukatpally,17.09,22,0,0,238.9875,1.0,238.99,5.0
+Banjara Hills,Mehdipatnam,9.92,18,1,0,140.4,1.3836282997372629,194.26,1.6
+Mehdipatnam,Dilsukhnagar,1.58,18,1,0,26.0,1.7714320514392348,46.06,8.2
+Banjara Hills,Dilsukhnagar,13.91,7,0,0,195.26250000000002,1.0,195.26,8.7
+Banjara Hills,Secunderabad,15.67,8,1,0,219.4625,1.7919378684686462,393.26,14.9
+Banjara Hills,Secunderabad,5.66,2,0,1,81.82500000000002,1.0,122.74,1.7
+Banjara Hills,Dilsukhnagar,13.34,15,0,0,187.425,1.0,187.43,8.5
+Ameerpet,Banjara Hills,4.28,10,0,0,62.85,1.0,62.85,6.8
+Gachibowli,Mehdipatnam,8.13,4,0,1,115.78750000000002,1.0,173.68,5.1
+Dilsukhnagar,Gachibowli,9.1,4,0,1,129.125,1.0,193.69,9.8
+Mehdipatnam,Kondapur,16.91,2,0,1,236.51250000000002,1.0,354.77,8.4
+Dilsukhnagar,Kondapur,16.72,16,0,0,233.89999999999998,1.0,233.9,3.0
+Ameerpet,Banjara Hills,11.6,21,0,0,163.5,1.0,163.5,8.9
+Dilsukhnagar,Banjara Hills,17.36,14,0,0,242.7,1.0,242.7,8.6
+Dilsukhnagar,Banjara Hills,5.61,14,0,0,81.13749999999999,1.0,81.14,8.6
+Kukatpally,Secunderabad,3.8,19,1,0,56.25,1.5265544022091504,85.87,24.4
+Secunderabad,Banjara Hills,7.39,1,0,1,105.61249999999998,1.0,158.42,1.7
+Dilsukhnagar,Kondapur,2.05,5,0,0,32.1875,1.0,32.19,0.6
+Mehdipatnam,Dilsukhnagar,9.32,4,0,1,132.15,1.0,198.23,6.6
+Banjara Hills,Secunderabad,8.35,20,1,0,118.8125,1.4464255472349996,171.85,20.4
+Kondapur,Kukatpally,12.2,16,0,0,171.75,1.0,171.75,1.4
+Banjara Hills,Kukatpally,2.26,3,0,1,35.074999999999996,1.0,52.61,5.1
+Kukatpally,Dilsukhnagar,11.33,6,0,0,159.7875,1.0,159.79,8.5
+Kondapur,Ameerpet,1.53,18,1,0,26.0,1.2328396241549915,32.05,5.1
+Kondapur,Kukatpally,5.12,8,1,0,74.4,1.5322940643802354,114.0,12.8
+Secunderabad,Dilsukhnagar,15.07,5,0,0,211.2125,1.0,211.21,7.3
+Gachibowli,Mehdipatnam,13.43,0,0,1,188.6625,1.0,282.99,7.1
+Ameerpet,Kondapur,5.5,10,0,0,79.625,1.0,79.62,7.4
+Gachibowli,Kondapur,5.37,22,0,0,77.8375,1.0,77.84,0.4
+Secunderabad,Dilsukhnagar,5.34,22,0,0,77.425,1.0,77.42,7.5
+Banjara Hills,Gachibowli,7.96,17,0,0,113.44999999999999,1.0,113.45,4.5
+Gachibowli,Secunderabad,12.83,9,1,0,180.4125,1.7264712759619014,311.48,19.3
+Secunderabad,Mehdipatnam,2.02,1,0,1,31.775,1.0,47.66,4.6
+Mehdipatnam,Banjara Hills,9.47,9,1,0,134.21250000000003,1.5374576244707525,206.35,7.0
+Kukatpally,Gachibowli,16.13,16,0,0,225.7875,1.0,225.79,8.6
+Mehdipatnam,Secunderabad,13.16,13,0,0,184.95000000000002,1.0,184.95,8.6
+Dilsukhnagar,Ameerpet,17.24,23,0,1,241.04999999999998,1.0,361.57,8.2
+Banjara Hills,Ameerpet,15.15,5,0,0,212.3125,1.0,212.31,9.9
+Secunderabad,Gachibowli,3.76,14,0,0,55.699999999999996,1.0,55.7,1.8
+Secunderabad,Banjara Hills,2.51,2,0,1,38.512499999999996,1.0,57.77,3.6
+Kondapur,Dilsukhnagar,17.63,18,1,0,246.41249999999997,1.3980935701893626,344.51,2.7
+Dilsukhnagar,Secunderabad,2.49,22,0,0,38.237500000000004,1.0,38.24,9.9
+Secunderabad,Dilsukhnagar,12.62,14,0,0,177.525,1.0,177.53,7.8
+Secunderabad,Mehdipatnam,11.98,18,1,0,168.72500000000002,1.395769290941368,235.5,0.5
+Kukatpally,Secunderabad,2.21,20,1,0,34.387499999999996,1.5267785226642814,52.5,1.9
+Mehdipatnam,Gachibowli,5.57,20,1,0,80.5875,1.2834013231194465,103.43,11.0
+Secunderabad,Kukatpally,9.94,0,0,1,140.675,1.0,211.01,8.4
+Banjara Hills,Mehdipatnam,1.74,22,0,0,27.924999999999997,1.0,27.92,9.8
+Kondapur,Banjara Hills,9.81,1,0,1,138.88750000000002,1.0,208.33,3.8
+Ameerpet,Dilsukhnagar,10.49,6,0,0,148.2375,1.0,148.24,5.9
+Kukatpally,Mehdipatnam,4.71,16,0,0,68.76249999999999,1.0,68.76,5.0
+Secunderabad,Dilsukhnagar,13.7,19,1,0,192.375,1.598017520408809,307.42,3.0
+Kukatpally,Dilsukhnagar,14.59,5,0,0,204.6125,1.0,204.61,4.1
+Dilsukhnagar,Banjara Hills,6.02,6,0,0,86.775,1.0,86.78,2.6
+Mehdipatnam,Kukatpally,13.62,3,0,1,191.275,1.0,286.91,1.8
+Banjara Hills,Mehdipatnam,17.14,1,0,1,239.675,1.0,359.51,7.6
+Gachibowli,Banjara Hills,11.73,15,0,0,165.28750000000002,1.0,165.29,7.8
+Kukatpally,Ameerpet,11.86,22,0,0,167.075,1.0,167.07,6.3
+Gachibowli,Kukatpally,10.26,6,0,0,145.075,1.0,145.07,8.9
+Banjara Hills,Dilsukhnagar,14.84,6,0,0,208.05,1.0,208.05,8.2
+Kondapur,Dilsukhnagar,12.58,5,0,0,176.975,1.0,176.97,3.6
+Dilsukhnagar,Kukatpally,11.34,3,0,1,159.925,1.0,239.89,5.5
+Ameerpet,Gachibowli,8.53,18,1,0,121.2875,1.3424899831016304,162.83,7.5
+Banjara Hills,Ameerpet,11.42,8,1,0,161.025,1.5156495110504418,244.06,19.0
+Ameerpet,Gachibowli,4.69,17,0,0,68.48750000000001,1.0,68.49,4.7
+Dilsukhnagar,Ameerpet,10.04,12,0,0,142.05,1.0,142.05,3.4
+Dilsukhnagar,Ameerpet,1.92,0,0,1,30.4,1.0,45.6,8.5
+Gachibowli,Secunderabad,7.45,20,1,0,106.4375,1.432084345231128,152.43,2.0
+Banjara Hills,Secunderabad,6.42,16,0,0,92.275,1.0,92.28,2.3
+Gachibowli,Mehdipatnam,8.05,23,0,1,114.68750000000001,1.0,172.03,3.1
+Gachibowli,Kukatpally,4.17,15,0,0,61.3375,1.0,61.34,5.8
+Kukatpally,Ameerpet,5.46,17,0,0,79.07499999999999,1.0,79.07,8.8
+Banjara Hills,Kukatpally,10.32,17,0,0,145.9,1.0,145.9,7.3
+Ameerpet,Secunderabad,11.39,16,0,0,160.6125,1.0,160.61,3.7
+Gachibowli,Secunderabad,7.09,17,0,0,101.4875,1.0,101.49,5.0
+Banjara Hills,Dilsukhnagar,16.03,8,1,0,224.41250000000002,1.3884262841510595,311.58,12.5
+Ameerpet,Secunderabad,15.9,19,1,0,222.625,1.4924306650032257,332.25,17.3
+Secunderabad,Ameerpet,11.8,20,1,0,166.25000000000003,1.3142021850570285,218.49,22.9
+Mehdipatnam,Gachibowli,6.44,11,0,0,92.55,1.0,92.55,8.1
+Dilsukhnagar,Mehdipatnam,8.66,22,0,0,123.075,1.0,123.08,8.3
+Banjara Hills,Ameerpet,14.56,21,0,0,204.20000000000002,1.0,204.2,6.2
+Secunderabad,Ameerpet,14.78,21,0,0,207.225,1.0,207.22,4.0
+Gachibowli,Kukatpally,8.13,15,0,0,115.78750000000002,1.0,115.79,3.9
+Banjara Hills,Kondapur,9.16,5,0,0,129.95,1.0,129.95,6.3
+Banjara Hills,Dilsukhnagar,13.86,10,0,0,194.575,1.0,194.57,1.1
+Secunderabad,Banjara Hills,9.5,12,0,0,134.625,1.0,134.62,3.8
+Mehdipatnam,Kondapur,10.27,10,0,0,145.2125,1.0,145.21,6.1
+Ameerpet,Dilsukhnagar,6.44,11,0,0,92.55,1.0,92.55,5.4
+Secunderabad,Dilsukhnagar,8.87,20,1,0,125.96249999999999,1.323588021526177,166.72,0.0
+Kukatpally,Mehdipatnam,17.63,14,0,0,246.41249999999997,1.0,246.41,3.3
+Gachibowli,Dilsukhnagar,3.78,1,0,1,55.974999999999994,1.0,83.96,1.5
+Mehdipatnam,Dilsukhnagar,11.4,11,0,0,160.75,1.0,160.75,7.0
+Banjara Hills,Ameerpet,8.4,18,1,0,119.50000000000001,1.4049846676143611,167.9,16.2
+Secunderabad,Kondapur,16.31,21,0,0,228.2625,1.0,228.26,1.1
+Ameerpet,Mehdipatnam,11.63,20,1,0,163.91250000000002,1.4361813121664653,235.41,11.8
+Banjara Hills,Mehdipatnam,7.11,20,1,0,101.7625,1.2528806585860148,127.5,19.4
+Mehdipatnam,Secunderabad,4.5,2,0,1,65.875,1.0,98.81,1.7
+Dilsukhnagar,Kondapur,10.33,14,0,0,146.03750000000002,1.0,146.04,1.4
+Secunderabad,Gachibowli,10.05,7,0,0,142.1875,1.0,142.19,3.2
+Mehdipatnam,Dilsukhnagar,15.66,23,0,1,219.32500000000002,1.0,328.99,7.4
+Dilsukhnagar,Secunderabad,5.87,9,1,0,84.71249999999999,1.75809912171753,148.93,13.2
+Secunderabad,Kukatpally,2.37,16,0,0,36.5875,1.0,36.59,1.2
+Secunderabad,Banjara Hills,10.29,11,0,0,145.4875,1.0,145.49,0.6
+Kukatpally,Secunderabad,13.17,20,1,0,185.0875,1.57031653627018,290.65,24.2
+Kondapur,Mehdipatnam,16.72,16,0,0,233.89999999999998,1.0,233.9,7.2
+Secunderabad,Kondapur,12.5,11,0,0,175.875,1.0,175.88,4.9
+Banjara Hills,Kukatpally,7.02,20,1,0,100.525,1.6368073546777184,164.54,20.3
+Banjara Hills,Ameerpet,2.9,11,0,0,43.875,1.0,43.88,5.1
+Banjara Hills,Secunderabad,13.87,21,0,0,194.7125,1.0,194.71,5.6
+Kukatpally,Dilsukhnagar,16.89,23,0,1,236.2375,1.0,354.36,3.9
+Gachibowli,Kukatpally,13.46,5,0,0,189.07500000000002,1.0,189.08,0.4
+Ameerpet,Dilsukhnagar,7.05,22,0,0,100.93749999999999,1.0,100.94,0.4
+Secunderabad,Gachibowli,11.79,5,0,0,166.11249999999998,1.0,166.11,4.9
+Kukatpally,Secunderabad,10.05,20,1,0,142.1875,1.368810373112305,194.63,11.4
+Gachibowli,Ameerpet,14.42,19,1,0,202.275,1.702483511771265,344.37,6.0
+Mehdipatnam,Kukatpally,9.83,19,1,0,139.16250000000002,1.4267964231756918,198.56,24.5
+Gachibowli,Ameerpet,14.57,19,1,0,204.3375,1.4549721114374583,297.31,9.6
+Dilsukhnagar,Banjara Hills,8.73,20,1,0,124.03750000000001,1.3505341899204628,167.52,2.5
+Kondapur,Kukatpally,11.68,18,1,0,164.6,1.5465678483822802,254.57,14.3
+Secunderabad,Dilsukhnagar,6.71,11,0,0,96.26249999999999,1.0,96.26,2.3
+Dilsukhnagar,Ameerpet,17.89,1,0,1,249.98749999999998,1.0,374.98,9.7
+Ameerpet,Gachibowli,11.41,7,0,0,160.88750000000002,1.0,160.89,5.2
+Kukatpally,Ameerpet,12.81,18,1,0,180.13750000000002,1.3208783526321197,237.94,6.6
+Banjara Hills,Gachibowli,3.08,1,0,1,46.35,1.0,69.53,0.6
+Banjara Hills,Kukatpally,16.56,4,0,1,231.7,1.0,347.55,1.6
+Secunderabad,Kondapur,6.74,2,0,1,96.67500000000001,1.0,145.01,8.5
+Mehdipatnam,Kukatpally,9.99,11,0,0,141.3625,1.0,141.36,9.1
+Ameerpet,Kondapur,10.29,4,0,1,145.4875,1.0,218.23,6.0
+Kukatpally,Banjara Hills,12.77,23,0,1,179.5875,1.0,269.38,3.5
+Dilsukhnagar,Secunderabad,14.14,14,0,0,198.425,1.0,198.43,8.8
+Kondapur,Mehdipatnam,16.34,12,0,0,228.675,1.0,228.68,2.7
+Secunderabad,Kukatpally,15.44,23,0,1,216.3,1.0,324.45,9.1
+Banjara Hills,Ameerpet,12.66,14,0,0,178.07500000000002,1.0,178.08,1.8
+Kondapur,Dilsukhnagar,9.32,10,0,0,132.15,1.0,132.15,7.0
+Kondapur,Secunderabad,17.93,20,1,0,250.53749999999997,1.4811341967546807,371.08,3.7
+Mehdipatnam,Banjara Hills,4.95,22,0,0,72.0625,1.0,72.06,9.5
+Secunderabad,Kondapur,17.77,7,0,0,248.33749999999998,1.0,248.34,5.7
+Kondapur,Kukatpally,2.07,11,0,0,32.4625,1.0,32.46,3.8
+Banjara Hills,Gachibowli,2.93,11,0,0,44.2875,1.0,44.29,4.0
+Ameerpet,Dilsukhnagar,11.75,2,0,1,165.5625,1.0,248.34,1.3
+Secunderabad,Kukatpally,13.9,9,1,0,195.125,1.492870526060241,291.3,20.3
+Mehdipatnam,Kukatpally,8.57,20,1,0,121.8375,1.3993035132370395,170.49,17.5
+Banjara Hills,Kondapur,16.84,9,1,0,235.55,1.2194706460744054,287.25,5.9
+Dilsukhnagar,Kondapur,8.09,21,0,0,115.2375,1.0,115.24,2.8
+Ameerpet,Dilsukhnagar,17.72,17,0,0,247.64999999999998,1.0,247.65,0.5
+Ameerpet,Gachibowli,8.18,1,0,1,116.475,1.0,174.71,8.0
+Mehdipatnam,Gachibowli,15.85,17,0,0,221.9375,1.0,221.94,7.4
+Secunderabad,Banjara Hills,12.28,1,0,1,172.85,1.0,259.27,7.6
+Ameerpet,Secunderabad,11.54,12,0,0,162.67499999999998,1.0,162.67,2.4
+Ameerpet,Kukatpally,16.75,19,1,0,234.3125,1.3799576384838397,323.34,11.9
+Dilsukhnagar,Kukatpally,3.45,23,0,1,51.4375,1.0,77.16,5.8
+Kukatpally,Dilsukhnagar,4.0,16,0,0,59.0,1.0,59.0,3.4
+Dilsukhnagar,Secunderabad,2.78,8,1,0,42.224999999999994,1.5511780970005868,65.5,6.4
+Gachibowli,Banjara Hills,14.66,14,0,0,205.57500000000002,1.0,205.58,3.7
+Banjara Hills,Mehdipatnam,9.99,22,0,0,141.3625,1.0,141.36,9.1
+Ameerpet,Kukatpally,11.1,14,0,0,156.625,1.0,156.62,7.2
+Mehdipatnam,Kondapur,16.99,11,0,0,237.61249999999998,1.0,237.61,4.8
+Mehdipatnam,Dilsukhnagar,12.87,17,0,0,180.9625,1.0,180.96,8.6
+Dilsukhnagar,Ameerpet,2.63,22,0,0,40.162499999999994,1.0,40.16,0.3
+Ameerpet,Banjara Hills,15.92,22,0,0,222.9,1.0,222.9,1.6
+Ameerpet,Banjara Hills,15.07,15,0,0,211.2125,1.0,211.21,5.1
+Dilsukhnagar,Gachibowli,9.25,12,0,0,131.1875,1.0,131.19,6.5
+Kondapur,Kukatpally,4.4,3,0,1,64.5,1.0,96.75,3.0
+Ameerpet,Mehdipatnam,9.28,6,0,0,131.6,1.0,131.6,0.1
+Kondapur,Ameerpet,7.7,1,0,1,109.875,1.0,164.81,3.4
+Kukatpally,Mehdipatnam,6.93,6,0,0,99.2875,1.0,99.29,8.9
+Kukatpally,Mehdipatnam,13.21,18,1,0,185.63750000000002,1.5129305903465804,280.86,3.1
+Gachibowli,Banjara Hills,11.99,20,1,0,168.8625,1.2475278900050224,210.66,1.2
+Kukatpally,Gachibowli,4.62,19,1,0,67.525,1.5635380891076898,105.58,10.7
+Dilsukhnagar,Mehdipatnam,14.43,0,0,1,202.4125,1.0,303.62,1.1
+Banjara Hills,Gachibowli,10.88,10,0,0,153.60000000000002,1.0,153.6,5.4
+Kukatpally,Kondapur,7.92,5,0,0,112.9,1.0,112.9,9.1
+Dilsukhnagar,Kukatpally,9.54,15,0,0,135.175,1.0,135.18,9.6
+Dilsukhnagar,Ameerpet,8.97,21,0,0,127.33750000000002,1.0,127.34,8.9
+Kondapur,Secunderabad,11.07,5,0,0,156.2125,1.0,156.21,9.5
+Mehdipatnam,Gachibowli,17.98,2,0,1,251.225,1.0,376.84,8.2
+Mehdipatnam,Gachibowli,8.88,12,0,0,126.10000000000002,1.0,126.1,5.1
+Dilsukhnagar,Ameerpet,6.72,12,0,0,96.39999999999999,1.0,96.4,8.7
+Banjara Hills,Dilsukhnagar,13.26,5,0,0,186.325,1.0,186.32,3.3
+Kondapur,Gachibowli,16.51,16,0,0,231.01250000000002,1.0,231.01,6.3
+Mehdipatnam,Ameerpet,12.72,21,0,0,178.9,1.0,178.9,1.6
+Kukatpally,Ameerpet,10.37,16,0,0,146.58749999999998,1.0,146.59,0.2
+Kukatpally,Banjara Hills,12.86,18,1,0,180.825,1.6398962268820798,296.53,24.9
+Kondapur,Dilsukhnagar,10.38,16,0,0,146.72500000000002,1.0,146.73,8.8
+Banjara Hills,Kondapur,2.42,4,0,1,37.275,1.0,55.91,0.6
+Ameerpet,Secunderabad,5.25,18,1,0,76.1875,1.2622538061215138,96.17,7.4
+Kukatpally,Gachibowli,12.52,17,0,0,176.15,1.0,176.15,3.7
+Banjara Hills,Mehdipatnam,4.31,16,0,0,63.262499999999996,1.0,63.26,9.0
+Banjara Hills,Ameerpet,5.45,23,0,1,78.9375,1.0,118.41,3.4
+Mehdipatnam,Dilsukhnagar,14.64,12,0,0,205.3,1.0,205.3,8.1
+Gachibowli,Secunderabad,5.2,0,0,1,75.5,1.0,113.25,2.4
+Mehdipatnam,Ameerpet,4.56,6,0,0,66.69999999999999,1.0,66.7,5.1
+Kukatpally,Dilsukhnagar,2.81,17,0,0,42.6375,1.0,42.64,6.5
+Gachibowli,Secunderabad,5.53,7,0,0,80.0375,1.0,80.04,5.8
+Secunderabad,Kukatpally,7.64,17,0,0,109.04999999999998,1.0,109.05,1.3
+Mehdipatnam,Banjara Hills,11.09,8,1,0,156.4875,1.3463971814114832,210.69,24.2
+Mehdipatnam,Kukatpally,5.59,3,0,1,80.8625,1.0,121.29,8.4
+Banjara Hills,Gachibowli,16.17,1,0,1,226.33750000000003,1.0,339.51,5.3
+Secunderabad,Banjara Hills,6.01,19,1,0,86.6375,1.3381915348097264,115.94,2.7
+Dilsukhnagar,Gachibowli,7.33,11,0,0,104.78750000000001,1.0,104.79,9.5
+Ameerpet,Kukatpally,1.61,11,0,0,26.1375,1.0,26.14,5.1
+Kukatpally,Mehdipatnam,10.12,11,0,0,143.14999999999998,1.0,143.15,9.8
+Ameerpet,Banjara Hills,12.74,18,1,0,179.175,1.5643946500758394,280.3,2.2
+Dilsukhnagar,Kukatpally,2.56,5,0,0,39.2,1.0,39.2,9.9
+Mehdipatnam,Dilsukhnagar,8.02,14,0,0,114.275,1.0,114.28,0.3
+Kukatpally,Secunderabad,9.1,2,0,1,129.125,1.0,193.69,9.4
+Secunderabad,Kukatpally,3.46,11,0,0,51.575,1.0,51.58,4.8
+Gachibowli,Banjara Hills,5.69,1,0,1,82.2375,1.0,123.36,1.3
+Dilsukhnagar,Gachibowli,5.97,18,1,0,86.08749999999999,1.4466866018879923,124.54,17.6
+Mehdipatnam,Secunderabad,7.55,23,0,1,107.81249999999999,1.0,161.72,8.7
+Banjara Hills,Mehdipatnam,8.4,3,0,1,119.50000000000001,1.0,179.25,2.4
+Banjara Hills,Secunderabad,7.42,23,0,1,106.025,1.0,159.04,5.1
+Banjara Hills,Kondapur,15.66,13,0,0,219.32500000000002,1.0,219.33,0.1
+Secunderabad,Gachibowli,4.52,16,0,0,66.14999999999999,1.0,66.15,0.6
+Gachibowli,Mehdipatnam,1.66,19,1,0,26.825,1.3355037793340352,35.82,4.4
+Mehdipatnam,Kukatpally,8.83,10,0,0,125.41250000000001,1.0,125.41,8.1
+Mehdipatnam,Kondapur,8.86,23,0,1,125.825,1.0,188.74,9.1
+Dilsukhnagar,Banjara Hills,2.37,20,1,0,36.5875,1.5413899165824736,56.4,13.3
+Kukatpally,Gachibowli,8.05,21,0,0,114.68750000000001,1.0,114.69,5.7
+Kondapur,Mehdipatnam,9.33,4,0,1,132.28750000000002,1.0,198.43,5.2
+Secunderabad,Banjara Hills,4.37,9,1,0,64.0875,1.5790334509959505,101.2,13.0
+Banjara Hills,Dilsukhnagar,5.34,6,0,0,77.425,1.0,77.42,3.0
+Secunderabad,Gachibowli,3.56,19,1,0,52.95,1.39368587606871,73.8,6.5
+Gachibowli,Kondapur,3.7,16,0,0,54.875,1.0,54.88,4.6
+Secunderabad,Kondapur,6.52,13,0,0,93.65,1.0,93.65,7.8
+Kukatpally,Dilsukhnagar,11.87,14,0,0,167.2125,1.0,167.21,6.4
+Kondapur,Secunderabad,14.12,0,0,1,198.15,1.0,297.23,4.6
+Dilsukhnagar,Kondapur,2.07,5,0,0,32.4625,1.0,32.46,0.9
+Kondapur,Dilsukhnagar,9.74,9,1,0,137.925,1.3590679502490892,187.45,10.8
+Ameerpet,Kukatpally,5.14,15,0,0,74.675,1.0,74.67,1.0
+Mehdipatnam,Kukatpally,15.97,12,0,0,223.5875,1.0,223.59,4.7
+Mehdipatnam,Secunderabad,12.22,20,1,0,172.025,1.2774517170854771,219.75,18.6
+Kondapur,Mehdipatnam,6.71,12,0,0,96.26249999999999,1.0,96.26,0.5
+Banjara Hills,Dilsukhnagar,3.74,20,1,0,55.425,1.2801205398964497,70.95,9.7
+Ameerpet,Kukatpally,17.5,15,0,0,244.625,1.0,244.62,1.1
+Gachibowli,Secunderabad,15.66,18,1,0,219.32500000000002,1.462054690708245,320.67,11.6
+Banjara Hills,Kondapur,16.86,0,0,1,235.825,1.0,353.74,10.0
+Mehdipatnam,Ameerpet,5.18,6,0,0,75.225,1.0,75.22,9.7
+Secunderabad,Kukatpally,2.58,10,0,0,39.475,1.0,39.48,6.8
+Mehdipatnam,Gachibowli,9.98,2,0,1,141.22500000000002,1.0,211.84,6.5
+Dilsukhnagar,Gachibowli,16.55,5,0,0,231.56250000000003,1.0,231.56,5.9
+Dilsukhnagar,Mehdipatnam,3.1,11,0,0,46.625,1.0,46.62,5.9
+Kukatpally,Secunderabad,15.66,1,0,1,219.32500000000002,1.0,328.99,4.7
+Kondapur,Banjara Hills,12.08,11,0,0,170.1,1.0,170.1,4.0
+Kondapur,Gachibowli,7.08,15,0,0,101.35000000000001,1.0,101.35,3.6
+Kukatpally,Secunderabad,7.36,20,1,0,105.2,1.5973392949977558,168.04,17.9
+Ameerpet,Kukatpally,6.71,14,0,0,96.26249999999999,1.0,96.26,6.6
+Gachibowli,Secunderabad,3.8,14,0,0,56.25,1.0,56.25,8.9
+Banjara Hills,Dilsukhnagar,9.65,1,0,1,136.6875,1.0,205.03,6.7
+Secunderabad,Kukatpally,5.54,5,0,0,80.175,1.0,80.17,8.4
+Mehdipatnam,Gachibowli,10.58,5,0,0,149.47500000000002,1.0,149.48,1.0
+Mehdipatnam,Dilsukhnagar,15.04,23,0,1,210.79999999999998,1.0,316.2,0.5
+Kukatpally,Dilsukhnagar,8.73,15,0,0,124.03750000000001,1.0,124.04,5.8
+Secunderabad,Kukatpally,13.93,21,0,0,195.5375,1.0,195.54,1.9
+Ameerpet,Secunderabad,4.54,21,0,0,66.425,1.0,66.42,9.5
+Gachibowli,Secunderabad,1.79,15,0,0,28.6125,1.0,28.61,5.7
+Secunderabad,Kondapur,6.89,8,1,0,98.73749999999998,1.3704350334242574,135.31,24.9
+Kondapur,Kukatpally,8.77,16,0,0,124.5875,1.0,124.59,6.3
+Ameerpet,Banjara Hills,12.83,9,1,0,180.4125,1.3235291929069928,238.78,8.8
+Mehdipatnam,Kukatpally,3.64,8,1,0,54.05,1.715160064189499,92.7,24.1
+Kukatpally,Mehdipatnam,4.54,21,0,0,66.425,1.0,66.42,3.3
+Secunderabad,Kondapur,6.82,20,1,0,97.775,1.6688772532528255,163.17,17.6
+Dilsukhnagar,Kukatpally,2.43,4,0,1,37.4125,1.0,56.12,5.0
+Banjara Hills,Ameerpet,12.07,16,0,0,169.9625,1.0,169.96,4.3
+Kondapur,Ameerpet,17.24,8,1,0,241.04999999999998,1.299902128229709,313.34,17.8
+Mehdipatnam,Dilsukhnagar,11.75,12,0,0,165.5625,1.0,165.56,9.1
+Gachibowli,Banjara Hills,16.7,23,0,1,233.625,1.0,350.44,5.0
+Banjara Hills,Mehdipatnam,12.16,21,0,0,171.20000000000002,1.0,171.2,9.0
+Dilsukhnagar,Gachibowli,7.29,0,0,1,104.2375,1.0,156.36,7.5
+Mehdipatnam,Kondapur,8.89,2,0,1,126.23750000000001,1.0,189.36,1.7
+Mehdipatnam,Kukatpally,17.73,8,1,0,247.7875,1.4127289252971644,350.06,14.1
+Mehdipatnam,Banjara Hills,16.6,6,0,0,232.25000000000003,1.0,232.25,8.8
+Gachibowli,Secunderabad,17.13,1,0,1,239.5375,1.0,359.31,9.1
+Dilsukhnagar,Ameerpet,10.5,20,1,0,148.375,1.7674290650646147,262.24,16.9
+Gachibowli,Kondapur,4.61,15,0,0,67.3875,1.0,67.39,8.2
+Ameerpet,Gachibowli,10.98,15,0,0,154.97500000000002,1.0,154.98,4.2
+Gachibowli,Secunderabad,3.83,21,0,0,56.6625,1.0,56.66,4.5
+Kondapur,Ameerpet,15.36,3,0,1,215.2,1.0,322.8,1.7
+Ameerpet,Kondapur,15.05,17,0,0,210.93750000000003,1.0,210.94,1.2
+Kukatpally,Dilsukhnagar,5.28,3,0,1,76.6,1.0,114.9,6.8
+Dilsukhnagar,Banjara Hills,5.89,21,0,0,84.98749999999998,1.0,84.99,1.7
+Gachibowli,Kondapur,10.9,8,1,0,153.875,1.4548700049145118,223.87,8.5
+Kukatpally,Kondapur,1.61,13,0,0,26.1375,1.0,26.14,9.8
+Mehdipatnam,Kukatpally,12.83,14,0,0,180.4125,1.0,180.41,8.9
+Kukatpally,Ameerpet,5.19,4,0,1,75.36250000000001,1.0,113.04,8.2
+Ameerpet,Kondapur,9.57,13,0,0,135.5875,1.0,135.59,4.4
+Mehdipatnam,Secunderabad,14.08,9,1,0,197.6,1.4695647281739899,290.39,23.5
+Kondapur,Secunderabad,5.45,16,0,0,78.9375,1.0,78.94,2.5
+Ameerpet,Kukatpally,5.92,17,0,0,85.4,1.0,85.4,7.2
+Dilsukhnagar,Secunderabad,13.37,14,0,0,187.8375,1.0,187.84,3.8
+Kukatpally,Mehdipatnam,3.91,11,0,0,57.7625,1.0,57.76,9.0
+Mehdipatnam,Dilsukhnagar,17.67,17,0,0,246.9625,1.0,246.96,6.0
+Banjara Hills,Secunderabad,1.78,17,0,0,28.474999999999998,1.0,28.47,9.1
+Ameerpet,Kukatpally,1.62,5,0,0,26.275,1.0,26.27,0.8
+Dilsukhnagar,Secunderabad,12.7,19,1,0,178.625,1.7494886089144464,312.5,12.6
+Ameerpet,Secunderabad,3.74,12,0,0,55.425,1.0,55.42,9.6
+Banjara Hills,Gachibowli,6.44,17,0,0,92.55,1.0,92.55,2.7
+Mehdipatnam,Kukatpally,7.74,8,1,0,110.42500000000001,1.4053353148673426,155.18,24.5
+Secunderabad,Ameerpet,8.37,12,0,0,119.08749999999999,1.0,119.09,9.1
+Mehdipatnam,Banjara Hills,2.4,1,0,1,37.0,1.0,55.5,0.7
+Gachibowli,Kondapur,3.49,11,0,0,51.9875,1.0,51.99,7.9
+Banjara Hills,Kukatpally,6.55,4,0,1,94.06249999999999,1.0,141.09,4.5
+Ameerpet,Kukatpally,13.58,10,0,0,190.725,1.0,190.72,3.6
+Kukatpally,Secunderabad,9.75,5,0,0,138.0625,1.0,138.06,5.8
+Mehdipatnam,Secunderabad,2.07,23,0,1,32.4625,1.0,48.69,4.3
+Mehdipatnam,Kondapur,11.32,9,1,0,159.65,1.6881652880204137,269.52,17.9
+Mehdipatnam,Banjara Hills,16.52,17,0,0,231.15,1.0,231.15,1.4
+Banjara Hills,Ameerpet,1.78,21,0,0,28.474999999999998,1.0,28.47,2.8
+Secunderabad,Kukatpally,7.2,7,0,0,103.0,1.0,103.0,8.8
+Dilsukhnagar,Gachibowli,4.67,7,0,0,68.2125,1.0,68.21,8.6
+Kondapur,Mehdipatnam,14.08,7,0,0,197.6,1.0,197.6,6.9
+Mehdipatnam,Kukatpally,8.68,18,1,0,123.35,1.510809209345112,186.36,0.2
+Dilsukhnagar,Ameerpet,13.35,18,1,0,187.5625,1.7267870294997953,323.88,6.7
+Banjara Hills,Dilsukhnagar,7.82,11,0,0,111.525,1.0,111.53,3.5
+Kukatpally,Kondapur,2.64,16,0,0,40.3,1.0,40.3,4.2
+Secunderabad,Banjara Hills,15.81,0,0,1,221.38750000000002,1.0,332.08,5.4
+Gachibowli,Ameerpet,13.07,20,1,0,183.7125,1.5760815780389064,289.55,9.0
+Dilsukhnagar,Gachibowli,9.42,0,0,1,133.525,1.0,200.29,1.3
+Kukatpally,Gachibowli,15.84,17,0,0,221.8,1.0,221.8,4.5
+Banjara Hills,Kukatpally,11.17,7,0,0,157.5875,1.0,157.59,6.2
+Gachibowli,Banjara Hills,5.09,5,0,0,73.9875,1.0,73.99,8.3
+Secunderabad,Dilsukhnagar,9.53,11,0,0,135.0375,1.0,135.04,6.3
+Secunderabad,Mehdipatnam,3.63,6,0,0,53.912499999999994,1.0,53.91,1.5
+Gachibowli,Secunderabad,9.07,9,1,0,128.7125,1.6667909829425622,214.54,5.5
+Dilsukhnagar,Ameerpet,8.2,12,0,0,116.75,1.0,116.75,9.3
+Kukatpally,Mehdipatnam,3.57,2,0,1,53.08749999999999,1.0,79.63,0.8
+Banjara Hills,Mehdipatnam,12.5,15,0,0,175.875,1.0,175.88,6.3
+Mehdipatnam,Ameerpet,8.59,8,1,0,122.1125,1.3048709927300195,159.34,16.2
+Mehdipatnam,Gachibowli,13.34,4,0,1,187.425,1.0,281.14,9.7
+Ameerpet,Banjara Hills,8.31,11,0,0,118.26250000000002,1.0,118.26,0.8
+Kukatpally,Secunderabad,5.6,15,0,0,81.0,1.0,81.0,2.2
+Secunderabad,Ameerpet,17.93,13,0,0,250.53749999999997,1.0,250.54,8.5
+Banjara Hills,Secunderabad,2.19,9,1,0,34.1125,1.7550387338682332,59.87,9.2
+Gachibowli,Ameerpet,7.09,22,0,0,101.4875,1.0,101.49,10.0
+Dilsukhnagar,Mehdipatnam,8.23,2,0,1,117.16250000000001,1.0,175.74,6.5
+Banjara Hills,Gachibowli,2.02,20,1,0,31.775,1.573528194277369,50.0,7.7
+Gachibowli,Dilsukhnagar,14.2,0,0,1,199.25,1.0,298.88,4.0
+Kukatpally,Ameerpet,8.21,11,0,0,116.88750000000002,1.0,116.89,4.8
+Kondapur,Gachibowli,16.48,7,0,0,230.60000000000002,1.0,230.6,3.4
+Mehdipatnam,Kondapur,14.93,1,0,1,209.2875,1.0,313.93,2.0
+Secunderabad,Banjara Hills,15.53,8,1,0,217.5375,1.7645257604968254,383.85,4.6
+Mehdipatnam,Gachibowli,7.72,0,0,1,110.14999999999999,1.0,165.22,2.7
+Secunderabad,Kondapur,17.72,10,0,0,247.64999999999998,1.0,247.65,1.4
+Kukatpally,Gachibowli,1.74,1,0,1,27.924999999999997,1.0,41.89,6.7
+Kondapur,Kukatpally,1.72,12,0,0,27.65,1.0,27.65,9.0
+Ameerpet,Banjara Hills,15.0,19,1,0,210.25,1.6106612166415846,338.64,12.6
+Banjara Hills,Kukatpally,9.51,2,0,1,134.7625,1.0,202.14,6.5
+Mehdipatnam,Secunderabad,15.89,11,0,0,222.4875,1.0,222.49,6.1
+Gachibowli,Ameerpet,12.11,4,0,1,170.5125,1.0,255.77,5.8
+Dilsukhnagar,Kondapur,2.02,21,0,0,31.775,1.0,31.77,8.2
+Kondapur,Ameerpet,9.78,23,0,1,138.475,1.0,207.71,7.4
+Gachibowli,Mehdipatnam,12.54,15,0,0,176.42499999999998,1.0,176.42,0.9
+Ameerpet,Secunderabad,15.58,6,0,0,218.225,1.0,218.22,9.6
+Banjara Hills,Secunderabad,5.83,14,0,0,84.16250000000001,1.0,84.16,4.5
+Banjara Hills,Kukatpally,1.76,17,0,0,28.2,1.0,28.2,6.2
+Mehdipatnam,Kukatpally,13.0,16,0,0,182.75,1.0,182.75,6.4
+Secunderabad,Gachibowli,14.09,17,0,0,197.7375,1.0,197.74,1.3
+Dilsukhnagar,Ameerpet,11.29,22,0,0,159.23749999999998,1.0,159.24,4.3
+Banjara Hills,Kukatpally,13.06,22,0,0,183.57500000000002,1.0,183.58,8.5
+Dilsukhnagar,Gachibowli,2.8,20,1,0,42.5,1.761697824930598,74.87,12.8
+Gachibowli,Mehdipatnam,10.34,19,1,0,146.175,1.5506375529536744,226.66,19.9
+Banjara Hills,Kondapur,14.79,13,0,0,207.36249999999998,1.0,207.36,0.6
+Banjara Hills,Kukatpally,11.2,21,0,0,158.0,1.0,158.0,5.7
+Mehdipatnam,Dilsukhnagar,14.6,4,0,1,204.75,1.0,307.12,5.3
+Gachibowli,Kondapur,17.64,23,0,1,246.54999999999998,1.0,369.82,9.5
+Mehdipatnam,Kukatpally,4.31,16,0,0,63.262499999999996,1.0,63.26,0.4
+Banjara Hills,Mehdipatnam,10.48,7,0,0,148.10000000000002,1.0,148.1,0.8
+Mehdipatnam,Gachibowli,12.59,10,0,0,177.1125,1.0,177.11,3.8
+Gachibowli,Kukatpally,9.71,19,1,0,137.51250000000002,1.63860620948369,225.33,1.9
+Kondapur,Secunderabad,5.42,19,1,0,78.525,1.665519039121672,130.78,8.5
+Gachibowli,Secunderabad,4.88,1,0,1,71.1,1.0,106.65,5.8
+Kondapur,Kukatpally,15.0,21,0,0,210.25,1.0,210.25,1.8
+Dilsukhnagar,Kukatpally,8.58,9,1,0,121.97500000000001,1.3605162181490054,165.95,13.0
+Ameerpet,Kukatpally,4.73,12,0,0,69.0375,1.0,69.04,5.8
+Mehdipatnam,Gachibowli,6.81,19,1,0,97.63749999999999,1.526894805404059,149.08,6.7
+Kukatpally,Gachibowli,12.37,7,0,0,174.0875,1.0,174.09,2.7
+Kukatpally,Dilsukhnagar,2.36,20,1,0,36.449999999999996,1.2660442561086342,46.15,9.6
+Mehdipatnam,Banjara Hills,15.78,6,0,0,220.975,1.0,220.97,5.1
+Dilsukhnagar,Mehdipatnam,4.0,10,0,0,59.0,1.0,59.0,3.8
+Dilsukhnagar,Kondapur,10.4,11,0,0,147.0,1.0,147.0,0.2
+Dilsukhnagar,Ameerpet,8.27,17,0,0,117.7125,1.0,117.71,1.1
+Mehdipatnam,Kukatpally,10.29,23,0,1,145.4875,1.0,218.23,9.8
+Banjara Hills,Kondapur,3.45,17,0,0,51.4375,1.0,51.44,1.7
+Kukatpally,Dilsukhnagar,9.54,2,0,1,135.175,1.0,202.76,9.9
+Mehdipatnam,Banjara Hills,12.6,2,0,1,177.25,1.0,265.88,0.5
+Secunderabad,Ameerpet,12.72,20,1,0,178.9,1.6473769995123013,294.72,24.9
+Banjara Hills,Secunderabad,9.64,19,1,0,136.55,1.3807053521984152,188.54,6.2
+Kondapur,Secunderabad,5.7,13,0,0,82.375,1.0,82.38,4.5
+Gachibowli,Ameerpet,10.85,20,1,0,153.1875,1.285308825832411,196.89,1.3
+Mehdipatnam,Gachibowli,2.4,10,0,0,37.0,1.0,37.0,1.6
+Secunderabad,Dilsukhnagar,1.67,11,0,0,26.9625,1.0,26.96,1.7
+Kondapur,Kukatpally,6.76,22,0,0,96.95,1.0,96.95,5.1
+Banjara Hills,Dilsukhnagar,3.32,13,0,0,49.64999999999999,1.0,49.65,0.2
+Gachibowli,Dilsukhnagar,7.44,23,0,1,106.3,1.0,159.45,1.4
+Kukatpally,Secunderabad,3.17,5,0,0,47.5875,1.0,47.59,7.8
+Dilsukhnagar,Banjara Hills,12.92,21,0,0,181.65,1.0,181.65,1.4
+Kukatpally,Kondapur,3.04,10,0,0,45.8,1.0,45.8,0.7
+Ameerpet,Banjara Hills,8.14,1,0,1,115.92500000000001,1.0,173.89,5.2
+Kukatpally,Ameerpet,14.16,9,1,0,198.70000000000002,1.3551343581841475,269.27,8.4
+Kukatpally,Kondapur,2.35,9,1,0,36.3125,1.7332514902501635,62.94,17.3
+Ameerpet,Mehdipatnam,16.87,0,0,1,235.9625,1.0,353.94,8.0
+Secunderabad,Banjara Hills,10.83,4,0,1,152.91250000000002,1.0,229.37,8.0
+Dilsukhnagar,Ameerpet,14.85,6,0,0,208.1875,1.0,208.19,1.1
+Secunderabad,Kondapur,3.5,3,0,1,52.125,1.0,78.19,0.7
+Ameerpet,Gachibowli,11.05,4,0,1,155.93750000000003,1.0,233.91,5.5
+Dilsukhnagar,Banjara Hills,7.75,19,1,0,110.5625,1.2954954503962979,143.23,8.9
+Banjara Hills,Mehdipatnam,7.95,22,0,0,113.3125,1.0,113.31,9.2
+Secunderabad,Kukatpally,10.48,8,1,0,148.10000000000002,1.6541561070762083,244.98,15.2
+Banjara Hills,Kondapur,14.66,19,1,0,205.57500000000002,1.2548557613170255,257.97,13.9
+Dilsukhnagar,Banjara Hills,6.24,7,0,0,89.80000000000001,1.0,89.8,1.2
+Ameerpet,Mehdipatnam,2.11,20,1,0,33.012499999999996,1.6038668088747172,52.95,24.8
+Banjara Hills,Kukatpally,9.3,21,0,0,131.875,1.0,131.88,1.6
+Gachibowli,Mehdipatnam,15.4,1,0,1,215.75,1.0,323.62,0.5
+Secunderabad,Mehdipatnam,7.13,11,0,0,102.0375,1.0,102.04,6.4
+Secunderabad,Kukatpally,16.82,1,0,1,235.275,1.0,352.91,4.5
+Kukatpally,Mehdipatnam,17.37,7,0,0,242.8375,1.0,242.84,2.6
+Ameerpet,Gachibowli,15.42,11,0,0,216.025,1.0,216.03,5.4
+Kondapur,Mehdipatnam,9.9,0,0,1,140.125,1.0,210.19,7.1
+Gachibowli,Dilsukhnagar,10.89,4,0,1,153.7375,1.0,230.61,1.0
+Banjara Hills,Gachibowli,2.9,8,1,0,43.875,1.2856713820007308,56.41,9.7
+Dilsukhnagar,Banjara Hills,6.78,19,1,0,97.225,1.6190027827676416,157.41,7.3
+Secunderabad,Banjara Hills,13.09,1,0,1,183.9875,1.0,275.98,3.1
+Mehdipatnam,Banjara Hills,9.51,16,0,0,134.7625,1.0,134.76,1.6
+Banjara Hills,Secunderabad,9.81,7,0,0,138.88750000000002,1.0,138.89,3.6
+Dilsukhnagar,Ameerpet,15.5,0,0,1,217.125,1.0,325.69,5.2
+Ameerpet,Dilsukhnagar,5.95,8,1,0,85.8125,1.4053118434551943,120.59,4.9
+Kondapur,Secunderabad,6.69,4,0,1,95.9875,1.0,143.98,0.3
+Banjara Hills,Mehdipatnam,9.91,0,0,1,140.2625,1.0,210.39,0.8
+Dilsukhnagar,Secunderabad,8.8,8,1,0,125.00000000000001,1.770446827927603,221.31,10.2
+Ameerpet,Kukatpally,2.37,16,0,0,36.5875,1.0,36.59,9.8
+Secunderabad,Dilsukhnagar,5.91,20,1,0,85.26250000000002,1.3458747182536013,114.75,18.6
+Banjara Hills,Gachibowli,4.63,3,0,1,67.6625,1.0,101.49,9.0
+Ameerpet,Mehdipatnam,12.15,5,0,0,171.0625,1.0,171.06,8.2
+Ameerpet,Kondapur,2.71,21,0,0,41.262499999999996,1.0,41.26,4.1
+Banjara Hills,Gachibowli,5.93,6,0,0,85.5375,1.0,85.54,5.2
+Banjara Hills,Mehdipatnam,10.89,9,1,0,153.7375,1.4680702059049269,225.7,11.2
+Gachibowli,Kukatpally,16.67,12,0,0,233.21250000000003,1.0,233.21,6.7
+Ameerpet,Gachibowli,9.18,16,0,0,130.225,1.0,130.22,5.4
+Dilsukhnagar,Kondapur,5.74,14,0,0,82.92500000000001,1.0,82.93,1.6
+Dilsukhnagar,Gachibowli,15.2,11,0,0,213.0,1.0,213.0,6.2
+Dilsukhnagar,Secunderabad,4.95,12,0,0,72.0625,1.0,72.06,7.2
+Kondapur,Banjara Hills,17.14,10,0,0,239.675,1.0,239.68,1.1
+Kondapur,Ameerpet,12.89,18,1,0,181.2375,1.3479938681068666,244.31,11.5
+Secunderabad,Mehdipatnam,17.87,6,0,0,249.7125,1.0,249.71,2.8
+Kukatpally,Dilsukhnagar,2.95,16,0,0,44.5625,1.0,44.56,7.3
+Gachibowli,Dilsukhnagar,3.82,11,0,0,56.52499999999999,1.0,56.52,2.8
+Secunderabad,Mehdipatnam,6.94,22,0,0,99.425,1.0,99.42,9.2
+Kondapur,Gachibowli,10.55,17,0,0,149.0625,1.0,149.06,8.7
+Gachibowli,Ameerpet,10.12,7,0,0,143.14999999999998,1.0,143.15,3.1
+Kondapur,Secunderabad,17.02,11,0,0,238.025,1.0,238.03,2.1
+Dilsukhnagar,Gachibowli,3.57,6,0,0,53.08749999999999,1.0,53.09,4.2
+Ameerpet,Gachibowli,13.63,14,0,0,191.41250000000002,1.0,191.41,5.1
+Kukatpally,Kondapur,9.18,2,0,1,130.225,1.0,195.34,3.4
+Banjara Hills,Secunderabad,3.2,4,0,1,48.0,1.0,72.0,9.5
+Banjara Hills,Gachibowli,5.93,19,1,0,85.5375,1.6328694942657433,139.67,23.5
+Banjara Hills,Gachibowli,10.0,5,0,0,141.5,1.0,141.5,5.6
+Kondapur,Banjara Hills,3.39,15,0,0,50.6125,1.0,50.61,7.1
+Secunderabad,Mehdipatnam,12.34,13,0,0,173.675,1.0,173.68,6.0
+Kukatpally,Mehdipatnam,17.49,7,0,0,244.48749999999998,1.0,244.49,4.3
+Mehdipatnam,Dilsukhnagar,11.46,17,0,0,161.57500000000002,1.0,161.58,10.0
+Gachibowli,Dilsukhnagar,6.78,13,0,0,97.225,1.0,97.22,6.0
+Secunderabad,Gachibowli,13.4,5,0,0,188.25,1.0,188.25,6.9
+Gachibowli,Kondapur,12.9,16,0,0,181.375,1.0,181.38,9.5
+Mehdipatnam,Kondapur,13.09,12,0,0,183.9875,1.0,183.99,5.4
+Mehdipatnam,Dilsukhnagar,16.91,3,0,1,236.51250000000002,1.0,354.77,7.3
+Banjara Hills,Kukatpally,8.91,5,0,0,126.5125,1.0,126.51,9.7
+Secunderabad,Banjara Hills,16.76,4,0,1,234.45000000000002,1.0,351.68,6.2
+Banjara Hills,Secunderabad,13.87,7,0,0,194.7125,1.0,194.71,5.9
+Kukatpally,Secunderabad,11.77,18,1,0,165.8375,1.7822631293304585,295.57,2.8
+Banjara Hills,Kukatpally,9.62,10,0,0,136.27499999999998,1.0,136.27,4.2
+Gachibowli,Kukatpally,11.46,9,1,0,161.57500000000002,1.623591159630491,262.33,6.0
+Gachibowli,Kondapur,8.82,19,1,0,125.275,1.4231020707398516,178.28,0.6
+Dilsukhnagar,Kukatpally,14.38,6,0,0,201.72500000000002,1.0,201.73,0.8
+Kukatpally,Ameerpet,2.09,2,0,1,32.7375,1.0,49.11,8.1
+Ameerpet,Kondapur,16.6,22,0,0,232.25000000000003,1.0,232.25,3.5
+Kondapur,Banjara Hills,4.91,0,0,1,71.5125,1.0,107.27,8.5
+Dilsukhnagar,Mehdipatnam,9.89,12,0,0,139.9875,1.0,139.99,7.5
+Dilsukhnagar,Banjara Hills,10.36,1,0,1,146.45,1.0,219.67,2.3
+Mehdipatnam,Secunderabad,14.58,15,0,0,204.475,1.0,204.47,6.8
+Kondapur,Gachibowli,13.54,18,1,0,190.17499999999998,1.2480109618546076,237.34,9.0
+Kondapur,Kukatpally,5.34,10,0,0,77.425,1.0,77.42,9.3
+Kondapur,Kukatpally,2.74,6,0,0,41.675000000000004,1.0,41.68,8.7
+Mehdipatnam,Secunderabad,2.51,1,0,1,38.512499999999996,1.0,57.77,6.1
+Kukatpally,Dilsukhnagar,14.78,4,0,1,207.225,1.0,310.84,3.4
+Secunderabad,Banjara Hills,17.66,0,0,1,246.825,1.0,370.24,5.6
+Mehdipatnam,Dilsukhnagar,3.88,10,0,0,57.349999999999994,1.0,57.35,3.3
+Kondapur,Secunderabad,11.16,19,1,0,157.45000000000002,1.355223042194572,213.38,0.6
+Dilsukhnagar,Mehdipatnam,10.64,13,0,0,150.3,1.0,150.3,7.5
+Kondapur,Kukatpally,5.46,21,0,0,79.07499999999999,1.0,79.07,6.1
+Kukatpally,Banjara Hills,12.66,3,0,1,178.07500000000002,1.0,267.11,3.6
+Ameerpet,Secunderabad,10.74,4,0,1,151.675,1.0,227.51,3.4
+Kukatpally,Banjara Hills,10.57,0,0,1,149.3375,1.0,224.01,0.8
+Ameerpet,Gachibowli,2.79,15,0,0,42.3625,1.0,42.36,8.3
+Banjara Hills,Ameerpet,7.71,7,0,0,110.01249999999999,1.0,110.01,5.7
+Gachibowli,Ameerpet,17.04,14,0,0,238.29999999999998,1.0,238.3,8.7
+Kukatpally,Mehdipatnam,8.72,16,0,0,123.90000000000002,1.0,123.9,4.7
+Gachibowli,Secunderabad,4.65,13,0,0,67.9375,1.0,67.94,3.0
+Dilsukhnagar,Mehdipatnam,15.6,2,0,1,218.5,1.0,327.75,2.7
+Secunderabad,Ameerpet,5.66,10,0,0,81.82500000000002,1.0,81.83,5.8
+Gachibowli,Secunderabad,11.34,19,1,0,159.925,1.3273665091713087,212.28,13.0
+Kukatpally,Mehdipatnam,5.76,5,0,0,83.2,1.0,83.2,9.0
+Ameerpet,Mehdipatnam,4.72,12,0,0,68.9,1.0,68.9,0.6
+Gachibowli,Dilsukhnagar,10.25,8,1,0,144.9375,1.319801842824388,191.29,9.3
+Kukatpally,Ameerpet,6.54,5,0,0,93.925,1.0,93.92,4.1
+Secunderabad,Mehdipatnam,10.42,13,0,0,147.275,1.0,147.28,1.7
+Ameerpet,Dilsukhnagar,12.93,9,1,0,181.7875,1.645976685134446,299.22,11.0
+Ameerpet,Kondapur,10.56,12,0,0,149.20000000000002,1.0,149.2,5.2
+Kukatpally,Gachibowli,16.46,22,0,0,230.32500000000002,1.0,230.33,2.6
+Kukatpally,Kondapur,12.68,14,0,0,178.35,1.0,178.35,7.9
+Dilsukhnagar,Secunderabad,16.26,10,0,0,227.57500000000002,1.0,227.58,4.1
+Ameerpet,Kondapur,16.29,14,0,0,227.98749999999998,1.0,227.99,8.9
+Kukatpally,Banjara Hills,4.77,17,0,0,69.58749999999999,1.0,69.59,3.2
+Banjara Hills,Kukatpally,5.45,1,0,1,78.9375,1.0,118.41,5.2
+Dilsukhnagar,Secunderabad,2.58,4,0,1,39.475,1.0,59.21,3.0
+Kukatpally,Gachibowli,14.84,20,1,0,208.05,1.6478712773142683,342.84,22.3
+Banjara Hills,Ameerpet,6.98,21,0,0,99.97500000000001,1.0,99.98,3.9
+Gachibowli,Dilsukhnagar,6.11,23,0,1,88.01249999999999,1.0,132.02,8.1
+Kondapur,Mehdipatnam,2.54,22,0,0,38.925,1.0,38.92,8.6
+Banjara Hills,Kondapur,5.68,1,0,1,82.1,1.0,123.15,5.3
+Secunderabad,Gachibowli,5.35,18,1,0,77.5625,1.2105870961071634,93.9,12.9
+Gachibowli,Mehdipatnam,8.11,9,1,0,115.5125,1.411025890775285,162.99,13.6
+Ameerpet,Kukatpally,14.54,13,0,0,203.92499999999998,1.0,203.92,4.2
+Kukatpally,Dilsukhnagar,6.18,9,1,0,88.975,1.6445299240331912,146.32,16.5
+Banjara Hills,Kondapur,14.85,1,0,1,208.1875,1.0,312.28,3.0
+Banjara Hills,Dilsukhnagar,1.56,8,1,0,26.0,1.4438437720805972,37.54,21.3
+Gachibowli,Kukatpally,5.91,18,1,0,85.26250000000002,1.5968797231941911,136.15,22.6
+Ameerpet,Gachibowli,5.33,21,0,0,77.2875,1.0,77.29,2.2
+Kukatpally,Ameerpet,1.71,5,0,0,27.5125,1.0,27.51,0.9
+Secunderabad,Banjara Hills,5.31,4,0,1,77.01249999999999,1.0,115.52,5.9
+Mehdipatnam,Secunderabad,16.17,21,0,0,226.33750000000003,1.0,226.34,4.3
+Gachibowli,Mehdipatnam,14.48,7,0,0,203.10000000000002,1.0,203.1,0.9
+Gachibowli,Mehdipatnam,14.82,19,1,0,207.775,1.202463721738469,249.84,0.3
+Kukatpally,Kondapur,12.46,12,0,0,175.32500000000002,1.0,175.33,9.4
+Kukatpally,Secunderabad,5.43,1,0,1,78.6625,1.0,117.99,1.4
+Kukatpally,Ameerpet,14.53,2,0,1,203.7875,1.0,305.68,8.6
+Kondapur,Kukatpally,17.91,20,1,0,250.2625,1.4603328290912876,365.47,18.7
+Mehdipatnam,Gachibowli,13.46,21,0,0,189.07500000000002,1.0,189.08,5.2
+Dilsukhnagar,Banjara Hills,4.37,11,0,0,64.0875,1.0,64.09,4.5
+Gachibowli,Dilsukhnagar,10.94,8,1,0,154.425,1.37210798738832,211.89,7.0
+Mehdipatnam,Kondapur,4.21,1,0,1,61.887499999999996,1.0,92.83,7.9
+Kondapur,Kukatpally,17.59,3,0,1,245.8625,1.0,368.79,6.1
+Banjara Hills,Kukatpally,6.24,20,1,0,89.80000000000001,1.7220149553120994,154.64,15.9
+Secunderabad,Ameerpet,8.59,7,0,0,122.1125,1.0,122.11,1.6
+Kondapur,Secunderabad,6.66,9,1,0,95.575,1.232846989355757,117.83,8.9
+Dilsukhnagar,Kondapur,9.8,3,0,1,138.75,1.0,208.12,2.7
+Ameerpet,Kukatpally,14.34,1,0,1,201.175,1.0,301.76,8.1
+Banjara Hills,Gachibowli,10.58,9,1,0,149.47500000000002,1.3821023454887713,206.59,10.0
+Gachibowli,Secunderabad,9.21,16,0,0,130.63750000000002,1.0,130.64,2.5
+Dilsukhnagar,Kondapur,3.12,16,0,0,46.9,1.0,46.9,1.0
+Secunderabad,Mehdipatnam,11.86,2,0,1,167.075,1.0,250.61,5.4
+Banjara Hills,Dilsukhnagar,15.0,8,1,0,210.25,1.4557909763944208,306.08,8.3
+Mehdipatnam,Kukatpally,14.27,16,0,0,200.2125,1.0,200.21,6.7
+Banjara Hills,Gachibowli,9.89,0,0,1,139.9875,1.0,209.98,2.4
+Secunderabad,Kukatpally,15.68,8,1,0,219.6,1.685656493077689,370.17,20.0
+Kukatpally,Ameerpet,14.21,21,0,0,199.38750000000002,1.0,199.39,2.2
+Kukatpally,Dilsukhnagar,4.75,9,1,0,69.3125,1.2746605247680531,88.35,24.1
+Banjara Hills,Kukatpally,2.97,20,1,0,44.837500000000006,1.3939165499144264,62.5,23.4
+Kondapur,Kukatpally,7.94,5,0,0,113.175,1.0,113.17,6.2
+Kondapur,Mehdipatnam,17.47,20,1,0,244.21249999999998,1.5548110224319256,379.7,18.0
+Kukatpally,Mehdipatnam,9.99,13,0,0,141.3625,1.0,141.36,1.9
+Kukatpally,Banjara Hills,8.91,5,0,0,126.5125,1.0,126.51,0.7
+Kukatpally,Banjara Hills,16.87,16,0,0,235.9625,1.0,235.96,6.9
+Mehdipatnam,Gachibowli,3.27,10,0,0,48.9625,1.0,48.96,7.4
+Gachibowli,Ameerpet,11.96,23,0,1,168.45000000000002,1.0,252.68,9.1
+Mehdipatnam,Banjara Hills,2.78,8,1,0,42.224999999999994,1.320379254087944,55.75,17.9
+Gachibowli,Mehdipatnam,6.56,8,1,0,94.19999999999999,1.7747876119493344,167.18,12.6
+Kondapur,Banjara Hills,11.73,21,0,0,165.28750000000002,1.0,165.29,3.3
+Mehdipatnam,Gachibowli,9.39,5,0,0,133.1125,1.0,133.11,1.9
+Banjara Hills,Kukatpally,5.88,8,1,0,84.85,1.205867628183457,102.32,1.9
+Ameerpet,Mehdipatnam,15.6,14,0,0,218.5,1.0,218.5,9.3
+Secunderabad,Ameerpet,7.41,15,0,0,105.8875,1.0,105.89,4.8
+Mehdipatnam,Secunderabad,9.93,17,0,0,140.5375,1.0,140.54,8.3
+Secunderabad,Kukatpally,9.48,7,0,0,134.35000000000002,1.0,134.35,0.0
+Banjara Hills,Kukatpally,8.46,18,1,0,120.32500000000002,1.7153049500485562,206.39,15.7
+Mehdipatnam,Ameerpet,14.13,21,0,0,198.28750000000002,1.0,198.29,2.3
+Gachibowli,Dilsukhnagar,15.55,20,1,0,217.81250000000003,1.2418144180380717,270.48,1.5
+Ameerpet,Mehdipatnam,12.2,13,0,0,171.75,1.0,171.75,1.7
+Banjara Hills,Ameerpet,16.53,7,0,0,231.28750000000002,1.0,231.29,1.0
+Secunderabad,Ameerpet,15.79,20,1,0,221.11249999999998,1.71030699118624,378.17,21.9
+Mehdipatnam,Secunderabad,12.33,3,0,1,173.5375,1.0,260.31,6.5
+Kondapur,Kukatpally,6.79,12,0,0,97.3625,1.0,97.36,5.1
+Kukatpally,Ameerpet,2.38,16,0,0,36.724999999999994,1.0,36.72,4.8
+Kukatpally,Kondapur,14.14,9,1,0,198.425,1.6543134718091816,328.26,7.6
+Gachibowli,Kukatpally,10.37,15,0,0,146.58749999999998,1.0,146.59,0.5
+Banjara Hills,Gachibowli,14.09,12,0,0,197.7375,1.0,197.74,7.1
+Dilsukhnagar,Kukatpally,5.51,10,0,0,79.76249999999999,1.0,79.76,4.5
+Mehdipatnam,Secunderabad,15.02,15,0,0,210.525,1.0,210.53,6.4
+Mehdipatnam,Secunderabad,6.33,10,0,0,91.03750000000001,1.0,91.04,5.1
+Secunderabad,Gachibowli,17.49,11,0,0,244.48749999999998,1.0,244.49,6.4
+Dilsukhnagar,Ameerpet,3.59,13,0,0,53.3625,1.0,53.36,9.0
+Kondapur,Dilsukhnagar,8.34,14,0,0,118.675,1.0,118.67,2.0
+Secunderabad,Dilsukhnagar,12.1,21,0,0,170.375,1.0,170.38,2.9
+Kondapur,Banjara Hills,7.75,19,1,0,110.5625,1.6627458444199068,183.84,1.0
+Kukatpally,Dilsukhnagar,10.35,7,0,0,146.3125,1.0,146.31,3.5
+Gachibowli,Mehdipatnam,9.3,4,0,1,131.875,1.0,197.81,4.3
+Gachibowli,Dilsukhnagar,2.01,19,1,0,31.637499999999996,1.681321805301514,53.19,8.7
+Mehdipatnam,Dilsukhnagar,4.13,3,0,1,60.787499999999994,1.0,91.18,5.8
+Gachibowli,Mehdipatnam,16.54,16,0,0,231.42499999999998,1.0,231.42,8.2
+Gachibowli,Ameerpet,12.41,10,0,0,174.63750000000002,1.0,174.64,8.3
+Dilsukhnagar,Mehdipatnam,7.29,14,0,0,104.2375,1.0,104.24,5.3
+Kondapur,Banjara Hills,5.48,19,1,0,79.35,1.3492352362743747,107.06,0.4
+Gachibowli,Banjara Hills,11.51,22,0,0,162.2625,1.0,162.26,5.0
+Kondapur,Gachibowli,16.39,18,1,0,229.3625,1.7365092951699428,398.29,5.7
+Ameerpet,Gachibowli,6.61,18,1,0,94.8875,1.6755974860509704,158.99,15.1
+Kondapur,Banjara Hills,2.16,13,0,0,33.7,1.0,33.7,6.2
+Banjara Hills,Ameerpet,1.66,8,1,0,26.825,1.3705729734572756,36.77,14.6
+Gachibowli,Secunderabad,8.85,11,0,0,125.6875,1.0,125.69,9.2
+Secunderabad,Ameerpet,4.04,19,1,0,59.55,1.359612826037281,80.96,14.8
+Mehdipatnam,Gachibowli,3.99,2,0,1,58.862500000000004,1.0,88.29,7.3
+Gachibowli,Dilsukhnagar,4.89,7,0,0,71.2375,1.0,71.24,8.3
+Gachibowli,Ameerpet,9.22,8,1,0,130.77500000000003,1.49426945804157,195.41,3.0
+Gachibowli,Mehdipatnam,5.57,0,0,1,80.5875,1.0,120.88,4.0
+Gachibowli,Banjara Hills,10.08,11,0,0,142.60000000000002,1.0,142.6,4.4
+Kondapur,Banjara Hills,11.42,18,1,0,161.025,1.4328592412064942,230.73,6.1
+Kukatpally,Ameerpet,10.11,7,0,0,143.0125,1.0,143.01,4.3
+Ameerpet,Dilsukhnagar,2.73,9,1,0,41.537499999999994,1.683364973288589,69.92,1.5
+Dilsukhnagar,Gachibowli,10.69,16,0,0,150.9875,1.0,150.99,0.1
+Banjara Hills,Ameerpet,8.64,1,0,1,122.80000000000001,1.0,184.2,6.5
+Banjara Hills,Kondapur,12.29,21,0,0,172.98749999999998,1.0,172.99,3.1
+Gachibowli,Ameerpet,3.0,19,1,0,45.25,1.6536025450644463,74.83,11.3
+Dilsukhnagar,Ameerpet,6.61,4,0,1,94.8875,1.0,142.33,8.4
+Kukatpally,Banjara Hills,5.4,16,0,0,78.25,1.0,78.25,9.7
+Ameerpet,Secunderabad,17.97,22,0,0,251.08749999999998,1.0,251.09,6.1
+Ameerpet,Banjara Hills,2.61,8,1,0,39.887499999999996,1.3468470477821564,53.72,22.0
+Dilsukhnagar,Ameerpet,13.39,22,0,0,188.1125,1.0,188.11,1.1
+Mehdipatnam,Banjara Hills,4.11,4,0,1,60.5125,1.0,90.77,9.1
+Ameerpet,Banjara Hills,2.59,9,1,0,39.6125,1.6206067602570244,64.2,2.8
+Kondapur,Secunderabad,9.62,21,0,0,136.27499999999998,1.0,136.27,8.8
+Kukatpally,Mehdipatnam,9.45,15,0,0,133.9375,1.0,133.94,0.7
+Gachibowli,Dilsukhnagar,4.34,17,0,0,63.675,1.0,63.67,2.8
+Kukatpally,Dilsukhnagar,10.2,22,0,0,144.25,1.0,144.25,4.9
+Kukatpally,Ameerpet,15.8,8,1,0,221.25000000000003,1.7904713302957425,396.14,18.4
+Kukatpally,Ameerpet,12.33,20,1,0,173.5375,1.664803762309079,288.91,6.6
+Banjara Hills,Gachibowli,13.38,23,0,1,187.97500000000002,1.0,281.96,8.9
+Secunderabad,Kondapur,2.77,19,1,0,42.0875,1.5933776472685905,67.06,6.0
+Kondapur,Dilsukhnagar,15.04,14,0,0,210.79999999999998,1.0,210.8,8.2
+Mehdipatnam,Dilsukhnagar,9.12,19,1,0,129.39999999999998,1.3726310606940175,177.62,18.4
+Secunderabad,Kukatpally,15.76,22,0,0,220.7,1.0,220.7,4.4
+Banjara Hills,Mehdipatnam,11.8,5,0,0,166.25000000000003,1.0,166.25,7.6
+Kukatpally,Secunderabad,9.47,11,0,0,134.21250000000003,1.0,134.21,3.5
+Kondapur,Mehdipatnam,7.38,23,0,1,105.475,1.0,158.21,4.8
+Ameerpet,Dilsukhnagar,14.21,11,0,0,199.38750000000002,1.0,199.39,4.0
+Kondapur,Gachibowli,17.69,12,0,0,247.2375,1.0,247.24,7.8
+Kondapur,Ameerpet,5.26,2,0,1,76.32499999999999,1.0,114.49,5.9
+Gachibowli,Kukatpally,9.78,7,0,0,138.475,1.0,138.47,5.6
+Gachibowli,Mehdipatnam,9.83,15,0,0,139.16250000000002,1.0,139.16,8.1
+Dilsukhnagar,Ameerpet,3.66,18,1,0,54.325,1.4793033999164877,80.36,6.6
+Mehdipatnam,Banjara Hills,3.74,9,1,0,55.425,1.249642982092243,69.26,22.9
+Mehdipatnam,Dilsukhnagar,9.6,6,0,0,136.0,1.0,136.0,7.6
+Ameerpet,Kukatpally,17.07,1,0,1,238.7125,1.0,358.07,1.7
+Banjara Hills,Kondapur,9.9,5,0,0,140.125,1.0,140.12,7.8
+Mehdipatnam,Ameerpet,3.27,16,0,0,48.9625,1.0,48.96,9.4
+Mehdipatnam,Banjara Hills,17.11,13,0,0,239.2625,1.0,239.26,4.4
+Ameerpet,Secunderabad,17.47,23,0,1,244.21249999999998,1.0,366.32,8.6
+Kukatpally,Kondapur,10.9,23,0,1,153.875,1.0,230.81,4.2
+Banjara Hills,Gachibowli,8.8,9,1,0,125.00000000000001,1.5263267526966704,190.79,8.5
+Ameerpet,Gachibowli,11.62,22,0,0,163.775,1.0,163.78,1.6
+Gachibowli,Banjara Hills,17.47,13,0,0,244.21249999999998,1.0,244.21,9.1
+Dilsukhnagar,Ameerpet,10.28,4,0,1,145.35,1.0,218.02,0.5
+Mehdipatnam,Banjara Hills,15.74,0,0,1,220.425,1.0,330.64,8.1
+Kondapur,Gachibowli,16.59,17,0,0,232.1125,1.0,232.11,9.3
+Mehdipatnam,Kukatpally,8.02,16,0,0,114.275,1.0,114.28,0.5
+Dilsukhnagar,Kukatpally,13.39,12,0,0,188.1125,1.0,188.11,7.9
+Mehdipatnam,Dilsukhnagar,14.98,5,0,0,209.97500000000002,1.0,209.98,0.0
+Banjara Hills,Dilsukhnagar,2.81,14,0,0,42.6375,1.0,42.64,0.5
+Ameerpet,Dilsukhnagar,8.85,4,0,1,125.6875,1.0,188.53,1.3
+Banjara Hills,Kukatpally,3.93,9,1,0,58.0375,1.4581055450665878,84.62,21.9
+Secunderabad,Kondapur,3.06,0,0,1,46.075,1.0,69.11,9.9
+Gachibowli,Dilsukhnagar,2.33,12,0,0,36.0375,1.0,36.04,1.4
+Gachibowli,Secunderabad,4.93,16,0,0,71.7875,1.0,71.79,9.3
+Gachibowli,Banjara Hills,10.65,11,0,0,150.4375,1.0,150.44,7.2
+Banjara Hills,Secunderabad,3.25,0,0,1,48.6875,1.0,73.03,1.6
+Kukatpally,Ameerpet,4.12,10,0,0,60.65,1.0,60.65,3.6
+Kukatpally,Gachibowli,3.63,13,0,0,53.912499999999994,1.0,53.91,2.7
+Gachibowli,Kukatpally,2.17,19,1,0,33.8375,1.354008354990158,45.82,17.8
+Kukatpally,Kondapur,8.14,4,0,1,115.92500000000001,1.0,173.89,9.7
+Dilsukhnagar,Gachibowli,6.5,22,0,0,93.375,1.0,93.38,0.1
+Banjara Hills,Kondapur,17.55,15,0,0,245.31250000000003,1.0,245.31,6.5
+Gachibowli,Kukatpally,5.56,16,0,0,80.44999999999999,1.0,80.45,6.1
+Ameerpet,Secunderabad,4.93,18,1,0,71.7875,1.3162734780140128,94.49,5.4
+Kukatpally,Banjara Hills,4.62,13,0,0,67.525,1.0,67.53,5.8
+Banjara Hills,Gachibowli,4.61,2,0,1,67.3875,1.0,101.08,5.2
+Secunderabad,Kondapur,5.36,6,0,0,77.7,1.0,77.7,9.2
+Ameerpet,Banjara Hills,17.35,10,0,0,242.56250000000003,1.0,242.56,9.4
+Ameerpet,Dilsukhnagar,12.95,16,0,0,182.0625,1.0,182.06,5.1
+Secunderabad,Mehdipatnam,9.01,21,0,0,127.8875,1.0,127.89,6.8
+Banjara Hills,Mehdipatnam,10.69,13,0,0,150.9875,1.0,150.99,0.4
+Ameerpet,Secunderabad,4.28,3,0,1,62.85,1.0,94.28,6.8
+Gachibowli,Secunderabad,13.33,22,0,0,187.2875,1.0,187.29,8.8
+Banjara Hills,Ameerpet,8.99,3,0,1,127.61250000000001,1.0,191.42,3.9
+Kukatpally,Gachibowli,13.57,20,1,0,190.5875,1.4959484958155915,285.11,14.5
+Kondapur,Mehdipatnam,12.62,11,0,0,177.525,1.0,177.53,3.0
+Secunderabad,Kukatpally,6.42,16,0,0,92.275,1.0,92.28,0.8
+Mehdipatnam,Dilsukhnagar,8.15,18,1,0,116.06250000000001,1.6100606922323504,186.87,17.1
+Secunderabad,Dilsukhnagar,17.79,22,0,0,248.61249999999995,1.0,248.61,5.8
+Kukatpally,Ameerpet,6.17,13,0,0,88.8375,1.0,88.84,9.8
+Gachibowli,Dilsukhnagar,8.49,15,0,0,120.73750000000001,1.0,120.74,8.1
+Dilsukhnagar,Secunderabad,6.09,10,0,0,87.73750000000001,1.0,87.74,8.1
+Gachibowli,Ameerpet,1.8,10,0,0,28.75,1.0,28.75,2.5
+Kukatpally,Gachibowli,12.9,22,0,0,181.375,1.0,181.38,4.7
+Secunderabad,Kondapur,11.15,3,0,1,157.3125,1.0,235.97,5.0
+Banjara Hills,Dilsukhnagar,2.67,6,0,0,40.7125,1.0,40.71,4.2
+Dilsukhnagar,Kondapur,5.69,20,1,0,82.2375,1.3829029015537602,113.73,17.2
+Mehdipatnam,Kondapur,6.43,16,0,0,92.4125,1.0,92.41,0.9
+Kukatpally,Banjara Hills,12.89,20,1,0,181.2375,1.2890899098031705,233.63,13.9
+Dilsukhnagar,Gachibowli,13.61,9,1,0,191.1375,1.598240616416363,305.48,16.6
+Kukatpally,Gachibowli,9.09,20,1,0,128.9875,1.45899612848627,188.19,20.4
+Gachibowli,Ameerpet,10.09,18,1,0,142.7375,1.3365203261618779,190.77,7.0
+Kondapur,Secunderabad,12.05,3,0,1,169.68750000000003,1.0,254.53,4.5
+Kukatpally,Ameerpet,17.27,15,0,0,241.4625,1.0,241.46,7.1
+Kondapur,Gachibowli,5.72,20,1,0,82.64999999999999,1.700144465787442,140.52,4.9
+Kukatpally,Gachibowli,9.07,5,0,0,128.7125,1.0,128.71,6.0
+Gachibowli,Secunderabad,17.98,2,0,1,251.225,1.0,376.84,4.0
+Kondapur,Dilsukhnagar,5.74,16,0,0,82.92500000000001,1.0,82.93,8.5
+Gachibowli,Kukatpally,2.16,11,0,0,33.7,1.0,33.7,3.7
+Kondapur,Dilsukhnagar,15.3,22,0,0,214.37500000000003,1.0,214.38,8.3
+Dilsukhnagar,Gachibowli,6.31,4,0,1,90.76249999999999,1.0,136.14,0.4
+Banjara Hills,Dilsukhnagar,9.96,13,0,0,140.95000000000002,1.0,140.95,7.0
+Ameerpet,Kukatpally,3.81,8,1,0,56.3875,1.7229311138749486,97.15,11.2
+Kukatpally,Kondapur,3.78,18,1,0,55.974999999999994,1.4977936627706274,83.84,10.1
+Gachibowli,Mehdipatnam,8.44,4,0,1,120.05,1.0,180.07,9.6
+Kondapur,Ameerpet,16.9,21,0,0,236.37499999999997,1.0,236.37,6.9
+Dilsukhnagar,Secunderabad,5.98,23,0,1,86.22500000000001,1.0,129.34,6.0
+Gachibowli,Secunderabad,15.81,7,0,0,221.38750000000002,1.0,221.39,4.0
+Ameerpet,Kukatpally,17.53,4,0,1,245.03750000000002,1.0,367.56,7.9
+Kukatpally,Mehdipatnam,12.74,6,0,0,179.175,1.0,179.18,3.3
+Kukatpally,Gachibowli,16.85,19,1,0,235.68750000000003,1.3346215054190915,314.55,12.3
+Banjara Hills,Dilsukhnagar,14.2,17,0,0,199.25,1.0,199.25,8.2
+Ameerpet,Kukatpally,5.45,9,1,0,78.9375,1.67035715307168,131.85,8.1
+Kukatpally,Gachibowli,12.35,15,0,0,173.8125,1.0,173.81,7.3
+Secunderabad,Kondapur,11.61,0,0,1,163.6375,1.0,245.46,2.7
+Gachibowli,Secunderabad,8.55,15,0,0,121.56250000000001,1.0,121.56,0.8
+Mehdipatnam,Gachibowli,5.21,10,0,0,75.63749999999999,1.0,75.64,4.6
+Banjara Hills,Kondapur,14.52,19,1,0,203.65,1.696045457145514,345.4,20.8
+Gachibowli,Kukatpally,15.94,18,1,0,223.175,1.554549655696336,346.94,24.7
+Kukatpally,Secunderabad,2.27,5,0,0,35.2125,1.0,35.21,9.4
+Ameerpet,Mehdipatnam,3.24,17,0,0,48.55,1.0,48.55,4.1
+Ameerpet,Gachibowli,11.9,12,0,0,167.625,1.0,167.62,6.8
+Mehdipatnam,Secunderabad,5.35,23,0,1,77.5625,1.0,116.34,0.3
+Kondapur,Banjara Hills,13.39,22,0,0,188.1125,1.0,188.11,3.9
+Mehdipatnam,Gachibowli,15.04,21,0,0,210.79999999999998,1.0,210.8,0.9
+Ameerpet,Kondapur,11.77,0,0,1,165.8375,1.0,248.76,7.5
+Banjara Hills,Secunderabad,5.19,10,0,0,75.36250000000001,1.0,75.36,9.2
+Ameerpet,Gachibowli,12.58,20,1,0,176.975,1.6320609927234848,288.83,16.9
+Mehdipatnam,Gachibowli,9.57,12,0,0,135.5875,1.0,135.59,4.2
+Kukatpally,Secunderabad,10.11,0,0,1,143.0125,1.0,214.52,4.4
+Gachibowli,Banjara Hills,2.29,15,0,0,35.4875,1.0,35.49,8.9
+Kukatpally,Gachibowli,17.84,7,0,0,249.29999999999998,1.0,249.3,0.1
+Gachibowli,Mehdipatnam,6.14,7,0,0,88.42499999999998,1.0,88.42,1.8
+Kukatpally,Secunderabad,6.66,14,0,0,95.575,1.0,95.58,3.2
+Gachibowli,Banjara Hills,4.6,15,0,0,67.25,1.0,67.25,8.8
+Gachibowli,Banjara Hills,11.44,20,1,0,161.3,1.3073046411046796,210.87,22.5
+Secunderabad,Dilsukhnagar,5.55,19,1,0,80.3125,1.583126236441148,127.14,1.3
+Kondapur,Mehdipatnam,8.73,7,0,0,124.03750000000001,1.0,124.04,6.8
+Ameerpet,Gachibowli,13.54,0,0,1,190.17499999999998,1.0,285.26,5.1
+Kukatpally,Kondapur,3.9,17,0,0,57.625,1.0,57.62,9.0
+Dilsukhnagar,Mehdipatnam,9.56,16,0,0,135.45000000000002,1.0,135.45,5.3
+Secunderabad,Mehdipatnam,15.32,2,0,1,214.65,1.0,321.98,0.4
+Secunderabad,Kukatpally,11.78,22,0,0,165.975,1.0,165.97,5.6
+Kukatpally,Gachibowli,17.58,8,1,0,245.725,1.4629791648198995,359.49,6.6
+Kondapur,Dilsukhnagar,12.87,22,0,0,180.9625,1.0,180.96,1.2
+Gachibowli,Kukatpally,12.81,23,0,1,180.13750000000002,1.0,270.21,0.2
+Mehdipatnam,Dilsukhnagar,10.89,7,0,0,153.7375,1.0,153.74,7.5
+Gachibowli,Kondapur,13.32,12,0,0,187.15,1.0,187.15,7.2
+Gachibowli,Ameerpet,15.52,22,0,0,217.4,1.0,217.4,6.2
+Kondapur,Secunderabad,9.76,8,1,0,138.2,1.6027329338077907,221.5,0.8
+Kondapur,Kukatpally,15.29,4,0,1,214.23749999999998,1.0,321.36,3.4
+Kondapur,Secunderabad,6.82,7,0,0,97.775,1.0,97.78,5.3
+Banjara Hills,Ameerpet,11.03,0,0,1,155.6625,1.0,233.49,9.6
+Kondapur,Gachibowli,2.38,2,0,1,36.724999999999994,1.0,55.09,1.7
+Ameerpet,Mehdipatnam,10.67,2,0,1,150.7125,1.0,226.07,0.9
+Dilsukhnagar,Kukatpally,13.83,16,0,0,194.1625,1.0,194.16,6.2
+Banjara Hills,Gachibowli,10.9,18,1,0,153.875,1.7294821169658814,266.12,14.6
+Gachibowli,Kukatpally,9.12,12,0,0,129.39999999999998,1.0,129.4,6.9
+Ameerpet,Gachibowli,6.07,0,0,1,87.4625,1.0,131.19,1.0
+Secunderabad,Mehdipatnam,10.75,7,0,0,151.8125,1.0,151.81,0.5
+Ameerpet,Mehdipatnam,10.64,3,0,1,150.3,1.0,225.45,4.8
+Dilsukhnagar,Banjara Hills,3.02,12,0,0,45.525,1.0,45.52,3.7
+Ameerpet,Dilsukhnagar,8.88,15,0,0,126.10000000000002,1.0,126.1,0.6
+Dilsukhnagar,Mehdipatnam,12.97,1,0,1,182.3375,1.0,273.51,4.3
+Kondapur,Mehdipatnam,10.64,18,1,0,150.3,1.3064456820727095,196.36,2.7
+Banjara Hills,Kondapur,16.82,5,0,0,235.275,1.0,235.28,1.0
+Mehdipatnam,Gachibowli,16.91,10,0,0,236.51250000000002,1.0,236.51,8.1
+Secunderabad,Ameerpet,17.33,8,1,0,242.2875,1.6860840544472768,408.52,2.2
+Secunderabad,Kondapur,16.59,18,1,0,232.1125,1.5991637017421465,371.19,2.0
+Banjara Hills,Ameerpet,4.2,23,0,1,61.75,1.0,92.62,9.9
+Kukatpally,Gachibowli,8.84,19,1,0,125.55,1.6449826911705725,206.53,7.6
+Gachibowli,Kondapur,4.11,8,1,0,60.5125,1.689212774313337,102.22,22.2
+Secunderabad,Gachibowli,10.82,13,0,0,152.775,1.0,152.78,2.6
+Kondapur,Kukatpally,16.22,19,1,0,227.02499999999998,1.2087204811595944,274.41,2.0
+Kondapur,Banjara Hills,16.95,6,0,0,237.0625,1.0,237.06,6.2
+Banjara Hills,Secunderabad,7.74,12,0,0,110.42500000000001,1.0,110.43,7.2
+Secunderabad,Dilsukhnagar,13.19,0,0,1,185.3625,1.0,278.04,3.0
+Kondapur,Kukatpally,5.29,9,1,0,76.7375,1.404628723698374,107.79,20.1
+Mehdipatnam,Secunderabad,10.05,1,0,1,142.1875,1.0,213.28,6.3
+Ameerpet,Gachibowli,12.03,14,0,0,169.4125,1.0,169.41,9.4
+Secunderabad,Banjara Hills,7.14,21,0,0,102.17499999999998,1.0,102.17,5.0
+Kondapur,Gachibowli,7.97,0,0,1,113.58749999999999,1.0,170.38,4.3
+Mehdipatnam,Ameerpet,13.5,2,0,1,189.625,1.0,284.44,1.5
+Secunderabad,Banjara Hills,12.74,22,0,0,179.175,1.0,179.18,2.6
+Banjara Hills,Dilsukhnagar,3.53,8,1,0,52.537499999999994,1.6023243039036545,84.18,8.0
+Kondapur,Secunderabad,17.85,17,0,0,249.4375,1.0,249.44,2.6
+Mehdipatnam,Kukatpally,5.18,16,0,0,75.225,1.0,75.22,6.2
+Kukatpally,Gachibowli,9.08,4,0,1,128.85000000000002,1.0,193.28,5.9
+Kukatpally,Gachibowli,12.28,10,0,0,172.85,1.0,172.85,5.7
+Banjara Hills,Kukatpally,7.79,6,0,0,111.1125,1.0,111.11,7.2
+Secunderabad,Kondapur,15.6,11,0,0,218.5,1.0,218.5,9.4
+Kondapur,Ameerpet,10.75,15,0,0,151.8125,1.0,151.81,2.0
+Kukatpally,Banjara Hills,4.9,5,0,0,71.375,1.0,71.38,5.3
+Dilsukhnagar,Gachibowli,4.92,21,0,0,71.65,1.0,71.65,6.9
+Gachibowli,Dilsukhnagar,15.84,2,0,1,221.8,1.0,332.7,4.4
+Mehdipatnam,Ameerpet,9.17,14,0,0,130.0875,1.0,130.09,8.4
+Banjara Hills,Mehdipatnam,15.8,17,0,0,221.25000000000003,1.0,221.25,1.2
+Ameerpet,Gachibowli,6.5,8,1,0,93.375,1.350049481348365,126.06,20.9
+Mehdipatnam,Ameerpet,3.73,9,1,0,55.287499999999994,1.4463136706108568,79.96,5.8
+Gachibowli,Ameerpet,4.75,15,0,0,69.3125,1.0,69.31,0.1
+Banjara Hills,Ameerpet,8.14,11,0,0,115.92500000000001,1.0,115.93,1.9
+Kukatpally,Kondapur,7.4,6,0,0,105.75000000000001,1.0,105.75,6.0
+Banjara Hills,Mehdipatnam,13.86,7,0,0,194.575,1.0,194.57,8.9
+Kukatpally,Banjara Hills,10.47,17,0,0,147.96250000000003,1.0,147.96,4.4
+Secunderabad,Ameerpet,7.91,5,0,0,112.7625,1.0,112.76,0.5
+Mehdipatnam,Kukatpally,10.57,2,0,1,149.3375,1.0,224.01,1.0
+Secunderabad,Mehdipatnam,4.97,10,0,0,72.3375,1.0,72.34,9.4
+Kondapur,Dilsukhnagar,3.98,8,1,0,58.725,1.3651416635586735,80.17,1.9
+Kondapur,Dilsukhnagar,9.47,6,0,0,134.21250000000003,1.0,134.21,7.1
+Gachibowli,Kondapur,5.75,19,1,0,83.0625,1.444777561323436,120.01,8.1
