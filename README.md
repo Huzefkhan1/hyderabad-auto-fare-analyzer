@@ -1,6 +1,6 @@
 # 🛺 Hyderabad Auto Fare Analyzer
 
-Exploratory data analysis of auto-rickshaw fares in Hyderabad, with an interactive Streamlit app to explore the data.
+Exploratory data analysis of auto-rickshaw fares in Hyderabad, with an interactive Streamlit app that estimates the fare for a trip.
 
 ## 📌 Data
 
@@ -9,7 +9,16 @@ Exploratory data analysis of auto-rickshaw fares in Hyderabad, with an interacti
 ## ⚙️ Approach
 
 - Explored and analysed the fare data (EDA) in Python
-- Built a Streamlit app (`app.py`) to explore the results interactively
+- Looked at how fares change across the hours of the day, including peak hours
+- Built a Streamlit app (`app.py`) so anyone can try it
+
+## 🚀 App Features
+
+- Choose a **pickup** and a **drop** location
+- Pick the **hour of the day** with a slider (0 to 23)
+- See the **estimated fare** for that trip
+- See whether the chosen hour is a **peak hour**
+- View a table of the fare at every hour of the day
 
 ## 🛠️ Tech Stack
 
@@ -19,9 +28,14 @@ Exploratory data analysis of auto-rickshaw fares in Hyderabad, with an interacti
 
 ## 📷 Screenshots
 
-<!-- Replace the file names below with the actual names of the images inside your screenshots folder:
-![App screenshot](screenshots/your_image_name.png)
--->
+### Streamlit App
+![App Screenshot](screenshots/app.png)
+
+### Peak Hour Surge Analysis
+![Peak Surge](screenshots/peak_surge.png)
+
+### Hourly Fare Trend
+![Hourly Trend](screenshots/hourly_trend.png)
 
 ## ▶️ Run it locally
 
